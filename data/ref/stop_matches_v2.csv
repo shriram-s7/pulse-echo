@@ -1,0 +1,556 @@
+station_id,stop_name,cand_reason,stop_lat,stop_lon,geo_source,straight_m,pax_day,radius,treat,group,stop_id,walk_m,walk_min
+ag-dms,DMS,name+fuzzy,13.046926,80.248291,excel,227,11324.0,400.0,True,treatment,dms,295.0,4.1
+ag-dms,DMS METRO,name+fuzzy,13.046926,80.248291,excel,227,158.25,400.0,True,treatment,dms-metro,295.0,4.1
+airport,AIRPORT METRO,name,12.982118720720722,80.16553,station_proxy,80,1392.0,400.0,True,treatment,airport-metro,104.0,1.44
+airport,CHENNAI AIRPORT,name,12.982118720720722,80.16553,station_proxy,80,2842.25,400.0,True,treatment,chennai-airport,104.0,1.44
+airport,MEENAMBAKKAM OLD AIRPORT,name,12.982118720720722,80.16553,station_proxy,80,3670.25,400.0,True,treatment,meenambakkam-old-airport,104.0,1.44
+airport,TIRUSULAM AIRPORT,name,12.982118720720722,80.16553,station_proxy,80,5074.0,400.0,True,treatment,tirusulam-airport,104.0,1.44
+alandur,ALANDUR METRO RS,name+fuzzy,13.0041772,80.2012221,excel,34,513.5,400.0,True,treatment,alandur-metro-rs,44.0,0.61
+alandur,MALANTHUR,name,13.004975720720722,80.201523,station_proxy,80,155.25,400.0,True,treatment,malanthur,104.0,1.44
+anna-nagar-east,AAR COLONY,fuzzy,13.08231,80.21747,excel,284,42.5,400.0,True,treatment,aar-colony,369.0,5.12
+anna-nagar-east,ANNA NAGAR COLONY,name+fuzzy,13.084613,80.219903,excel,119,203.25,400.0,True,treatment,anna-nagar-colony,155.0,2.15
+anna-nagar-east,ANNA NAGAR EAST,name+fuzzy,13.084613,80.219903,excel,119,3371.5,400.0,True,treatment,anna-nagar-east,155.0,2.15
+anna-nagar-east,ANNA NAGAR ROUNTANA,name+fuzzy,13.084613,80.219903,excel,119,7961.25,400.0,True,treatment,anna-nagar-rountana,155.0,2.15
+anna-nagar-east,ANNA NAGAR TOWER METRO,name+fuzzy,13.084613,80.219903,excel,119,22.25,400.0,True,treatment,anna-nagar-tower-metro,155.0,2.15
+anna-nagar-east,ANNA NAGAR WEST,name+fuzzy,13.084613,80.219903,excel,119,360.25,400.0,True,treatment,anna-nagar-west,155.0,2.15
+anna-nagar-east,ANNAI SATHYA NAGAR,fuzzy,13.084613,80.219903,excel,119,102.5,400.0,True,treatment,annai-sathya-nagar,155.0,2.15
+anna-nagar-east,KANADASAN NAGAR,fuzzy,13.0844765,80.2199401,excel,123,232.25,400.0,True,treatment,kanadasan-nagar,160.0,2.22
+anna-nagar-east,KANNAN NAGAR,fuzzy,13.0844765,80.2199401,excel,123,14.75,400.0,True,treatment,kannan-nagar,160.0,2.22
+anna-nagar-east,KKANNADASAN NAGAR,fuzzy,13.084613,80.219903,excel,119,7133.0,400.0,True,treatment,kkannadasan-nagar,155.0,2.15
+anna-nagar-east,MR NAGAR,fuzzy,13.084613,80.219903,excel,119,38.25,400.0,True,treatment,mr-nagar,155.0,2.15
+anna-nagar-east,SBI COLONY,fuzzy,13.08231,80.21747,excel,284,219.25,400.0,True,treatment,sbi-colony,369.0,5.12
+anna-nagar-tower,ANNA NAGAR COLONY,name,13.085579720720721,80.209086,station_proxy,80,203.25,400.0,True,treatment,anna-nagar-colony,104.0,1.44
+anna-nagar-tower,ANNA NAGAR EAST,name+fuzzy,13.084823649411,80.209459662437,excel,41,3371.5,400.0,True,treatment,anna-nagar-east,53.0,0.74
+anna-nagar-tower,ANNA NAGAR TOWER METRO,name,13.085579720720721,80.209086,station_proxy,80,22.25,400.0,True,treatment,anna-nagar-tower-metro,104.0,1.44
+anna-nagar-tower,ANNA NAGAR WEST,name+fuzzy,13.084823649411,80.209459662437,excel,41,360.25,400.0,True,treatment,anna-nagar-west,53.0,0.74
+anna-nagar-tower,MR NAGAR,fuzzy,13.084823649411,80.209459662437,excel,41,38.25,400.0,True,treatment,mr-nagar,53.0,0.74
+arumbakkam,AAR COLONY,fuzzy,13.06508,80.211313,excel,346,42.5,400.0,True,treatment,aar-colony,450.0,6.25
+arumbakkam,ARUMBAKKAM,name,13.062693720720722,80.211686,station_proxy,80,6170.75,400.0,True,treatment,arumbakkam,104.0,1.44
+arumbakkam,KARUMBAKKAM,name,13.062693720720722,80.211686,station_proxy,80,58.5,400.0,True,treatment,karumbakkam,104.0,1.44
+arumbakkam,MADHA COLLEGE ROAD JN,fuzzy,13.06508,80.211313,excel,346,21.25,400.0,True,treatment,madha-college-road-jn,450.0,6.25
+arumbakkam,MEYYUR ARUMBAKKAM,name,13.062693720720722,80.211686,station_proxy,80,58.5,400.0,True,treatment,meyyur-arumbakkam,104.0,1.44
+arumbakkam,MMDACOLONY RD JN,fuzzy,13.063512011107,80.211511552334,excel,171,14216.5,400.0,True,treatment,mmdacolony-rd-jn,222.0,3.08
+arumbakkam,SBI COLONY,fuzzy,13.06508,80.211313,excel,346,219.25,400.0,True,treatment,sbi-colony,450.0,6.25
+ashok-nagar,ACS HOSPITAL,fuzzy,13.035223773683,80.20877140767,excel,258,30.5,400.0,True,treatment,acs-hospital,335.0,4.65
+ashok-nagar,ASHOK NAGAR METRO RS,name+fuzzy,13.032582,80.211928,excel,327,1330.25,400.0,True,treatment,ashok-nagar-metro-rs,425.0,5.9
+ashok-nagar,ASHOK PILLAR,fuzzy,13.035086,80.211062,excel,39,169.25,400.0,True,treatment,ashok-pillar,51.0,0.71
+ashok-nagar,EKKADU CSI HOSPITAL,fuzzy,13.035223773683,80.20877140767,excel,258,121.5,400.0,True,treatment,ekkadu-csi-hospital,335.0,4.65
+ashok-nagar,II ND MAIN ROAD,fuzzy,13.0319,80.211212,excel,391,181.75,400.0,True,treatment,ii-nd-main-road,508.0,7.06
+ashok-nagar,KKNAGAR,fuzzy,13.035223773683,80.20877140767,excel,258,5293.0,400.0,True,treatment,kknagar,335.0,4.65
+ashok-nagar,KKNAGAR BT,fuzzy,13.035223773683,80.20877140767,excel,258,3126.25,400.0,True,treatment,kknagar-bt,335.0,4.65
+ashok-nagar,MR NAGAR,fuzzy,13.032582,80.211928,excel,327,38.25,400.0,True,treatment,mr-nagar,425.0,5.9
+ashok-nagar,NASHIK NAGAR,fuzzy,13.032582,80.211928,excel,327,2.25,400.0,True,treatment,nashik-nagar,425.0,5.9
+ashok-nagar,SHAKTHI NAGAR,fuzzy,13.032582,80.211928,excel,327,93.0,400.0,True,treatment,shakthi-nagar,425.0,5.9
+ashok-nagar,TB HOSPITAL,fuzzy,13.035223773683,80.20877140767,excel,258,4.25,400.0,True,treatment,tb-hospital,335.0,4.65
+central,ACS HOSPITAL,fuzzy,13.08175049,80.276663,excel,290,30.5,400.0,True,treatment,acs-hospital,377.0,5.24
+central,CENTRAL DEPOT,name,13.082244720720722,80.273996,station_proxy,80,6.5,400.0,True,treatment,central-depot,104.0,1.44
+central,EB STATION,fuzzy,13.081794358141,80.274126380682,excel,33,0.5,400.0,True,treatment,eb-station,43.0,0.6
+central,FIRE STATION,fuzzy,13.081794358141,80.274126380682,excel,33,2030.0,400.0,True,treatment,fire-station,43.0,0.6
+central,FORT STATION,fuzzy,13.081794358141,80.274126380682,excel,33,88.0,400.0,True,treatment,fort-station,43.0,0.6
+central,GOVERNMENT SCHOOL HOSPITAL,fuzzy,13.08175049,80.276663,excel,290,243.0,400.0,True,treatment,government-school-hospital,377.0,5.24
+central,JJ NAGAR POLICE STATION,fuzzy,13.0831803,80.2707428,excel,397,10.25,400.0,True,treatment,jj-nagar-police-station,516.0,7.17
+central,JN OF CENTRAL AVENUE AND ERIKARAI,name,13.082244720720722,80.273996,station_proxy,80,175.5,400.0,True,treatment,jn-of-central-avenue-and-erikarai,104.0,1.44
+central,MGRCENTRAL,name+fuzzy,13.08201253,80.27560345,excel,182,70176.25,400.0,True,treatment,mgrcentral,237.0,3.29
+central,MGRCENTRAL METRO RS,name+fuzzy,13.08201253,80.27560345,excel,182,284.5,400.0,True,treatment,mgrcentral-metro-rs,237.0,3.29
+central,N4 POLICE STATION,fuzzy,13.0831803,80.2707428,excel,397,2577.5,400.0,True,treatment,n4-police-station,516.0,7.17
+central,ORAGADAM POLICE STATION,fuzzy,13.0831803,80.2707428,excel,397,2.5,400.0,True,treatment,oragadam-police-station,516.0,7.17
+central,TB HOSPITAL,fuzzy,13.08175049,80.276663,excel,290,4.25,400.0,True,treatment,tb-hospital,377.0,5.24
+central,TV STATION,fuzzy,13.081794358141,80.274126380682,excel,33,4.25,400.0,True,treatment,tv-station,43.0,0.6
+cmbt,AIR NAGAR,fuzzy,13.069181,80.206674,excel,315,125.5,400.0,True,treatment,air-nagar,410.0,5.69
+cmbt,EB STATION,fuzzy,13.068775315002,80.200342297685,excel,379,0.5,400.0,True,treatment,eb-station,493.0,6.85
+cmbt,JJ NAGAR POLICE STATION,fuzzy,13.068775315002,80.200342297685,excel,379,10.25,400.0,True,treatment,jj-nagar-police-station,493.0,6.85
+cmbt,KOYAMBEDU PS,name+fuzzy,13.068775315002,80.200342297685,excel,379,145.25,400.0,True,treatment,koyambedu-ps,493.0,6.85
+cmbt,MGRKOYAMBEDU,name+fuzzy,13.06941,80.20553,excel,205,57696.75,400.0,True,treatment,mgrkoyambedu,266.0,3.69
+cmbt,MR NAGAR,fuzzy,13.069181,80.206674,excel,315,38.25,400.0,True,treatment,mr-nagar,410.0,5.69
+cmbt,N4 POLICE STATION,fuzzy,13.068775315002,80.200342297685,excel,379,2577.5,400.0,True,treatment,n4-police-station,493.0,6.85
+cmbt,ORAGADAM POLICE STATION,fuzzy,13.068775315002,80.200342297685,excel,379,2.5,400.0,True,treatment,oragadam-police-station,493.0,6.85
+cmbt,PANAGAL PARK,fuzzy,13.069181,80.206674,excel,315,32.5,400.0,True,treatment,panagal-park,410.0,5.69
+cmbt,TV STATION,fuzzy,13.068775315002,80.200342297685,excel,379,4.25,400.0,True,treatment,tv-station,493.0,6.85
+egmore,COLLEGE ROAD,fuzzy,13.079491,80.259857,excel,124,296.0,400.0,True,treatment,college-road,161.0,2.24
+egmore,EB STATION,fuzzy,13.079467826727,80.26281952858,excel,218,0.5,400.0,True,treatment,eb-station,283.0,3.93
+egmore,EGMORE MUSEUM,name+fuzzy,13.07838218,80.26362668,excel,306,110.75,400.0,True,treatment,egmore-museum,398.0,5.53
+egmore,EGMORE NORTH RS,name+fuzzy,13.07964,80.261255,excel,85,884.5,400.0,True,treatment,egmore-north-rs,110.0,1.53
+egmore,EGMORE RS,name+fuzzy,13.07964,80.261255,excel,85,13660.25,400.0,True,treatment,egmore-rs,110.0,1.53
+egmore,LOYOLA COLLEGE,fuzzy,13.079491,80.259857,excel,124,39.0,400.0,True,treatment,loyola-college,161.0,2.24
+egmore,TV STATION,fuzzy,13.079467826727,80.26281952858,excel,218,4.25,400.0,True,treatment,tv-station,283.0,3.93
+ekkattuthangal,BUTT ROAD,fuzzy,13.01387388554,80.203948795697,excel,321,3011.5,400.0,True,treatment,butt-road,417.0,5.79
+ekkattuthangal,EKKATTUTHANGAL,name+fuzzy,13.018683696826,80.205908954176,excel,254,89.75,400.0,True,treatment,ekkattuthangal,330.0,4.58
+ekkattuthangal,GUINDY,fuzzy,13.014973616467,80.204542636675,excel,183,1169.25,400.0,True,treatment,guindy,238.0,3.31
+ekkattuthangal,GUINDY CIPET,fuzzy,13.014973616467,80.204542636675,excel,183,7995.75,400.0,True,treatment,guindy-cipet,238.0,3.31
+ekkattuthangal,GUINDY GH,fuzzy,13.014973616467,80.204542636675,excel,183,433.25,400.0,True,treatment,guindy-gh,238.0,3.31
+ekkattuthangal,GUINDY METRO,fuzzy,13.014973616467,80.204542636675,excel,183,437.25,400.0,True,treatment,guindy-metro,238.0,3.31
+ekkattuthangal,GUINDY RS,fuzzy,13.014973616467,80.204542636675,excel,183,9096.0,400.0,True,treatment,guindy-rs,238.0,3.31
+government-estate,ACS HOSPITAL,fuzzy,13.070539019861,80.27396813035,excel,73,30.5,400.0,True,treatment,acs-hospital,95.0,1.32
+government-estate,AMBATTUR ESTATE POLICE STATION,fuzzy,13.067833,80.272579,excel,274,606.0,400.0,True,treatment,ambattur-estate-police-station,356.0,4.94
+government-estate,D1 POLICE STATION DAMS ROAD,fuzzy,13.067833,80.272579,excel,274,5007.75,400.0,True,treatment,d1-police-station-dams-road,356.0,4.94
+government-estate,EB STATION,fuzzy,13.067833,80.272579,excel,274,0.5,400.0,True,treatment,eb-station,356.0,4.94
+government-estate,GOVT ESTATE METRO RS,name,13.07089772072072,80.273405,station_proxy,80,25449.25,400.0,True,treatment,govt-estate-metro-rs,104.0,1.44
+government-estate,JJ NAGAR POLICE STATION,fuzzy,13.067833,80.272579,excel,274,10.25,400.0,True,treatment,jj-nagar-police-station,356.0,4.94
+government-estate,N4 POLICE STATION,fuzzy,13.067833,80.272579,excel,274,2577.5,400.0,True,treatment,n4-police-station,356.0,4.94
+government-estate,ORAGADAM POLICE STATION,fuzzy,13.067833,80.272579,excel,274,2.5,400.0,True,treatment,oragadam-police-station,356.0,4.94
+government-estate,P1 PULIYANTHOPE POLICE STATION,fuzzy,13.067833,80.272579,excel,274,10074.25,400.0,True,treatment,p1-puliyanthope-police-station,356.0,4.94
+government-estate,PERAVALLUR POLICE STATION,fuzzy,13.067833,80.272579,excel,274,0.25,400.0,True,treatment,peravallur-police-station,356.0,4.94
+government-estate,TB HOSPITAL,fuzzy,13.070539019861,80.27396813035,excel,73,4.25,400.0,True,treatment,tb-hospital,95.0,1.32
+government-estate,TV STATION,fuzzy,13.067833,80.272579,excel,274,4.25,400.0,True,treatment,tv-station,356.0,4.94
+guindy,GUINDY,name+fuzzy,13.00938,80.213,excel,36,1169.25,400.0,True,treatment,guindy,47.0,0.65
+guindy,GUINDY CIPET,name+fuzzy,13.00938,80.213,excel,36,7995.75,400.0,True,treatment,guindy-cipet,47.0,0.65
+guindy,GUINDY GH,name+fuzzy,13.00938,80.213,excel,36,433.25,400.0,True,treatment,guindy-gh,47.0,0.65
+guindy,GUINDY METRO,name+fuzzy,13.00938,80.213,excel,36,437.25,400.0,True,treatment,guindy-metro,47.0,0.65
+guindy,GUINDY MKN SALAI,name+fuzzy,13.008180703467,80.213333845204,excel,134,7088.75,400.0,True,treatment,guindy-mkn-salai,174.0,2.42
+guindy,GUINDY RS,name+fuzzy,13.00938,80.213,excel,36,9096.0,400.0,True,treatment,guindy-rs,47.0,0.65
+guindy,GUINDY TVK ESTATE,name+fuzzy,13.008180703467,80.213333845204,excel,134,18695.0,400.0,True,treatment,guindy-tvk-estate,174.0,2.42
+high-court,BROADWAY,name+fuzzy,13.087127923664,80.285124778748,excel,19,260.75,400.0,True,treatment,broadway,25.0,0.35
+high-court,EB STATION,fuzzy,13.085023510786,80.283861458302,excel,277,0.5,400.0,True,treatment,eb-station,360.0,5.0
+high-court,FORT STATION,name+fuzzy,13.085023510786,80.283861458302,excel,277,88.0,400.0,True,treatment,fort-station,360.0,5.0
+high-court,HIGH COURT,name+fuzzy,13.08526,80.28444,excel,230,17.5,400.0,True,treatment,high-court,299.0,4.15
+high-court,HIGH COURT SOUTH GATE,name+fuzzy,13.08526,80.28444,excel,230,39.0,400.0,True,treatment,high-court-south-gate,299.0,4.15
+high-court,TV STATION,fuzzy,13.085023510786,80.283861458302,excel,277,4.25,400.0,True,treatment,tv-station,360.0,5.0
+kaladipet,EB STATION,fuzzy,13.15386465,80.30038153,excel,353,0.5,400.0,True,treatment,eb-station,459.0,6.38
+kaladipet,IRANKUPPAM,fuzzy,13.149213721063,80.302600711584,excel,384,120.75,400.0,True,treatment,irankuppam,499.0,6.93
+kaladipet,JJ NAGAR POLICE STATION,fuzzy,13.15386465,80.30038153,excel,353,10.25,400.0,True,treatment,jj-nagar-police-station,459.0,6.38
+kaladipet,N4 POLICE STATION,fuzzy,13.15386465,80.30038153,excel,353,2577.5,400.0,True,treatment,n4-police-station,459.0,6.38
+kaladipet,ORAGADAM POLICE STATION,fuzzy,13.15386465,80.30038153,excel,353,2.5,400.0,True,treatment,oragadam-police-station,459.0,6.38
+kaladipet,THANDALAM,fuzzy,13.14795,80.29819,excel,344,275.75,400.0,True,treatment,thandalam,447.0,6.21
+kaladipet,THANGAL,fuzzy,13.14795,80.29819,excel,344,13558.25,400.0,True,treatment,thangal,447.0,6.21
+kaladipet,THANGAL ERIKKARAI,fuzzy,13.14795,80.29819,excel,344,6.75,400.0,True,treatment,thangal-erikkarai,447.0,6.21
+kaladipet,THANGAL TOLLGATE,fuzzy,13.14795,80.29819,excel,344,2932.25,400.0,True,treatment,thangal-tollgate,447.0,6.21
+kaladipet,THATHANKUPPAM,fuzzy,13.149213721063,80.302600711584,excel,384,4158.75,400.0,True,treatment,thathankuppam,499.0,6.93
+kaladipet,THAZHANKUPPAM,fuzzy,13.149213721063,80.302600711584,excel,384,2924.5,400.0,True,treatment,thazhankuppam,499.0,6.93
+kaladipet,TV STATION,fuzzy,13.15386465,80.30038153,excel,353,4.25,400.0,True,treatment,tv-station,459.0,6.38
+kilpauk,ACS HOSPITAL,fuzzy,13.07791,80.24411,excel,168,30.5,400.0,True,treatment,acs-hospital,218.0,3.03
+kilpauk,ADYAR SIGNAL MALAR HOSPITAL,fuzzy,13.07791,80.24411,excel,168,5766.0,400.0,True,treatment,adyar-signal-malar-hospital,218.0,3.03
+kilpauk,AROCKIYA HOSPITAL,fuzzy,13.07791,80.24411,excel,168,103.25,400.0,True,treatment,arockiya-hospital,218.0,3.03
+kilpauk,BILLROTH HOSPITAL,fuzzy,13.07791,80.24411,excel,168,0.25,400.0,True,treatment,billroth-hospital,218.0,3.03
+kilpauk,CANCER HOSPITAL SCAN CENTRE,fuzzy,13.07791,80.24411,excel,168,41.25,400.0,True,treatment,cancer-hospital-scan-centre,218.0,3.03
+kilpauk,EKKADU CSI HOSPITAL,fuzzy,13.07791,80.24411,excel,168,121.5,400.0,True,treatment,ekkadu-csi-hospital,218.0,3.03
+kilpauk,GANDHI STATUE GOVT HOSPITAL,fuzzy,13.07791,80.24411,excel,168,774.5,400.0,True,treatment,gandhi-statue-govt-hospital,218.0,3.03
+kilpauk,GOVERNMENT SCHOOL HOSPITAL,fuzzy,13.07791,80.24411,excel,168,243.0,400.0,True,treatment,government-school-hospital,218.0,3.03
+kilpauk,KALIYAPPA HOSPITAL,fuzzy,13.07791,80.24411,excel,168,8.0,400.0,True,treatment,kaliyappa-hospital,218.0,3.03
+kilpauk,KAMATCHI HOSPITAL,fuzzy,13.07791,80.24411,excel,168,2291.0,400.0,True,treatment,kamatchi-hospital,218.0,3.03
+kilpauk,KANNAN THEATRE,fuzzy,13.077377718027,80.24049282074,excel,230,97.0,400.0,True,treatment,kannan-theatre,299.0,4.15
+kilpauk,KILPAUK GARDEN,name,13.078256720720722,80.24261,station_proxy,80,4633.25,400.0,True,treatment,kilpauk-garden,104.0,1.44
+kilpauk,KMC,fuzzy,13.07791,80.24411,excel,168,3637.0,400.0,True,treatment,kmc,218.0,3.03
+kilpauk,MATERNITY HOSPITAL,fuzzy,13.07791,80.24411,excel,168,3294.25,400.0,True,treatment,maternity-hospital,218.0,3.03
+kilpauk,MEPPEDU HOSPITAL,fuzzy,13.07791,80.24411,excel,168,1369.5,400.0,True,treatment,meppedu-hospital,218.0,3.03
+kilpauk,MOTCHAM THEATRE,fuzzy,13.077377718027,80.24049282074,excel,230,3969.0,400.0,True,treatment,motcham-theatre,299.0,4.15
+kilpauk,NATURE CARE HOSPITAL,fuzzy,13.07791,80.24411,excel,168,259.0,400.0,True,treatment,nature-care-hospital,218.0,3.03
+kilpauk,ROYAPETTA HOSPITAL,fuzzy,13.07791,80.24411,excel,168,1594.75,400.0,True,treatment,royapetta-hospital,218.0,3.03
+kilpauk,SAIDAPET WEST JAYARAJ THEATRE,fuzzy,13.077377718027,80.24049282074,excel,230,228.5,400.0,True,treatment,saidapet-west-jayaraj-theatre,299.0,4.15
+kilpauk,SARAVANA THEATRE,fuzzy,13.077377718027,80.24049282074,excel,230,3246.5,400.0,True,treatment,saravana-theatre,299.0,4.15
+kilpauk,SRINIVASA THEATRE,fuzzy,13.077377718027,80.24049282074,excel,230,3434.5,400.0,True,treatment,srinivasa-theatre,299.0,4.15
+kilpauk,SUN THEATRE,fuzzy,13.077377718027,80.24049282074,excel,230,370.25,400.0,True,treatment,sun-theatre,299.0,4.15
+kilpauk,TB HOSPITAL,fuzzy,13.07791,80.24411,excel,168,4.25,400.0,True,treatment,tb-hospital,218.0,3.03
+kilpauk,VARADHARAJA THEATRE,fuzzy,13.077377718027,80.24049282074,excel,230,230.25,400.0,True,treatment,varadharaja-theatre,299.0,4.15
+kilpauk,VETERINARY HOSPITAL,fuzzy,13.07791,80.24411,excel,168,9431.0,400.0,True,treatment,veterinary-hospital,218.0,3.03
+kilpauk,WESLLEY HOSPITAL,fuzzy,13.07791,80.24411,excel,168,313.0,400.0,True,treatment,weslley-hospital,218.0,3.03
+koyambedu,ROHINI THEATER,fuzzy,13.07503,80.19558,excel,190,620.25,400.0,True,treatment,rohini-theater,247.0,3.43
+koyambedu,SRINIVASA THEATRE,fuzzy,13.07503,80.19558,excel,190,3434.5,400.0,True,treatment,srinivasa-theatre,247.0,3.43
+koyambedu,SUN THEATRE,fuzzy,13.07503,80.19558,excel,190,370.25,400.0,True,treatment,sun-theatre,247.0,3.43
+lic,CAMP ROAD,fuzzy,13.067112,80.268592,excel,358,1992.75,400.0,True,treatment,camp-road,465.0,6.46
+lic,D1 POLICE STATION DAMS ROAD,fuzzy,13.067112,80.268592,excel,358,5007.75,400.0,True,treatment,d1-police-station-dams-road,465.0,6.46
+lic,DAMS ROAD,fuzzy,13.067112,80.268592,excel,358,307.0,400.0,True,treatment,dams-road,465.0,6.46
+lic,GREAMS ROAD,fuzzy,13.067112,80.268592,excel,358,60.5,400.0,True,treatment,greams-road,465.0,6.46
+lic,MOUNT ROAD TVS,fuzzy,13.066509,80.268918,excel,342,11556.0,400.0,True,treatment,mount-road-tvs,445.0,6.18
+little-mount,LITTLE MOUNT,name+fuzzy,13.015803,80.225189,excel,194,330.75,400.0,True,treatment,little-mount,252.0,3.5
+little-mount,SAIDAPET,fuzzy,13.013663,80.226618,excel,307,21593.0,400.0,True,treatment,saidapet,399.0,5.54
+little-mount,SAIDAPET DEPOT,fuzzy,13.013663,80.226618,excel,307,2.0,400.0,True,treatment,saidapet-depot,399.0,5.54
+little-mount,SAIDAPET WEST,fuzzy,13.013663,80.226618,excel,307,2859.5,400.0,True,treatment,saidapet-west,399.0,5.54
+mannadi,BROADWAY,fuzzy,13.09317,80.28616,excel,263,260.75,400.0,True,treatment,broadway,342.0,4.75
+mannadi,POLICE QUARTERS,fuzzy,13.097713723056,80.286637544632,excel,246,24.25,400.0,True,treatment,police-quarters,320.0,4.44
+mannadi,SETC QUARTERS,fuzzy,13.097713723056,80.286637544632,excel,246,173.25,400.0,True,treatment,setc-quarters,320.0,4.44
+meenambakkam,MEENAMBAKKAM OLD AIRPORT,name+fuzzy,12.987387,80.176344,excel,114,3670.25,400.0,True,treatment,meenambakkam-old-airport,148.0,2.06
+meenambakkam,MEL AYNAMBAKKAM,fuzzy,12.987386233842,80.175848364797,excel,67,62.25,400.0,True,treatment,mel-aynambakkam,87.0,1.21
+nandanam,ACS HOSPITAL,fuzzy,13.029579942373,80.24375975132,excel,347,30.5,400.0,True,treatment,acs-hospital,451.0,6.26
+nandanam,CHAMIERS ROAD,fuzzy,13.029782461595,80.243437886238,excel,309,29.0,400.0,True,treatment,chamiers-road,402.0,5.58
+nandanam,NANDANAM SHB,name+fuzzy,13.032048,80.242241,excel,35,5879.0,400.0,True,treatment,nandanam-shb,46.0,0.64
+nandanam,TB HOSPITAL,fuzzy,13.029579942373,80.24375975132,excel,347,4.25,400.0,True,treatment,tb-hospital,451.0,6.26
+nehru-park,DASAPRAKASH,fuzzy,13.07867,80.25349,excel,349,15798.25,400.0,True,treatment,dasaprakash,454.0,6.31
+nehru-park,KANNAN THEATRE,fuzzy,13.07886,80.24997,excel,50,97.0,400.0,True,treatment,kannan-theatre,65.0,0.9
+nehru-park,NEYVELI,fuzzy,13.078303,80.246977,excel,358,30.0,400.0,True,treatment,neyveli,465.0,6.46
+nehru-park,SARAVANA THEATRE,fuzzy,13.07886,80.24997,excel,50,3246.5,400.0,True,treatment,saravana-theatre,65.0,0.9
+nehru-park,SUN THEATRE,fuzzy,13.07886,80.24997,excel,50,370.25,400.0,True,treatment,sun-theatre,65.0,0.9
+new-washermenpet,BHAVANI AMMAN TEMPLE,fuzzy,13.1351,80.2932,excel,93,127.0,400.0,True,treatment,bhavani-amman-temple,121.0,1.68
+new-washermenpet,GANGAI AMMAN TEMPLE,fuzzy,13.1351,80.2932,excel,93,22.5,400.0,True,treatment,gangai-amman-temple,121.0,1.68
+new-washermenpet,TEMPLE JN,fuzzy,13.1351,80.2932,excel,93,51.0,400.0,True,treatment,temple-jn,121.0,1.68
+new-washermenpet,TONDIARPET,fuzzy,13.136124,80.292758,excel,202,17081.5,400.0,True,treatment,tondiarpet,263.0,3.65
+new-washermenpet,TONDIARPET 1 DEPOT,fuzzy,13.131866280383,80.292184352875,excel,281,0.25,400.0,True,treatment,tondiarpet-1-depot,365.0,5.07
+ota-nanganallur-road,NANGANALLUR,name+fuzzy,12.9992785,80.1934437,excel,89,781.25,400.0,True,treatment,nanganallur,116.0,1.61
+ota-nanganallur-road,ST THOMAS MOUNT METRO RS,fuzzy,13.00177391647,80.196160197193,excel,315,3993.5,400.0,True,treatment,st-thomas-mount-metro-rs,410.0,5.69
+ota-nanganallur-road,ST THOMAS MOUNT PO,fuzzy,13.00177391647,80.196160197193,excel,315,3669.25,400.0,True,treatment,st-thomas-mount-po,410.0,5.69
+ota-nanganallur-road,THOMAS MUNRO STATUE,fuzzy,13.00177391647,80.196160197193,excel,315,11.25,400.0,True,treatment,thomas-munro-statue,410.0,5.69
+pachiappas-college,AMINJIKARAI,fuzzy,13.074013,80.226887,excel,640,12476.0,700.0,True,treatment,aminjikarai,832.0,11.56
+pachiappas-college,AVADI BT,fuzzy,13.079695968853,80.233803760784,excel,508,30114.25,700.0,True,treatment,avadi-bt,660.0,9.17
+pachiappas-college,AVADI ROAD JN,fuzzy,13.079695968853,80.233803760784,excel,508,160.5,700.0,True,treatment,avadi-road-jn,660.0,9.17
+pachiappas-college,II ND MAIN ROAD,fuzzy,13.074642,80.230332,excel,261,181.75,700.0,True,treatment,ii-nd-main-road,339.0,4.71
+pachiappas-college,KILPAUK GARDEN,fuzzy,13.081266079108,80.233568471922,excel,673,4633.25,700.0,True,treatment,kilpauk-garden,875.0,12.15
+pachiappas-college,NEW ROAD,fuzzy,13.079695968853,80.233803760784,excel,508,2103.25,700.0,True,treatment,new-road,660.0,9.17
+pachiappas-college,TAYLORS ROAD,fuzzy,13.076624558726,80.237309688891,excel,527,9993.75,700.0,True,treatment,taylors-road,685.0,9.51
+saidapet,ACS HOSPITAL,fuzzy,13.025051155205,80.229753255844,excel,236,30.5,400.0,True,treatment,acs-hospital,307.0,4.26
+saidapet,ANDAL NAGAR,fuzzy,13.024523,80.228572,excel,113,9.0,400.0,True,treatment,andal-nagar,147.0,2.04
+saidapet,MR NAGAR,fuzzy,13.024523,80.228572,excel,113,38.25,400.0,True,treatment,mr-nagar,147.0,2.04
+saidapet,SAIDAPET,name+fuzzy,13.023661241505,80.228224396706,excel,11,21593.0,400.0,True,treatment,saidapet,14.0,0.19
+saidapet,SAIDAPET DEPOT,name+fuzzy,13.02299,80.22723,excel,122,2.0,400.0,True,treatment,saidapet-depot,159.0,2.21
+saidapet,SAIDAPET GURUKULAM,name+fuzzy,13.02299,80.22723,excel,122,27.75,400.0,True,treatment,saidapet-gurukulam,159.0,2.21
+saidapet,SAIDAPET WEST,name+fuzzy,13.023661241505,80.228224396706,excel,11,2859.5,400.0,True,treatment,saidapet-west,14.0,0.19
+saidapet,SAIDAPET WEST JAYARAJ THEATRE,name+fuzzy,13.02299,80.22723,excel,122,228.5,400.0,True,treatment,saidapet-west-jayaraj-theatre,159.0,2.21
+saidapet,SAIDAPET WEST PARSN NAGAR,name+fuzzy,13.02299,80.22723,excel,122,44.5,400.0,True,treatment,saidapet-west-parsn-nagar,159.0,2.21
+saidapet,TB HOSPITAL,fuzzy,13.025051155205,80.229753255844,excel,236,4.25,400.0,True,treatment,tb-hospital,307.0,4.26
+saidapet,THENDRAL NAGAR,fuzzy,13.024523,80.228572,excel,113,32.0,400.0,True,treatment,thendral-nagar,147.0,2.04
+saidapet,TODD HUNTER NAGAR,fuzzy,13.023068,80.230931,excel,302,284.25,400.0,True,treatment,todd-hunter-nagar,393.0,5.46
+saidapet,VETERINARY HOSPITAL,fuzzy,13.025051155205,80.229753255844,excel,236,9431.0,400.0,True,treatment,veterinary-hospital,307.0,4.26
+shenoy-nagar,ANNA NAGAR TOWER METRO,fuzzy,13.080358,80.225356,excel,186,22.25,400.0,True,treatment,anna-nagar-tower-metro,242.0,3.36
+shenoy-nagar,ASHOK NAGAR METRO RS,fuzzy,13.080358,80.225356,excel,186,1330.25,400.0,True,treatment,ashok-nagar-metro-rs,242.0,3.36
+shenoy-nagar,MR NAGAR,fuzzy,13.077165128222,80.225142287745,excel,169,38.25,400.0,True,treatment,mr-nagar,220.0,3.06
+shenoy-nagar,NEW AVENUE,fuzzy,13.077165128222,80.225142287745,excel,169,0.5,400.0,True,treatment,new-avenue,220.0,3.06
+shenoy-nagar,SATHYA NAGAR,fuzzy,13.07688168,80.22488023,excel,202,56.25,400.0,True,treatment,sathya-nagar,263.0,3.65
+st-thomas-mount,ST THOMAS MOUNT METRO RS,name+fuzzy,12.99513959,80.19867439,excel,149,3993.5,400.0,True,treatment,st-thomas-mount-metro-rs,194.0,2.69
+st-thomas-mount,ST THOMAS MOUNT PO,name+fuzzy,12.99513959,80.19867439,excel,149,3669.25,400.0,True,treatment,st-thomas-mount-po,194.0,2.69
+st-thomas-mount,SUN THEATRE,fuzzy,12.991628540108,80.198684424113,excel,362,370.25,400.0,True,treatment,sun-theatre,471.0,6.54
+st-thomas-mount,THOMAS MUNRO STATUE,fuzzy,12.994506,80.200233,excel,308,11.25,400.0,True,treatment,thomas-munro-statue,400.0,5.56
+teynampet,QUAID E MILLATH GOVT COLLEGE,fuzzy,13.03578,80.24611,excel,170,39.25,400.0,True,treatment,quaid-e-millath-govt-college,221.0,3.07
+teynampet,QUEEN MARRY S ARTS COLLEGE,fuzzy,13.03578,80.24611,excel,170,7332.75,400.0,True,treatment,queen-marry-s-arts-college,221.0,3.07
+teynampet,TEMPLE JN,fuzzy,13.0396402,80.2455737,excel,280,51.0,400.0,True,treatment,temple-jn,364.0,5.06
+thirumangalam,ANNA NAGAR COLONY,name,13.085833720720721,80.203505,station_proxy,80,203.25,400.0,True,treatment,anna-nagar-colony,104.0,1.44
+thirumangalam,ANNA NAGAR EAST,name+fuzzy,13.08528,80.203592,excel,21,3371.5,400.0,True,treatment,anna-nagar-east,27.0,0.38
+thirumangalam,ANNA NAGAR ROUNTANA,name,13.085833720720721,80.203505,station_proxy,80,7961.25,400.0,True,treatment,anna-nagar-rountana,104.0,1.44
+thirumangalam,ANNA NAGAR TOWER METRO,name,13.085833720720721,80.203505,station_proxy,80,22.25,400.0,True,treatment,anna-nagar-tower-metro,104.0,1.44
+thirumangalam,ANNA NAGAR WEST,name+fuzzy,13.08528,80.203592,excel,21,360.25,400.0,True,treatment,anna-nagar-west,27.0,0.38
+thirumangalam,II ND MAIN ROAD,fuzzy,13.08528,80.203592,excel,21,181.75,400.0,True,treatment,ii-nd-main-road,27.0,0.38
+thirumangalam,MR NAGAR,fuzzy,13.08528,80.203592,excel,21,38.25,400.0,True,treatment,mr-nagar,27.0,0.38
+thirumangalam,THIRUMANGALAM,name+fuzzy,13.085124,80.201961,excel,167,16911.75,400.0,True,treatment,thirumangalam,217.0,3.01
+thirumangalam,THIRUMANGALAM METRO RS,name+fuzzy,13.085124,80.201961,excel,167,96.5,400.0,True,treatment,thirumangalam-metro-rs,217.0,3.01
+thirumangalam,THIRUMANGALAM SUNGAVA,name+fuzzy,13.085124,80.201961,excel,167,0.5,400.0,True,treatment,thirumangalam-sungava,217.0,3.01
+thiruvotriyur,THIRUVANMIYUR RS,fuzzy,13.17510875,80.30608489,excel,350,86.0,400.0,True,treatment,thiruvanmiyur-rs,455.0,6.32
+thiruvotriyur,THIRUVOTRIYUR BT,name+fuzzy,13.17207,80.30528,excel,7,12591.0,400.0,True,treatment,thiruvotriyur-bt,9.0,0.12
+thiruvotriyur,THIRUVOTRIYUR RAILWAY QUARTERS,name,13.172753720720722,80.305327,station_proxy,80,975.5,400.0,True,treatment,thiruvotriyur-railway-quarters,104.0,1.44
+thiruvotriyur-theradi,ELLAIAMMAN KOVIL,fuzzy,13.15747722,80.30153491,excel,282,2314.5,400.0,True,treatment,ellaiamman-kovil,367.0,5.1
+thiruvotriyur-theradi,ELLAIAMMAN NAGAR,fuzzy,13.15747722,80.30153491,excel,282,1120.75,400.0,True,treatment,ellaiamman-nagar,367.0,5.1
+thiruvotriyur-theradi,TEMPLE JN,fuzzy,13.161845772528,80.302914530039,excel,224,51.0,400.0,True,treatment,temple-jn,291.0,4.04
+thiruvotriyur-theradi,THIRUVOTRIYUR BT,fuzzy,13.161845772528,80.302914530039,excel,224,12591.0,400.0,True,treatment,thiruvotriyur-bt,291.0,4.04
+thiruvotriyur-theradi,THIRUVOTRIYUR RAILWAY QUARTERS,fuzzy,13.161845772528,80.302914530039,excel,224,975.5,400.0,True,treatment,thiruvotriyur-railway-quarters,291.0,4.04
+thiruvotriyur-theradi,THIRUVOTRIYUR TEMPLE,fuzzy,13.161845772528,80.302914530039,excel,224,11473.0,400.0,True,treatment,thiruvotriyur-temple,291.0,4.04
+thiyagaraya-college,KORUKKUPET,fuzzy,13.116960058717,80.284033119679,excel,123,1136.75,400.0,True,treatment,korukkupet,160.0,2.22
+thiyagaraya-college,KORUKKUPET RS,fuzzy,13.116960058717,80.284033119679,excel,123,3092.5,400.0,True,treatment,korukkupet-rs,160.0,2.22
+thiyagaraya-college,THEAGARAYA COLLEGE,fuzzy,13.116960058717,80.284033119679,excel,123,11820.5,400.0,True,treatment,theagaraya-college,160.0,2.22
+thiyagaraya-college,TONDIARPET 1 DEPOT,name,13.117047720720722,80.284961,station_proxy,80,0.25,400.0,True,treatment,tondiarpet-1-depot,104.0,1.44
+thousand-lights,DAMS ROAD,fuzzy,13.061451,80.25447,excel,553,307.0,700.0,True,treatment,dams-road,719.0,9.99
+thousand-lights,GREAMS ROAD,fuzzy,13.061451,80.25447,excel,553,60.5,700.0,True,treatment,greams-road,719.0,9.99
+thousand-lights,QUAID E MILLATH GOVT COLLEGE,fuzzy,13.06319,80.262,excel,638,39.25,700.0,True,treatment,quaid-e-millath-govt-college,829.0,11.51
+thousand-lights,RC CHURCH,fuzzy,13.054654,80.255175,excel,563,142.75,700.0,True,treatment,rc-church,732.0,10.17
+thousand-lights,ROYAPETTAH,fuzzy,13.054127,80.261083,excel,554,34.5,700.0,True,treatment,royapettah,720.0,10.0
+thousand-lights,SUN THEATRE,fuzzy,13.057363,80.257235,excel,193,370.25,700.0,True,treatment,sun-theatre,251.0,3.49
+tollgate,THANGAL,fuzzy,13.14434,80.29691,excel,136,13558.25,400.0,True,treatment,thangal,177.0,2.46
+tollgate,THANGAL TOLLGATE,name+fuzzy,13.14434,80.29691,excel,136,2932.25,400.0,True,treatment,thangal-tollgate,177.0,2.46
+tondiarpet,GAS COMPANY,fuzzy,13.12535,80.29188,excel,389,66.0,400.0,True,treatment,gas-company,506.0,7.03
+tondiarpet,KORUKKUPET,fuzzy,13.122287638068,80.286905765533,excel,265,1136.75,400.0,True,treatment,korukkupet,344.0,4.78
+tondiarpet,KORUKKUPET RS,fuzzy,13.122287638068,80.286905765533,excel,265,3092.5,400.0,True,treatment,korukkupet-rs,344.0,4.78
+tondiarpet,PERUMAL TEMPLE,fuzzy,13.125046074575,80.290473103523,excel,236,245.75,400.0,True,treatment,perumal-temple,307.0,4.26
+tondiarpet,TEMPLE JN,fuzzy,13.125046074575,80.290473103523,excel,236,51.0,400.0,True,treatment,temple-jn,307.0,4.26
+tondiarpet,TONDIARPET,name+fuzzy,13.124773,80.288935,excel,89,17081.5,400.0,True,treatment,tondiarpet,116.0,1.61
+tondiarpet,TONDIARPET 1 DEPOT,name+fuzzy,13.124773,80.288935,excel,89,0.25,400.0,True,treatment,tondiarpet-1-depot,116.0,1.61
+vadapalani,ACS HOSPITAL,fuzzy,13.053079,80.211976,excel,265,30.5,400.0,True,treatment,acs-hospital,344.0,4.78
+vadapalani,TB HOSPITAL,fuzzy,13.053079,80.211976,excel,265,4.25,400.0,True,treatment,tb-hospital,344.0,4.78
+vadapalani,VADAPALANI,name+fuzzy,13.05023,80.21351,excel,165,19278.75,400.0,True,treatment,vadapalani,214.0,2.97
+vadapalani,VADAPALANI BT,name+fuzzy,13.05023,80.21351,excel,165,443.75,400.0,True,treatment,vadapalani-bt,214.0,2.97
+vadapalani,VADAPALANI PS,name+fuzzy,13.05023,80.21351,excel,165,2751.75,400.0,True,treatment,vadapalani-ps,214.0,2.97
+washermenpet,CEMENT ROAD,fuzzy,13.110221726718,80.281153768301,excel,290,0.25,400.0,True,treatment,cement-road,377.0,5.24
+washermenpet,MR NAGAR,fuzzy,13.106412965847,80.280157327652,excel,155,38.25,400.0,True,treatment,mr-nagar,202.0,2.81
+washermenpet,THIRUVOTRIYUR BT,fuzzy,13.109906944533,80.281176567078,excel,256,12591.0,400.0,True,treatment,thiruvotriyur-bt,333.0,4.62
+washermenpet,THIRUVOTRIYUR TEMPLE,fuzzy,13.109906944533,80.281176567078,excel,256,11473.0,400.0,True,treatment,thiruvotriyur-temple,333.0,4.62
+washermenpet,VALLALAR NAGAR,fuzzy,13.106412965847,80.280157327652,excel,155,38831.5,400.0,True,treatment,vallalar-nagar,202.0,2.81
+wimco-nagar,MR NAGAR,fuzzy,13.179221124868,80.307223498821,excel,15,38.25,400.0,True,treatment,mr-nagar,20.0,0.28
+wimco-nagar,SIDCO NAGAR,fuzzy,13.179221124868,80.307223498821,excel,15,72.25,400.0,True,treatment,sidco-nagar,20.0,0.28
+wimco-nagar-depot,EB STATION,fuzzy,13.184950829323,80.31131118536,excel,270,0.5,400.0,True,treatment,eb-station,351.0,4.88
+wimco-nagar-depot,ERNAVOOR GATE,fuzzy,13.186484,80.306065,excel,397,6253.25,400.0,True,treatment,ernavoor-gate,516.0,7.17
+wimco-nagar-depot,JJ NAGAR POLICE STATION,fuzzy,13.184950829323,80.31131118536,excel,270,10.25,400.0,True,treatment,jj-nagar-police-station,351.0,4.88
+wimco-nagar-depot,LIFT GATE,fuzzy,13.184950829323,80.31131118536,excel,270,977.25,400.0,True,treatment,lift-gate,351.0,4.88
+wimco-nagar-depot,N4 POLICE STATION,fuzzy,13.184950829323,80.31131118536,excel,270,2577.5,400.0,True,treatment,n4-police-station,351.0,4.88
+wimco-nagar-depot,ORAGADAM POLICE STATION,fuzzy,13.184950829323,80.31131118536,excel,270,2.5,400.0,True,treatment,oragadam-police-station,351.0,4.88
+wimco-nagar-depot,TEMPLE JN,fuzzy,13.186246131328,80.307619124651,excel,262,51.0,400.0,True,treatment,temple-jn,341.0,4.74
+wimco-nagar-depot,THIRUVOTRIYUR BT,fuzzy,13.184053776434,80.308799296618,excel,26,12591.0,400.0,True,treatment,thiruvotriyur-bt,34.0,0.47
+wimco-nagar-depot,THIRUVOTRIYUR TEMPLE,fuzzy,13.184053776434,80.308799296618,excel,26,11473.0,400.0,True,treatment,thiruvotriyur-temple,34.0,0.47
+wimco-nagar-depot,TV STATION,fuzzy,13.184950829323,80.31131118536,excel,270,4.25,400.0,True,treatment,tv-station,351.0,4.88
+wimco-nagar-depot,MULLAI NAGAR,control,13.186158,80.303689,excel,606,82.25,,False,control,mullai-nagar,788.0,10.94
+wimco-nagar-depot,CORBORUNDUM UNIVERSAL,control,13.1725,80.31174,excel,1335,868.25,,False,control,corborundum-universal,1736.0,24.11
+wimco-nagar,LIFT GATE,control,13.184950829323,80.31131118536,excel,759,977.25,,False,control,lift-gate,987.0,13.71
+wimco-nagar,ERNAVOOR GATE,control,13.186484,80.306065,excel,806,6253.25,,False,control,ernavoor-gate,1048.0,14.56
+wimco-nagar,MULLAI NAGAR,control,13.185632430628,80.3034979105,excel,814,82.25,,False,control,mullai-nagar,1058.0,14.69
+wimco-nagar,CORBORUNDUM UNIVERSAL,control,13.1725,80.31174,excel,891,868.25,,False,control,corborundum-universal,1158.0,16.08
+wimco-nagar,THIRUVOTRIYUR BT,control,13.17225,80.31193,excel,926,12591.0,,False,control,thiruvotriyur-bt,1204.0,16.72
+wimco-nagar,SATHYA NAGAR,control,13.176535116488,80.294875949621,excel,1384,56.25,,False,control,sathya-nagar,1799.0,24.99
+wimco-nagar,PERIYAR NAGAR,control,13.167071827325,80.30417650938,excel,1395,2060.25,,False,control,periyar-nagar,1814.0,25.19
+wimco-nagar,BHARATHI NAGAR PERIYAR PATAHI,control,13.167071827325,80.30417650938,excel,1395,473.0,,False,control,bharathi-nagar-periyar-patahi,1814.0,25.19
+wimco-nagar,ILLALUR PERIYAR NAGAR JN,control,13.167071827325,80.30417650938,excel,1395,19.75,,False,control,illalur-periyar-nagar-jn,1814.0,25.19
+thiruvotriyur,CORBORUNDUM UNIVERSAL,control,13.1725,80.31174,excel,697,868.25,,False,control,corborundum-universal,906.0,12.58
+thiruvotriyur,THIRUVOTRIYUR TEMPLE,control,13.16196,80.30313,excel,1139,11473.0,,False,control,thiruvotriyur-temple,1481.0,20.57
+thiruvotriyur,SATHYA NAGAR,control,13.176535116488,80.294875949621,excel,1237,56.25,,False,control,sathya-nagar,1608.0,22.33
+thiruvotriyur,KARGIL NAGAR,control,13.173757671863,80.292589366436,excel,1394,170.0,,False,control,kargil-nagar,1812.0,25.17
+thiruvotriyur-theradi,PERIYAR NAGAR,control,13.167071827325,80.30417650938,excel,818,2060.25,,False,control,periyar-nagar,1063.0,14.76
+thiruvotriyur-theradi,BHARATHI NAGAR PERIYAR PATAHI,control,13.167071827325,80.30417650938,excel,818,473.0,,False,control,bharathi-nagar-periyar-patahi,1063.0,14.76
+thiruvotriyur-theradi,ILLALUR PERIYAR NAGAR JN,control,13.167071827325,80.30417650938,excel,818,19.75,,False,control,illalur-periyar-nagar-jn,1063.0,14.76
+thiruvotriyur-theradi,ODEANMANI,control,13.15388,80.29613,excel,948,1.75,,False,control,odeanmani,1232.0,17.11
+thiruvotriyur-theradi,THANGAL,control,13.14795,80.29819,excel,1396,13558.25,,False,control,thangal,1815.0,25.21
+thiruvotriyur-theradi,THANGAL ERIKKARAI,control,13.14795,80.29819,excel,1396,6.75,,False,control,thangal-erikkarai,1815.0,25.21
+thiruvotriyur-theradi,BUILDERS INDUSTRY,control,13.14673,80.30174,excel,1457,73.25,,False,control,builders-industry,1894.0,26.31
+kaladipet,INDIRA NAGAR,control,13.152601311192,80.28875246644,excel,1176,803.25,,False,control,indira-nagar,1529.0,21.24
+kaladipet,GANDHI ROAD,control,13.152601311192,80.28875246644,excel,1176,101.75,,False,control,gandhi-road,1529.0,21.24
+kaladipet,THIRUVOTRIYUR TEMPLE,control,13.161845772528,80.302914530039,excel,1277,11473.0,,False,control,thiruvotriyur-temple,1660.0,23.06
+tollgate,BUILDERS INDUSTRY,control,13.14672,80.30147,excel,675,73.25,,False,control,builders-industry,878.0,12.19
+tollgate,N4 POLICE STATION,control,13.134542330088,80.297192037106,excel,966,2577.5,,False,control,n4-police-station,1256.0,17.44
+tollgate,ODEANMANI,control,13.15385,80.29612,excel,1173,1.75,,False,control,odeanmani,1525.0,21.18
+tollgate,INDIRA NAGAR,control,13.152601311192,80.28875246644,excel,1323,803.25,,False,control,indira-nagar,1720.0,23.89
+tollgate,GANDHI ROAD,control,13.152601311192,80.28875246644,excel,1323,101.75,,False,control,gandhi-road,1720.0,23.89
+tollgate,PARAMESWARI NAGAR,control,13.143735172177,80.283571779728,excel,1386,89.5,,False,control,parameswari-nagar,1802.0,25.03
+new-washermenpet,THANGAL TOLLGATE,control,13.14434,80.29691,excel,1191,2932.25,,False,control,thangal-tollgate,1548.0,21.5
+new-washermenpet,IOC,control,13.138848239545,80.281872600317,excel,1299,4586.75,,False,control,ioc,1689.0,23.46
+new-washermenpet,PARAMESWARI NAGAR,control,13.143735172177,80.283571779728,excel,1454,89.5,,False,control,parameswari-nagar,1890.0,26.25
+tondiarpet,THEAGARAYA COLLEGE,control,13.117334913013,80.284415334463,excel,869,11820.5,,False,control,theagaraya-college,1130.0,15.69
+tondiarpet,ENNORE,control,13.124171,80.277682,excel,1176,6628.25,,False,control,ennore,1529.0,21.24
+tondiarpet,N4 POLICE STATION,control,13.134298104213,80.297401249409,excel,1484,2577.5,,False,control,n4-police-station,1929.0,26.79
+thiyagaraya-college,ROYAPURAM BS,control,13.109175498895,80.29161170125,excel,1070,9590.75,,False,control,royapuram-bs,1391.0,19.32
+thiyagaraya-college,ROYAPURAM PS,control,13.109175498895,80.29161170125,excel,1070,6658.75,,False,control,royapuram-ps,1391.0,19.32
+thiyagaraya-college,ENNORE,control,13.124171,80.277682,excel,1173,6628.25,,False,control,ennore,1525.0,21.18
+thiyagaraya-college,TONDIARPET,control,13.126143171398,80.289381444454,excel,1187,17081.5,,False,control,tondiarpet,1543.0,21.43
+thiyagaraya-college,VALLALAR NAGAR,control,13.1057814,80.28041601,excel,1266,38831.5,,False,control,vallalar-nagar,1646.0,22.86
+thiyagaraya-college,SUNNAMBU KALVOY,control,13.124876285344,80.274334251881,excel,1490,34.0,,False,control,sunnambu-kalvoy,1937.0,26.9
+washermenpet,MOOLAKOTHALAM,control,13.104569,80.273377,excel,883,73.0,,False,control,moolakothalam,1148.0,15.94
+washermenpet,POLICE QUARTERS,control,13.100226869215,80.286680459976,excel,1028,24.25,,False,control,police-quarters,1336.0,18.56
+washermenpet,THEAGARAYA COLLEGE,control,13.116960058717,80.284033119679,excel,1088,11820.5,,False,control,theagaraya-college,1414.0,19.64
+washermenpet,ROYAPURAM BS,control,13.109175498895,80.29161170125,excel,1173,9590.75,,False,control,royapuram-bs,1525.0,21.18
+washermenpet,ROYAPURAM PS,control,13.109175498895,80.29161170125,excel,1173,6658.75,,False,control,royapuram-ps,1525.0,21.18
+washermenpet,BASIN BRIDGE DEPOT,control,13.10154613006,80.270699858665,excel,1294,9.0,,False,control,basin-bridge-depot,1682.0,23.36
+mannadi,BEACH STATION,control,13.09451,80.29223,excel,670,5.25,,False,control,beach-station,871.0,12.1
+mannadi,CHENNAI COLLECTOR OFFICE,control,13.09628,80.2928,excel,727,111.0,,False,control,chennai-collector-office,945.0,13.12
+mannadi,PARRYS CORNER,control,13.09076,80.29099,excel,746,19101.0,,False,control,parrys-corner,970.0,13.47
+mannadi,HIGH COURT,control,13.08863628,80.28711089,excel,772,17.5,,False,control,high-court,1004.0,13.94
+mannadi,HIGH COURT SOUTH GATE,control,13.08863628,80.28711089,excel,772,39.0,,False,control,high-court-south-gate,1004.0,13.94
+mannadi,CLIVE BATTERY,control,13.10009,80.29406,excel,995,10345.0,,False,control,clive-battery,1294.0,17.97
+mannadi,FORT STATION,control,13.085023510786,80.283861458302,excel,1190,88.0,,False,control,fort-station,1547.0,21.49
+mannadi,VALLALAR NAGAR,control,13.1057814,80.28041601,excel,1291,38831.5,,False,control,vallalar-nagar,1678.0,23.31
+high-court,PARRYS CORNER,control,13.08903445,80.290624,excel,639,19101.0,,False,control,parrys-corner,831.0,11.54
+high-court,SECRETARIAT,control,13.080867,80.288252,excel,789,4585.0,,False,control,secretariat,1026.0,14.25
+high-court,MGRCENTRAL,control,13.08175049,80.276663,excel,1092,70176.25,,False,control,mgrcentral,1420.0,19.72
+high-court,BEACH STATION,control,13.09451,80.29223,excel,1120,5.25,,False,control,beach-station,1456.0,20.22
+high-court,POLICE QUARTERS,control,13.097713723056,80.286637544632,excel,1169,24.25,,False,control,police-quarters,1520.0,21.11
+high-court,MGRCENTRAL METRO RS,control,13.08201253,80.27560345,excel,1174,284.5,,False,control,mgrcentral-metro-rs,1526.0,21.19
+high-court,CHENNAI COLLECTOR OFFICE,control,13.09628,80.2928,excel,1306,111.0,,False,control,chennai-collector-office,1698.0,23.58
+high-court,ISLAND GROUND,control,13.074735,80.286254,excel,1392,39105.75,,False,control,island-ground,1810.0,25.14
+high-court,WAR MEMORIAL,control,13.073808816482,80.286173522472,excel,1493,25.75,,False,control,war-memorial,1941.0,26.96
+central,VETERINARY HOSPITAL,control,13.085502916169,80.265984535217,excel,974,9431.0,,False,control,veterinary-hospital,1266.0,17.58
+central,HIGH COURT,control,13.085130625966,80.283642858267,excel,1119,17.5,,False,control,high-court,1455.0,20.21
+central,HIGH COURT SOUTH GATE,control,13.085130625966,80.283642858267,excel,1119,39.0,,False,control,high-court-south-gate,1455.0,20.21
+central,EGMORE RS,control,13.078051780018,80.26364967227,excel,1186,13660.25,,False,control,egmore-rs,1542.0,21.42
+central,CHOOLAI PO,control,13.09052028822,80.268028378487,excel,1187,7360.5,,False,control,choolai-po,1543.0,21.43
+central,BROADWAY,control,13.088444642137,80.283675044775,excel,1299,260.75,,False,control,broadway,1689.0,23.46
+central,EGMORE NORTH RS,control,13.07964,80.261255,excel,1397,884.5,,False,control,egmore-north-rs,1816.0,25.22
+central,DOVETON,control,13.0863,80.26134,excel,1470,6906.75,,False,control,doveton,1911.0,26.54
+government-estate,DAMS ROAD,control,13.067112,80.268592,excel,622,307.0,,False,control,dams-road,809.0,11.24
+government-estate,ANNA SQUARE,control,13.0652221,80.2835691,excel,1231,5987.5,,False,control,anna-square,1600.0,22.22
+government-estate,WAR MEMORIAL,control,13.073239,80.28513,excel,1316,25.75,,False,control,war-memorial,1711.0,23.76
+government-estate,MGRCENTRAL,control,13.08175049,80.276663,excel,1328,70176.25,,False,control,mgrcentral,1726.0,23.97
+government-estate,MGRCENTRAL METRO RS,control,13.08201253,80.27560345,excel,1330,284.5,,False,control,mgrcentral-metro-rs,1729.0,24.01
+government-estate,MARINA BEACH MADRAS UNIVERSITY,control,13.06234,80.283127,excel,1365,41.75,,False,control,marina-beach-madras-university,1774.0,24.64
+government-estate,EGMORE RS,control,13.078051780018,80.26364967227,excel,1370,13660.25,,False,control,egmore-rs,1781.0,24.74
+government-estate,TRIPLICANE,control,13.058175322234,80.277801007032,excel,1410,160.75,,False,control,triplicane,1833.0,25.46
+government-estate,CHEPAUK,control,13.061108229167,80.282828807831,excel,1432,6346.25,,False,control,chepauk,1862.0,25.86
+government-estate,QUAID E MILLATH GOVT COLLEGE,control,13.06311,80.26221,excel,1444,39.25,,False,control,quaid-e-millath-govt-college,1877.0,26.07
+government-estate,ISLAND GROUND,control,13.074735,80.286254,excel,1481,39105.75,,False,control,island-ground,1925.0,26.74
+lic,AMBATTUR ESTATE POLICE STATION,control,13.067908,80.272082,excel,716,606.0,,False,control,ambattur-estate-police-station,931.0,12.93
+lic,ROYAPETTA HOSPITAL,control,13.055748,80.264448,excel,1021,1594.75,,False,control,royapetta-hospital,1327.0,18.43
+lic,TRIPLICANE,control,13.058175322234,80.277801007032,excel,1448,160.75,,False,control,triplicane,1882.0,26.14
+lic,EGMORE RS,control,13.077301951254,80.261360406876,excel,1482,13660.25,,False,control,egmore-rs,1927.0,26.76
+thousand-lights,ROYAPETTA HOSPITAL,control,13.055748,80.264448,excel,705,1594.75,,False,control,royapetta-hospital,916.0,12.72
+thousand-lights,SEMMOZHI POONGA,control,13.050447696935,80.252702236176,excel,1095,37.0,,False,control,semmozhi-poonga,1424.0,19.78
+thousand-lights,DPI,control,13.067487087852,80.251149505393,excel,1280,973.0,,False,control,dpi,1664.0,23.11
+thousand-lights,GEMINI,control,13.049789,80.248009,excel,1497,202.25,,False,control,gemini,1946.0,27.03
+ag-dms,SEMMOZHI POONGA,control,13.05052,80.252369,excel,779,37.0,,False,control,semmozhi-poonga,1013.0,14.07
+ag-dms,PONDY BAZAAR,control,13.039471,80.239793,excel,1077,7326.25,,False,control,pondy-bazaar,1400.0,19.44
+ag-dms,VIDYODAYA,control,13.052366,80.241627,excel,1082,2401.25,,False,control,vidyodaya,1407.0,19.54
+ag-dms,JEEVA PARK,control,13.043557,80.237827,excel,1119,260.25,,False,control,jeeva-park,1455.0,20.21
+ag-dms,FCI,control,13.038080380932,80.255990624428,excel,1143,3715.75,,False,control,fci,1486.0,20.64
+ag-dms,VALLUVAR KOTTAM,control,13.05380454,80.24229208,excel,1168,114.25,,False,control,valluvar-kottam,1518.0,21.08
+teynampet,PONDY BAZAAR,control,13.039471,80.239793,excel,765,7326.25,,False,control,pondy-bazaar,994.0,13.81
+teynampet,CHAMIERS ROAD,control,13.029782461595,80.243437886238,excel,891,29.0,,False,control,chamiers-road,1158.0,16.08
+teynampet,FCI,control,13.038080380932,80.255990624428,excel,1035,3715.75,,False,control,fci,1346.0,18.69
+teynampet,DMS,control,13.046926,80.248291,excel,1086,11324.0,,False,control,dms,1412.0,19.61
+teynampet,DMS METRO,control,13.046926,80.248291,excel,1086,158.25,,False,control,dms-metro,1412.0,19.61
+teynampet,CORPN PLAY GROUND,control,13.03732,80.23574,excel,1164,547.75,,False,control,corpn-play-ground,1513.0,21.01
+teynampet,JEEVA PARK,control,13.043557,80.237827,excel,1168,260.25,,False,control,jeeva-park,1518.0,21.08
+teynampet,THYAGARAYA NAGAR,control,13.034351512534,80.235640704632,excel,1219,22167.75,,False,control,thyagaraya-nagar,1585.0,22.01
+teynampet,GEMINI,control,13.049737,80.247802,excel,1386,202.25,,False,control,gemini,1802.0,25.03
+teynampet,KALIYAPPA HOSPITAL,control,13.027212,80.254389,excel,1405,8.0,,False,control,kaliyappa-hospital,1826.0,25.36
+teynampet,PANAGAL PARK,control,13.041957,80.233687,excel,1481,32.5,,False,control,panagal-park,1925.0,26.74
+nandanam,THYAGARAYA NAGAR,control,13.034351512534,80.235640704632,excel,725,22167.75,,False,control,thyagaraya-nagar,942.0,13.08
+nandanam,PONDY BAZAAR,control,13.039471,80.239793,excel,842,7326.25,,False,control,pondy-bazaar,1095.0,15.21
+nandanam,CORPN PLAY GROUND,control,13.03732,80.23574,excel,882,547.75,,False,control,corpn-play-ground,1147.0,15.93
+nandanam,KOTTURPURAM RD JN,control,13.02310387,80.24264464,excel,1004,77.0,,False,control,kotturpuram-rd-jn,1305.0,18.12
+nandanam,KOTTURPURAM,control,13.022004,80.242546,excel,1125,2818.75,,False,control,kotturpuram,1462.0,20.31
+nandanam,JEEVA PARK,control,13.043557,80.237827,excel,1337,260.25,,False,control,jeeva-park,1738.0,24.14
+nandanam,PANAGAL PARK,control,13.041957,80.233687,excel,1406,32.5,,False,control,panagal-park,1828.0,25.39
+nandanam,KALIYAPPA HOSPITAL,control,13.027212,80.254389,excel,1456,8.0,,False,control,kaliyappa-hospital,1893.0,26.29
+nandanam,KOTTUR NSK STATUE,control,13.018907,80.241448,excel,1466,698.0,,False,control,kottur-nsk-statue,1906.0,26.47
+saidapet,LITTLE MOUNT,control,13.015803,80.225189,excel,919,330.75,,False,control,little-mount,1195.0,16.6
+saidapet,MANTHOPPU,control,13.02505,80.2198,excel,925,23.5,,False,control,manthoppu,1202.0,16.69
+saidapet,SRINIVASA THEATRE,control,13.031254,80.223939,excel,967,3434.5,,False,control,srinivasa-theatre,1257.0,17.46
+saidapet,METTUPALAYAM,control,13.032061,80.221074,excel,1216,52.25,,False,control,mettupalayam,1581.0,21.96
+saidapet,METTUPALAYAM ROAD JN,control,13.032061,80.221074,excel,1216,23.25,,False,control,mettupalayam-road-jn,1581.0,21.96
+saidapet,THYAGARAYA NAGAR,control,13.035007,80.230916,excel,1299,22167.75,,False,control,thyagaraya-nagar,1689.0,23.46
+little-mount,SAIDAPET WEST JAYARAJ THEATRE,control,13.021336,80.225995,excel,782,228.5,,False,control,saidapet-west-jayaraj-theatre,1017.0,14.12
+little-mount,SAIDAPET GURUKULAM,control,13.021336,80.225995,excel,782,27.75,,False,control,saidapet-gurukulam,1017.0,14.12
+little-mount,ANNA UNIVERSITY,control,13.008342,80.231502,excel,1070,8055.5,,False,control,anna-university,1391.0,19.32
+little-mount,KANIGAPURAM,control,13.004947437585,80.220412999424,excel,1129,2723.25,,False,control,kanigapuram,1468.0,20.39
+little-mount,SAIDAPET WEST PARSN NAGAR,control,13.01971,80.21422,excel,1198,44.5,,False,control,saidapet-west-parsn-nagar,1557.0,21.62
+little-mount,TODD HUNTER NAGAR,control,13.023068,80.230931,excel,1209,284.25,,False,control,todd-hunter-nagar,1572.0,21.83
+little-mount,MANTHOPPU,control,13.02505,80.2198,excel,1244,23.5,,False,control,manthoppu,1617.0,22.46
+little-mount,GUINDY METRO,control,13.00938,80.213,excel,1317,437.25,,False,control,guindy-metro,1712.0,23.78
+little-mount,GUINDY RS,control,13.008180703467,80.213333845204,excel,1349,9096.0,,False,control,guindy-rs,1754.0,24.36
+little-mount,GUINDY,control,13.009638483862,80.21124628196,excel,1480,1169.25,,False,control,guindy,1924.0,26.72
+guindy,MADUVANKARAI,control,13.0038,80.21175,excel,642,567.75,,False,control,maduvankarai,835.0,11.6
+guindy,MADUVANKARAI GANGAI AMMAN TEMPLE,control,13.0038,80.21175,excel,642,74.5,,False,control,maduvankarai-gangai-amman-temple,835.0,11.6
+guindy,KANIGAPURAM,control,13.004906927708,80.220230877449,excel,898,2723.25,,False,control,kanigapuram,1167.0,16.21
+guindy,SAIDAPET WEST PARSN NAGAR,control,13.01971,80.21422,excel,1145,44.5,,False,control,saidapet-west-parsn-nagar,1488.0,20.67
+guindy,EKKATTUTHANGAL,control,13.018683696826,80.205908954176,excel,1305,89.75,,False,control,ekkattuthangal,1696.0,23.56
+guindy,NGOCOLONY,control,12.998040587504,80.207278758271,excel,1417,4130.75,,False,control,ngocolony,1842.0,25.58
+guindy,ALANDUR METRO RS,control,13.0041772,80.2012221,excel,1435,513.5,,False,control,alandur-metro-rs,1866.0,25.92
+guindy,LITTLE MOUNT,control,13.015803,80.225189,excel,1468,330.75,,False,control,little-mount,1908.0,26.5
+alandur,BUTT ROAD,control,13.008623941841,80.197920799255,excel,621,3011.5,,False,control,butt-road,807.0,11.21
+alandur,ST THOMAS MOUNT PO,control,13.00177391647,80.196160197193,excel,643,3669.25,,False,control,st-thomas-mount-po,836.0,11.61
+alandur,NGOCOLONY,control,12.998040587504,80.207278758271,excel,928,4130.75,,False,control,ngocolony,1206.0,16.75
+alandur,GUINDY MKN SALAI,control,13.007372089176,80.209815591606,excel,963,7088.75,,False,control,guindy-mkn-salai,1252.0,17.39
+alandur,ST THOMAS MOUNT METRO RS,control,12.994506,80.200233,excel,1087,3993.5,,False,control,st-thomas-mount-metro-rs,1413.0,19.62
+alandur,GUINDY,control,13.008751725041,80.210573315489,excel,1100,1169.25,,False,control,guindy,1430.0,19.86
+alandur,MADUVANKARAI,control,13.00366,80.21173,excel,1109,567.75,,False,control,maduvankarai,1442.0,20.03
+alandur,MADUVANKARAI GANGAI AMMAN TEMPLE,control,13.00366,80.21173,excel,1109,74.5,,False,control,maduvankarai-gangai-amman-temple,1442.0,20.03
+alandur,GUINDY TVK ESTATE,control,13.012799,80.208464,excel,1208,18695.0,,False,control,guindy-tvk-estate,1570.0,21.81
+alandur,GUINDY CIPET,control,13.014973616467,80.204542636675,excel,1230,7995.75,,False,control,guindy-cipet,1599.0,22.21
+alandur,GUINDY RS,control,13.008180703467,80.213333845204,excel,1352,9096.0,,False,control,guindy-rs,1758.0,24.42
+alandur,GUINDY METRO,control,13.00938,80.213,excel,1368,437.25,,False,control,guindy-metro,1778.0,24.69
+ota-nanganallur-road,CEMENT ROAD,control,12.995674051153,80.188995480603,excel,715,0.25,,False,control,cement-road,930.0,12.92
+ota-nanganallur-road,BUTT ROAD,control,13.007256336127,80.196958959168,excel,877,3011.5,,False,control,butt-road,1140.0,15.83
+ota-nanganallur-road,ALANDUR METRO RS,control,13.0040534,80.2009383,excel,883,513.5,,False,control,alandur-metro-rs,1148.0,15.94
+ota-nanganallur-road,TRIDENT HOTEL,control,12.994145095907,80.185998916741,excel,1075,390.25,,False,control,trident-hotel,1398.0,19.42
+ota-nanganallur-road,NGOCOLONY,control,12.998040587504,80.207278758271,excel,1454,4130.75,,False,control,ngocolony,1890.0,26.25
+meenambakkam,AIRPORT METRO,control,12.99227,80.1824,excel,959,1392.0,,False,control,airport-metro,1247.0,17.32
+meenambakkam,SBI COLONY,control,12.979995645129,80.182923227549,excel,1129,219.25,,False,control,sbi-colony,1468.0,20.39
+meenambakkam,TRIDENT HOTEL,control,12.994157958808,80.185619920476,excel,1364,390.25,,False,control,trident-hotel,1773.0,24.62
+vadapalani,SALIGRAMAM,control,13.05413650267,80.204181075178,excel,936,1725.0,,False,control,saligramam,1217.0,16.9
+vadapalani,PUDUR HIGH SCHOOL,control,13.042097,80.216165,excel,1048,2569.0,,False,control,pudur-high-school,1362.0,18.92
+vadapalani,TRUSTPURAM,control,13.05283784,80.22150742,excel,1051,9819.0,,False,control,trustpuram,1366.0,18.97
+vadapalani,DASARATHAPURAM,control,13.05738,80.20416,excel,1133,282.25,,False,control,dasarathapuram,1473.0,20.46
+vadapalani,MMDACOLONY RD JN,control,13.062679,80.214339,excel,1350,14216.5,,False,control,mmdacolony-rd-jn,1755.0,24.38
+vadapalani,ANJUGAM SCHOOL,control,13.041464,80.22163,excel,1454,2004.0,,False,control,anjugam-school,1890.0,26.25
+pachiappas-college,KMC,control,13.0775,80.24074,excel,911,3637.0,,False,control,kmc,1184.0,16.44
+pachiappas-college,NUNGAMBAKKAM RS,control,13.066773467558,80.230561941535,excel,964,3241.0,,False,control,nungambakkam-rs,1253.0,17.4
+pachiappas-college,METHA NAGAR,control,13.067789673879,80.227119492429,excel,1020,131.25,,False,control,metha-nagar,1326.0,18.42
+pachiappas-college,CHETPET,control,13.070005,80.242027,excel,1170,79.5,,False,control,chetpet,1521.0,21.12
+pachiappas-college,ARUN HOTEL,control,13.072139,80.221933,excel,1212,3272.25,,False,control,arun-hotel,1576.0,21.89
+shenoy-nagar,ARUN HOTEL,control,13.072139,80.221933,excel,802,3272.25,,False,control,arun-hotel,1043.0,14.49
+shenoy-nagar,ANNA NAGAR EAST,control,13.084613,80.219903,excel,863,3371.5,,False,control,anna-nagar-east,1122.0,15.58
+shenoy-nagar,NEW ROAD,control,13.079695968853,80.233803760784,excel,951,2103.25,,False,control,new-road,1236.0,17.17
+shenoy-nagar,AVADI ROAD JN,control,13.079695968853,80.233803760784,excel,951,160.5,,False,control,avadi-road-jn,1236.0,17.17
+shenoy-nagar,KILPAUK GARDEN,control,13.081266079108,80.233568471922,excel,962,4633.25,,False,control,kilpauk-garden,1251.0,17.38
+shenoy-nagar,JN OF RGARDEN AND PEVR HRD,control,13.07519,80.21652,excel,1007,1839.5,,False,control,jn-of-rgarden-and-pevr-hrd,1309.0,18.18
+shenoy-nagar,ANNA NAGAR ROUNTANA,control,13.084473565043,80.215752124786,excel,1197,7961.25,,False,control,anna-nagar-rountana,1556.0,21.61
+shenoy-nagar,METHA NAGAR,control,13.067797504789,80.226845947382,excel,1220,131.25,,False,control,metha-nagar,1586.0,22.03
+shenoy-nagar,DG VAISHNAV COLLEGE,control,13.07612,80.2134029,excel,1299,10746.0,,False,control,dg-vaishnav-college,1689.0,23.46
+shenoy-nagar,TAYLORS ROAD,control,13.076624558726,80.237309688891,excel,1344,9993.75,,False,control,taylors-road,1747.0,24.26
+shenoy-nagar,BRINDAVAN COLONY,control,13.09081,80.22364,excel,1349,334.75,,False,control,brindavan-colony,1754.0,24.36
+shenoy-nagar,NADUVANKARAI BRIDGE,control,13.07927,80.2121,excel,1410,66.75,,False,control,naduvankarai-bridge,1833.0,25.46
+shenoy-nagar,NUNGAMBAKKAM RS,control,13.066686167034,80.230246851388,excel,1441,3241.0,,False,control,nungambakkam-rs,1873.0,26.01
+anna-nagar-east,BRINDAVAN COLONY,control,13.09081,80.22364,excel,871,334.75,,False,control,brindavan-colony,1132.0,15.72
+anna-nagar-east,NADUVANKARAI BRIDGE,control,13.07927,80.2121,excel,931,66.75,,False,control,naduvankarai-bridge,1210.0,16.81
+anna-nagar-east,JN OF RGARDEN AND PEVR HRD,control,13.07519,80.21652,excel,1061,1839.5,,False,control,jn-of-rgarden-and-pevr-hrd,1379.0,19.15
+anna-nagar-east,DG VAISHNAV COLLEGE,control,13.07612,80.2134029,excel,1098,10746.0,,False,control,dg-vaishnav-college,1427.0,19.82
+anna-nagar-east,ARUN HOTEL,control,13.072126,80.2216,excel,1404,3272.25,,False,control,arun-hotel,1825.0,25.35
+anna-nagar-east,AMINJIKARAI,control,13.074013,80.226887,excel,1455,12476.0,,False,control,aminjikarai,1892.0,26.28
+anna-nagar-tower,NADUVANKARAI BRIDGE,control,13.07927,80.2121,excel,699,66.75,,False,control,naduvankarai-bridge,909.0,12.62
+anna-nagar-tower,ANNA NAGAR ROUNTANA,control,13.084912476709,80.215644836426,excel,711,7961.25,,False,control,anna-nagar-rountana,924.0,12.83
+anna-nagar-tower,ARUMBAKKAM,control,13.076704,80.204286,excel,1041,6170.75,,False,control,arumbakkam,1353.0,18.79
+anna-nagar-tower,KARUMBAKKAM,control,13.076704,80.204286,excel,1041,58.5,,False,control,karumbakkam,1353.0,18.79
+anna-nagar-tower,MEYYUR ARUMBAKKAM,control,13.076704,80.204286,excel,1041,58.5,,False,control,meyyur-arumbakkam,1353.0,18.79
+anna-nagar-tower,THIRUMANGALAM,control,13.085147607637,80.199481844902,excel,1042,16911.75,,False,control,thirumangalam,1355.0,18.82
+anna-nagar-tower,THIRUMANGALAM METRO RS,control,13.085147607637,80.199481844902,excel,1042,96.5,,False,control,thirumangalam-metro-rs,1355.0,18.82
+anna-nagar-tower,THIRUMANGALAM SUNGAVA,control,13.085147607637,80.199481844902,excel,1042,0.5,,False,control,thirumangalam-sungava,1355.0,18.82
+anna-nagar-tower,DG VAISHNAV COLLEGE,control,13.07612,80.2134029,excel,1074,10746.0,,False,control,dg-vaishnav-college,1396.0,19.39
+anna-nagar-tower,JN OF RGARDEN AND PEVR HRD,control,13.07519,80.21652,excel,1339,1839.5,,False,control,jn-of-rgarden-and-pevr-hrd,1741.0,24.18
+anna-nagar-tower,AAR COLONY,control,13.094734227049,80.2013258636,excel,1379,42.5,,False,control,aar-colony,1793.0,24.9
+thirumangalam,ARUMBAKKAM,control,13.076704,80.204286,excel,934,6170.75,,False,control,arumbakkam,1214.0,16.86
+thirumangalam,KARUMBAKKAM,control,13.076704,80.204286,excel,934,58.5,,False,control,karumbakkam,1214.0,16.86
+thirumangalam,MEYYUR ARUMBAKKAM,control,13.076704,80.204286,excel,934,58.5,,False,control,meyyur-arumbakkam,1214.0,16.86
+thirumangalam,AAR COLONY,control,13.094734227049,80.2013258636,excel,1090,42.5,,False,control,aar-colony,1417.0,19.68
+thirumangalam,NADUVANKARAI BRIDGE,control,13.07927,80.2121,excel,1134,66.75,,False,control,naduvankarai-bridge,1474.0,20.47
+thirumangalam,ROHINI THEATER,control,13.07533219,80.19582408,excel,1365,620.25,,False,control,rohini-theater,1774.0,24.64
+thirumangalam,DG VAISHNAV COLLEGE,control,13.07612,80.2134029,excel,1463,10746.0,,False,control,dg-vaishnav-college,1902.0,26.42
+egmore,DASAPRAKASH,control,13.0791,80.25468,excel,671,15798.25,,False,control,dasaprakash,872.0,12.11
+egmore,DOVETON,control,13.0863,80.26134,excel,812,6906.75,,False,control,doveton,1056.0,14.67
+egmore,VETERINARY HOSPITAL,control,13.085502916169,80.265984535217,excel,911,9431.0,,False,control,veterinary-hospital,1184.0,16.44
+egmore,CHOOLAI PO,control,13.089797,80.264973,excel,1277,7360.5,,False,control,choolai-po,1660.0,23.06
+egmore,MOTCHAM THEATRE,control,13.084750497495,80.250379443169,excel,1304,3969.0,,False,control,motcham-theatre,1695.0,23.54
+nehru-park,KMC,control,13.0778,80.24417,excel,666,3637.0,,False,control,kmc,866.0,12.03
+nehru-park,MOTCHAM THEATRE,control,13.084614643878,80.250100493431,excel,675,3969.0,,False,control,motcham-theatre,878.0,12.19
+nehru-park,KELLYS,control,13.08566,80.24658,excel,886,6618.25,,False,control,kellys,1152.0,16.0
+nehru-park,EGMORE NORTH RS,control,13.07964,80.261255,excel,1197,884.5,,False,control,egmore-north-rs,1556.0,21.61
+nehru-park,EGMORE RS,control,13.077301951254,80.261360406876,excel,1210,13660.25,,False,control,egmore-rs,1573.0,21.85
+nehru-park,DPI,control,13.067484447684,80.2504132391,excel,1220,973.0,,False,control,dpi,1586.0,22.03
+nehru-park,DOVETON,control,13.086717628236,80.257810503244,excel,1221,6906.75,,False,control,doveton,1587.0,22.04
+nehru-park,CHETPET,control,13.070026,80.242145,excel,1288,79.5,,False,control,chetpet,1674.0,23.25
+nehru-park,TAYLORS ROAD,control,13.07642,80.23763,excel,1390,9993.75,,False,control,taylors-road,1807.0,25.1
+kilpauk,CHETPET,control,13.070026,80.242145,excel,832,79.5,,False,control,chetpet,1082.0,15.03
+kilpauk,KELLYS,control,13.08523793229,80.245515868737,excel,908,6618.25,,False,control,kellys,1180.0,16.39
+kilpauk,NEW ROAD,control,13.079695968853,80.233803760784,excel,984,2103.25,,False,control,new-road,1279.0,17.76
+kilpauk,AVADI ROAD JN,control,13.079695968853,80.233803760784,excel,984,160.5,,False,control,avadi-road-jn,1279.0,17.76
+kilpauk,DASAPRAKASH,control,13.07867,80.25349,excel,1186,15798.25,,False,control,dasaprakash,1542.0,21.42
+kilpauk,DPI,control,13.067484447684,80.2504132391,excel,1397,973.0,,False,control,dpi,1816.0,25.22
+ekkattuthangal,SAIDAPET WEST PARSN NAGAR,control,13.01971,80.21422,excel,1037,44.5,,False,control,saidapet-west-parsn-nagar,1348.0,18.72
+ekkattuthangal,GUINDY MKN SALAI,control,13.007372089176,80.209815591606,excel,1123,7088.75,,False,control,guindy-mkn-salai,1460.0,20.28
+ekkattuthangal,DEFENCE COLONY,control,13.02595,80.19989,excel,1197,30.5,,False,control,defence-colony,1556.0,21.61
+ekkattuthangal,ALANDUR METRO RS,control,13.0041772,80.2012221,excel,1429,513.5,,False,control,alandur-metro-rs,1858.0,25.81
+ashok-nagar,KKNAGAR WEST,control,13.03567901,80.20558811,excel,603,975.25,,False,control,kknagar-west,784.0,10.89
+ashok-nagar,KKNAGAR DEPOT,control,13.03567901,80.20558811,excel,603,169.75,,False,control,kknagar-depot,784.0,10.89
+ashok-nagar,MANNIVAKKAM KKNAGAR,control,13.03567901,80.20558811,excel,603,5.0,,False,control,mannivakkam-kknagar,784.0,10.89
+ashok-nagar,PUDUR HIGH SCHOOL,control,13.041901,80.216218,excel,903,2569.0,,False,control,pudur-high-school,1174.0,16.31
+ashok-nagar,POSTAL COLONY,control,13.036327009728,80.220574736595,excel,1028,35.25,,False,control,postal-colony,1336.0,18.56
+ashok-nagar,METTUPALAYAM,control,13.032347239231,80.220204591751,excel,1040,52.25,,False,control,mettupalayam,1352.0,18.78
+ashok-nagar,METTUPALAYAM ROAD JN,control,13.032347239231,80.220204591751,excel,1040,23.25,,False,control,mettupalayam-road-jn,1352.0,18.78
+ashok-nagar,VADAPALANI,control,13.046544297978,80.212140798503,excel,1234,19278.75,,False,control,vadapalani,1604.0,22.28
+ashok-nagar,VADAPALANI PS,control,13.046544297978,80.212140798503,excel,1234,2751.75,,False,control,vadapalani-ps,1604.0,22.28
+ashok-nagar,VADAPALANI BT,control,13.046544297978,80.212140798503,excel,1234,443.75,,False,control,vadapalani-bt,1604.0,22.28
+ashok-nagar,ANJUGAM SCHOOL,control,13.04129,80.22171,excel,1316,2004.0,,False,control,anjugam-school,1711.0,23.76
+ashok-nagar,SRINIVASA THEATRE,control,13.0311,80.22361,excel,1434,3434.5,,False,control,srinivasa-theatre,1864.0,25.89
+ashok-nagar,MANTHOPPU,control,13.024867,80.219118,excel,1454,23.5,,False,control,manthoppu,1890.0,26.25
+arumbakkam,DASARATHAPURAM,control,13.05738,80.20416,excel,961,282.25,,False,control,dasarathapuram,1249.0,17.35
+arumbakkam,MGRKOYAMBEDU,control,13.06941,80.20553,excel,1059,57696.75,,False,control,mgrkoyambedu,1377.0,19.12
+arumbakkam,SALIGRAMAM,control,13.05413650267,80.204181075178,excel,1189,1725.0,,False,control,saligramam,1546.0,21.47
+arumbakkam,VADAPALANI,control,13.05023,80.21351,excel,1314,19278.75,,False,control,vadapalani,1708.0,23.72
+arumbakkam,VADAPALANI PS,control,13.05023,80.21351,excel,1314,2751.75,,False,control,vadapalani-ps,1708.0,23.72
+arumbakkam,VADAPALANI BT,control,13.05023,80.21351,excel,1314,443.75,,False,control,vadapalani-bt,1708.0,23.72
+arumbakkam,KOYAMBEDU MARKET,control,13.068861019965,80.200127720636,excel,1467,2318.25,,False,control,koyambedu-market,1907.0,26.49
+arumbakkam,TRUSTPURAM,control,13.05283784,80.22150742,excel,1468,9819.0,,False,control,trustpuram,1908.0,26.5
+cmbt,KOYAMBEDU CHATRAM,control,13.071,80.1986,excel,627,12100.75,,False,control,koyambedu-chatram,815.0,11.32
+cmbt,ARUMBAKKAM,control,13.076557,80.204221,excel,883,6170.75,,False,control,arumbakkam,1148.0,15.94
+cmbt,KARUMBAKKAM,control,13.076557,80.204221,excel,883,58.5,,False,control,karumbakkam,1148.0,15.94
+cmbt,MEYYUR ARUMBAKKAM,control,13.076557,80.204221,excel,883,58.5,,False,control,meyyur-arumbakkam,1148.0,15.94
+cmbt,CHINMAYA NAGAR,control,13.063286083615,80.197216719389,excel,927,2605.5,,False,control,chinmaya-nagar,1205.0,16.74
+cmbt,MMDACOLONY RD JN,control,13.063512011107,80.211511552334,excel,1004,14216.5,,False,control,mmdacolony-rd-jn,1305.0,18.12
+cmbt,ROHINI THEATER,control,13.07503,80.19558,excel,1144,620.25,,False,control,rohini-theater,1487.0,20.65
+cmbt,DASARATHAPURAM,control,13.05738,80.20416,excel,1240,282.25,,False,control,dasarathapuram,1612.0,22.39
+cmbt,DG VAISHNAV COLLEGE,control,13.07612,80.2134029,excel,1331,10746.0,,False,control,dg-vaishnav-college,1730.0,24.03
+cmbt,NADUVANKARAI BRIDGE,control,13.07927,80.2121,excel,1483,66.75,,False,control,naduvankarai-bridge,1928.0,26.78
+koyambedu,PADIKUPPAM,control,13.076126256965,80.188655108213,excel,737,202.25,,False,control,padikuppam,958.0,13.31
+koyambedu,KOYAMBEDU MARKET,control,13.068861019965,80.200127720636,excel,763,2318.25,,False,control,koyambedu-market,992.0,13.78
+koyambedu,NERKUNDRAM,control,13.071379,80.186318,excel,956,6332.5,,False,control,nerkundram,1243.0,17.26
+koyambedu,ARUMBAKKAM,control,13.076557,80.204221,excel,1069,6170.75,,False,control,arumbakkam,1390.0,19.31
+koyambedu,KARUMBAKKAM,control,13.076557,80.204221,excel,1069,58.5,,False,control,karumbakkam,1390.0,19.31
+koyambedu,MEYYUR ARUMBAKKAM,control,13.076557,80.204221,excel,1069,58.5,,False,control,meyyur-arumbakkam,1390.0,19.31
+koyambedu,CHINMAYA NAGAR,control,13.063286083615,80.197216719389,excel,1153,2605.5,,False,control,chinmaya-nagar,1499.0,20.82
+koyambedu,MGRKOYAMBEDU,control,13.06941,80.20553,excel,1238,57696.75,,False,control,mgrkoyambedu,1609.0,22.35
+koyambedu,THIRUMANGALAM,control,13.085147607637,80.199481844902,excel,1386,16911.75,,False,control,thirumangalam,1802.0,25.03
+koyambedu,THIRUMANGALAM METRO RS,control,13.085147607637,80.199481844902,excel,1386,96.5,,False,control,thirumangalam-metro-rs,1802.0,25.03
+koyambedu,THIRUMANGALAM SUNGAVA,control,13.085147607637,80.199481844902,excel,1386,0.5,,False,control,thirumangalam-sungava,1802.0,25.03
+koyambedu,FIRE STATION,control,13.08485,80.18756,excel,1489,2030.0,,False,control,fire-station,1936.0,26.89
+st-thomas-mount,CEMENT ROAD,control,12.996505001491,80.189692318472,excel,860,0.25,,False,control,cement-road,1118.0,15.53
+st-thomas-mount,KAKKAN BRIDGE,control,12.989325,80.204908,excel,1005,993.25,,False,control,kakkan-bridge,1306.0,18.14
+st-thomas-mount,ALANDUR METRO RS,control,13.0040534,80.2009383,excel,1109,513.5,,False,control,alandur-metro-rs,1442.0,20.03
+st-thomas-mount,NGOCOLONY,control,12.997814039217,80.207328647375,excel,1133,4130.75,,False,control,ngocolony,1473.0,20.46
+st-thomas-mount,TRIDENT HOTEL,control,12.994145095907,80.185998916741,excel,1237,390.25,,False,control,trident-hotel,1608.0,22.33
+st-thomas-mount,BUTT ROAD,control,13.007256336127,80.196958959168,excel,1395,3011.5,,False,control,butt-road,1814.0,25.19

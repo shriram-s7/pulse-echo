@@ -1,0 +1,83 @@
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/inter/700.css';
+
+:root {
+  --metro-blue: #3B6FE0;
+  --metro-blue-subtle: #EEF3FF;
+  --bus-orange: #E07A1F;
+  --bus-orange-subtle: #FEF4EB;
+  
+  --line-blue: #2F6BFF;
+  --line-green: #2BA84A;
+  
+  --level-high: #E5484D;
+  --level-high-bg: #FDF2F2;
+  --level-med: #F5A524;
+  --level-med-bg: #FEF8EC;
+  --level-low: #46A758;
+  --level-low-bg: #EDF7EE;
+
+  --bg-app: #F8F9FA;
+  --bg-surface: #FFFFFF;
+  --bg-muted: #F3F4F6;
+  --border-light: #E5E7EB;
+  --border-subtle: #EFF1F4;
+
+  --text-main: #181C24;
+  --text-secondary: #586071;
+  --text-muted: #8E95A5;
+
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.02);
+  --shadow-card: 0 6px 24px -4px rgba(18, 28, 45, 0.07), 0 2px 8px -2px rgba(18, 28, 45, 0.04);
+  --shadow-floating: 0 12px 36px -4px rgba(18, 28, 45, 0.12), 0 4px 12px -2px rgba(18, 28, 45, 0.05);
+
+  --radius-card: 14px;
+  --radius-pill: 9999px;
+  --radius-sm: 8px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body, html, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--text-main);
+  background-color: var(--bg-app);
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+input, select {
+  font-family: inherit;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #D1D5DB;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9CA3AF;
+}
+

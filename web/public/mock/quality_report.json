@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-03-07T04:00:00Z",
+  "files": {
+    "CMRL_Exit.csv": {
+      "total_rows": 184520,
+      "flagged_rows": 482,
+      "reasons": {
+        "missing_2_march": 0,
+        "copied_7_march_flagged": 26110,
+        "blank_rows": 36,
+        "station_0426_invalid": 12,
+        "off_hours_0000_0430": 434
+      }
+    },
+    "CMRL_Entry.csv": {
+      "total_rows": 192300,
+      "flagged_rows": 390,
+      "reasons": {
+        "off_hours_0000_0430": 390
+      }
+    },
+    "ETM_Ticket_Data": {
+      "total_rows": 7892110,
+      "flagged_rows": 184200,
+      "reasons": {
+        "epoch_1970_timestamp": 412,
+        "after_midnight_duty_date_corrected": 89430,
+        "free_women_no_destination": 94358
+      }
+    }
+  }
+}

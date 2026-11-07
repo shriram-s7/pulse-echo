@@ -1,0 +1,273 @@
+{
+  "id": "koyambedu",
+  "pulse_echo": {
+    "date": "2026-03-04",
+    "exits_5min": [
+      {
+        "t": "07:45",
+        "v": 222
+      },
+      {
+        "t": "07:50",
+        "v": 31
+      },
+      {
+        "t": "07:55",
+        "v": 288
+      },
+      {
+        "t": "08:00",
+        "v": 33
+      },
+      {
+        "t": "08:05",
+        "v": 218
+      },
+      {
+        "t": "08:10",
+        "v": 19
+      },
+      {
+        "t": "08:15",
+        "v": 265
+      },
+      {
+        "t": "08:20",
+        "v": 20
+      },
+      {
+        "t": "08:25",
+        "v": 231
+      },
+      {
+        "t": "08:30",
+        "v": 27
+      },
+      {
+        "t": "08:35",
+        "v": 196
+      },
+      {
+        "t": "08:40",
+        "v": 23
+      },
+      {
+        "t": "08:45",
+        "v": 265
+      },
+      {
+        "t": "08:50",
+        "v": 31
+      },
+      {
+        "t": "08:55",
+        "v": 275
+      },
+      {
+        "t": "09:00",
+        "v": 29
+      },
+      {
+        "t": "09:05",
+        "v": 252
+      },
+      {
+        "t": "09:10",
+        "v": 22
+      },
+      {
+        "t": "09:15",
+        "v": 250
+      },
+      {
+        "t": "09:20",
+        "v": 19
+      },
+      {
+        "t": "09:25",
+        "v": 216
+      },
+      {
+        "t": "09:30",
+        "v": 23
+      },
+      {
+        "t": "09:35",
+        "v": 280
+      },
+      {
+        "t": "09:40",
+        "v": 29
+      }
+    ],
+    "bus_arrivals": [
+      {
+        "t": "07:49",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 52,
+        "echo": 37
+      },
+      {
+        "t": "07:59",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 45,
+        "echo": 32
+      },
+      {
+        "t": "08:09",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 58,
+        "echo": 41
+      },
+      {
+        "t": "08:19",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 55,
+        "echo": 39
+      },
+      {
+        "t": "08:29",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 51,
+        "echo": 36
+      },
+      {
+        "t": "08:39",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 48,
+        "echo": 34
+      },
+      {
+        "t": "08:49",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 54,
+        "echo": 38
+      },
+      {
+        "t": "08:59",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 47,
+        "echo": 33
+      },
+      {
+        "t": "09:09",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 51,
+        "echo": 36
+      },
+      {
+        "t": "09:19",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 42,
+        "echo": 30
+      },
+      {
+        "t": "09:29",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 48,
+        "echo": 34
+      },
+      {
+        "t": "09:39",
+        "stop_id": "cmbt-mfs",
+        "route": "70A",
+        "boardings": 60,
+        "echo": 43
+      }
+    ]
+  },
+  "routes": [
+    {
+      "route": "70A",
+      "stop_id": "cmbt-mfs",
+      "transfers_per_day": 2456,
+      "share_pct": 8.5,
+      "avg_wait_min": 14.5,
+      "headway_min_peak": 14,
+      "boardings_per_trip_peak": 65,
+      "capacity": 60
+    },
+    {
+      "route": "27B",
+      "stop_id": "cmbt-mfs",
+      "transfers_per_day": 1502,
+      "share_pct": 5.2,
+      "avg_wait_min": 12.8,
+      "headway_min_peak": 12,
+      "boardings_per_trip_peak": 58,
+      "capacity": 60
+    },
+    {
+      "route": "101",
+      "stop_id": "cmbt-mfs",
+      "transfers_per_day": 1098,
+      "share_pct": 3.8,
+      "avg_wait_min": 11.2,
+      "headway_min_peak": 15,
+      "boardings_per_trip_peak": 52,
+      "capacity": 60
+    },
+    {
+      "route": "15F",
+      "stop_id": "koyambedu-market",
+      "transfers_per_day": 2138,
+      "share_pct": 7.4,
+      "avg_wait_min": 13.0,
+      "headway_min_peak": 15,
+      "boardings_per_trip_peak": 55,
+      "capacity": 60
+    },
+    {
+      "route": "16J",
+      "stop_id": "koyambedu-market",
+      "transfers_per_day": 1849,
+      "share_pct": 6.4,
+      "avg_wait_min": 12.2,
+      "headway_min_peak": 16,
+      "boardings_per_trip_peak": 50,
+      "capacity": 60
+    },
+    {
+      "route": "46",
+      "stop_id": "rohinic-theatre",
+      "transfers_per_day": 1387,
+      "share_pct": 4.8,
+      "avg_wait_min": 11.5,
+      "headway_min_peak": 20,
+      "boardings_per_trip_peak": 47,
+      "capacity": 60
+    },
+    {
+      "route": "591",
+      "stop_id": "rohinic-theatre",
+      "transfers_per_day": 1069,
+      "share_pct": 3.7,
+      "avg_wait_min": 10.0,
+      "headway_min_peak": 18,
+      "boardings_per_trip_peak": 40,
+      "capacity": 60
+    }
+  ],
+  "regulars": [
+    {
+      "window": "08:15-08:30",
+      "regular_cards": 346,
+      "top_route": "70A",
+      "likely_purpose": "work/education",
+      "destination_hint": "Ambattur Industrial Estate / CMBT Wholesale"
+    }
+  ],
+  "method": "quick_estimate",
+  "validation": null
+}

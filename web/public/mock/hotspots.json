@@ -1,0 +1,2260 @@
+{
+  "window": "2026-03-03..2026-03-06",
+  "stations": [
+    {
+      "id": "airport",
+      "exits_per_day": 14200,
+      "transfers_per_day": 4600,
+      "transfer_pct": 32.4,
+      "avg_wait_min": 6.8,
+      "level": "medium",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 298,
+          "transfers": 91,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 6,
+          "exits": 298,
+          "transfers": 91,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 7,
+          "exits": 971,
+          "transfers": 298,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 8,
+          "exits": 1793,
+          "transfers": 639,
+          "avg_wait_min": 8.2
+        },
+        {
+          "hour": 9,
+          "exits": 1793,
+          "transfers": 639,
+          "avg_wait_min": 8.2
+        },
+        {
+          "hour": 10,
+          "exits": 747,
+          "transfers": 229,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 11,
+          "exits": 747,
+          "transfers": 229,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 12,
+          "exits": 747,
+          "transfers": 229,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 13,
+          "exits": 747,
+          "transfers": 229,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 14,
+          "exits": 747,
+          "transfers": 229,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 15,
+          "exits": 747,
+          "transfers": 229,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 16,
+          "exits": 747,
+          "transfers": 229,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 17,
+          "exits": 1569,
+          "transfers": 559,
+          "avg_wait_min": 8.2
+        },
+        {
+          "hour": 18,
+          "exits": 1569,
+          "transfers": 559,
+          "avg_wait_min": 8.2
+        },
+        {
+          "hour": 19,
+          "exits": 1569,
+          "transfers": 559,
+          "avg_wait_min": 8.2
+        },
+        {
+          "hour": 20,
+          "exits": 971,
+          "transfers": 298,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 21,
+          "exits": 971,
+          "transfers": 298,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 22,
+          "exits": 298,
+          "transfers": 91,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 23,
+          "exits": 298,
+          "transfers": 91,
+          "avg_wait_min": 5.8
+        }
+      ]
+    },
+    {
+      "id": "meenambakkam",
+      "exits_per_day": 6800,
+      "transfers_per_day": 1700,
+      "transfer_pct": 25.0,
+      "avg_wait_min": 8.4,
+      "level": "low",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 143,
+          "transfers": 33,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 6,
+          "exits": 143,
+          "transfers": 33,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 7,
+          "exits": 465,
+          "transfers": 110,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 8,
+          "exits": 858,
+          "transfers": 235,
+          "avg_wait_min": 10.1
+        },
+        {
+          "hour": 9,
+          "exits": 858,
+          "transfers": 235,
+          "avg_wait_min": 10.1
+        },
+        {
+          "hour": 10,
+          "exits": 357,
+          "transfers": 84,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 11,
+          "exits": 357,
+          "transfers": 84,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 12,
+          "exits": 357,
+          "transfers": 84,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 13,
+          "exits": 357,
+          "transfers": 84,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 14,
+          "exits": 357,
+          "transfers": 84,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 15,
+          "exits": 357,
+          "transfers": 84,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 16,
+          "exits": 357,
+          "transfers": 84,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 17,
+          "exits": 751,
+          "transfers": 206,
+          "avg_wait_min": 10.1
+        },
+        {
+          "hour": 18,
+          "exits": 751,
+          "transfers": 206,
+          "avg_wait_min": 10.1
+        },
+        {
+          "hour": 19,
+          "exits": 751,
+          "transfers": 206,
+          "avg_wait_min": 10.1
+        },
+        {
+          "hour": 20,
+          "exits": 465,
+          "transfers": 110,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 21,
+          "exits": 465,
+          "transfers": 110,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 22,
+          "exits": 143,
+          "transfers": 33,
+          "avg_wait_min": 7.1
+        },
+        {
+          "hour": 23,
+          "exits": 143,
+          "transfers": 33,
+          "avg_wait_min": 7.1
+        }
+      ]
+    },
+    {
+      "id": "alandur",
+      "exits_per_day": 21500,
+      "transfers_per_day": 7800,
+      "transfer_pct": 36.3,
+      "avg_wait_min": 7.2,
+      "level": "high",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 452,
+          "transfers": 155,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 6,
+          "exits": 452,
+          "transfers": 155,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 7,
+          "exits": 1471,
+          "transfers": 507,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 8,
+          "exits": 2715,
+          "transfers": 1084,
+          "avg_wait_min": 8.6
+        },
+        {
+          "hour": 9,
+          "exits": 2715,
+          "transfers": 1084,
+          "avg_wait_min": 8.6
+        },
+        {
+          "hour": 10,
+          "exits": 1131,
+          "transfers": 390,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 11,
+          "exits": 1131,
+          "transfers": 390,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 12,
+          "exits": 1131,
+          "transfers": 390,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 13,
+          "exits": 1131,
+          "transfers": 390,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 14,
+          "exits": 1131,
+          "transfers": 390,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 15,
+          "exits": 1131,
+          "transfers": 390,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 16,
+          "exits": 1131,
+          "transfers": 390,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 17,
+          "exits": 2376,
+          "transfers": 948,
+          "avg_wait_min": 8.6
+        },
+        {
+          "hour": 18,
+          "exits": 2376,
+          "transfers": 948,
+          "avg_wait_min": 8.6
+        },
+        {
+          "hour": 19,
+          "exits": 2376,
+          "transfers": 948,
+          "avg_wait_min": 8.6
+        },
+        {
+          "hour": 20,
+          "exits": 1471,
+          "transfers": 507,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 21,
+          "exits": 1471,
+          "transfers": 507,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 22,
+          "exits": 452,
+          "transfers": 155,
+          "avg_wait_min": 6.1
+        },
+        {
+          "hour": 23,
+          "exits": 452,
+          "transfers": 155,
+          "avg_wait_min": 6.1
+        }
+      ]
+    },
+    {
+      "id": "guindy",
+      "exits_per_day": 26400,
+      "transfers_per_day": 10200,
+      "transfer_pct": 38.6,
+      "avg_wait_min": 11.4,
+      "level": "high",
+      "wait_level": "bad",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 555,
+          "transfers": 203,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 6,
+          "exits": 555,
+          "transfers": 203,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 7,
+          "exits": 1806,
+          "transfers": 662,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 8,
+          "exits": 3334,
+          "transfers": 1415,
+          "avg_wait_min": 13.7
+        },
+        {
+          "hour": 9,
+          "exits": 3334,
+          "transfers": 1415,
+          "avg_wait_min": 13.7
+        },
+        {
+          "hour": 10,
+          "exits": 1389,
+          "transfers": 509,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 11,
+          "exits": 1389,
+          "transfers": 509,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 12,
+          "exits": 1389,
+          "transfers": 509,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 13,
+          "exits": 1389,
+          "transfers": 509,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 14,
+          "exits": 1389,
+          "transfers": 509,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 15,
+          "exits": 1389,
+          "transfers": 509,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 16,
+          "exits": 1389,
+          "transfers": 509,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 17,
+          "exits": 2917,
+          "transfers": 1238,
+          "avg_wait_min": 13.7
+        },
+        {
+          "hour": 18,
+          "exits": 2917,
+          "transfers": 1238,
+          "avg_wait_min": 13.7
+        },
+        {
+          "hour": 19,
+          "exits": 2917,
+          "transfers": 1238,
+          "avg_wait_min": 13.7
+        },
+        {
+          "hour": 20,
+          "exits": 1806,
+          "transfers": 662,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 21,
+          "exits": 1806,
+          "transfers": 662,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 22,
+          "exits": 555,
+          "transfers": 203,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 23,
+          "exits": 555,
+          "transfers": 203,
+          "avg_wait_min": 9.7
+        }
+      ]
+    },
+    {
+      "id": "saidapet",
+      "exits_per_day": 15800,
+      "transfers_per_day": 5200,
+      "transfer_pct": 32.9,
+      "avg_wait_min": 9.1,
+      "level": "medium",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 332,
+          "transfers": 103,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 6,
+          "exits": 332,
+          "transfers": 103,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 7,
+          "exits": 1081,
+          "transfers": 337,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 8,
+          "exits": 1995,
+          "transfers": 721,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 9,
+          "exits": 1995,
+          "transfers": 721,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 10,
+          "exits": 831,
+          "transfers": 259,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 11,
+          "exits": 831,
+          "transfers": 259,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 12,
+          "exits": 831,
+          "transfers": 259,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 13,
+          "exits": 831,
+          "transfers": 259,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 14,
+          "exits": 831,
+          "transfers": 259,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 15,
+          "exits": 831,
+          "transfers": 259,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 16,
+          "exits": 831,
+          "transfers": 259,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 17,
+          "exits": 1746,
+          "transfers": 631,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 18,
+          "exits": 1746,
+          "transfers": 631,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 19,
+          "exits": 1746,
+          "transfers": 631,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 20,
+          "exits": 1081,
+          "transfers": 337,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 21,
+          "exits": 1081,
+          "transfers": 337,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 22,
+          "exits": 332,
+          "transfers": 103,
+          "avg_wait_min": 7.7
+        },
+        {
+          "hour": 23,
+          "exits": 332,
+          "transfers": 103,
+          "avg_wait_min": 7.7
+        }
+      ]
+    },
+    {
+      "id": "teynampet",
+      "exits_per_day": 11200,
+      "transfers_per_day": 3100,
+      "transfer_pct": 27.7,
+      "avg_wait_min": 6.2,
+      "level": "low",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 235,
+          "transfers": 61,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 6,
+          "exits": 235,
+          "transfers": 61,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 7,
+          "exits": 766,
+          "transfers": 201,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 8,
+          "exits": 1414,
+          "transfers": 430,
+          "avg_wait_min": 7.4
+        },
+        {
+          "hour": 9,
+          "exits": 1414,
+          "transfers": 430,
+          "avg_wait_min": 7.4
+        },
+        {
+          "hour": 10,
+          "exits": 589,
+          "transfers": 154,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 11,
+          "exits": 589,
+          "transfers": 154,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 12,
+          "exits": 589,
+          "transfers": 154,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 13,
+          "exits": 589,
+          "transfers": 154,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 14,
+          "exits": 589,
+          "transfers": 154,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 15,
+          "exits": 589,
+          "transfers": 154,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 16,
+          "exits": 589,
+          "transfers": 154,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 17,
+          "exits": 1237,
+          "transfers": 376,
+          "avg_wait_min": 7.4
+        },
+        {
+          "hour": 18,
+          "exits": 1237,
+          "transfers": 376,
+          "avg_wait_min": 7.4
+        },
+        {
+          "hour": 19,
+          "exits": 1237,
+          "transfers": 376,
+          "avg_wait_min": 7.4
+        },
+        {
+          "hour": 20,
+          "exits": 766,
+          "transfers": 201,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 21,
+          "exits": 766,
+          "transfers": 201,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 22,
+          "exits": 235,
+          "transfers": 61,
+          "avg_wait_min": 5.3
+        },
+        {
+          "hour": 23,
+          "exits": 235,
+          "transfers": 61,
+          "avg_wait_min": 5.3
+        }
+      ]
+    },
+    {
+      "id": "thousand-lights",
+      "exits_per_day": 16400,
+      "transfers_per_day": 4900,
+      "transfer_pct": 29.9,
+      "avg_wait_min": 8.5,
+      "level": "medium",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 345,
+          "transfers": 97,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 6,
+          "exits": 345,
+          "transfers": 97,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 7,
+          "exits": 1122,
+          "transfers": 318,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 8,
+          "exits": 2071,
+          "transfers": 681,
+          "avg_wait_min": 10.2
+        },
+        {
+          "hour": 9,
+          "exits": 2071,
+          "transfers": 681,
+          "avg_wait_min": 10.2
+        },
+        {
+          "hour": 10,
+          "exits": 863,
+          "transfers": 245,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 11,
+          "exits": 863,
+          "transfers": 245,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 12,
+          "exits": 863,
+          "transfers": 245,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 13,
+          "exits": 863,
+          "transfers": 245,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 14,
+          "exits": 863,
+          "transfers": 245,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 15,
+          "exits": 863,
+          "transfers": 245,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 16,
+          "exits": 863,
+          "transfers": 245,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 17,
+          "exits": 1812,
+          "transfers": 595,
+          "avg_wait_min": 10.2
+        },
+        {
+          "hour": 18,
+          "exits": 1812,
+          "transfers": 595,
+          "avg_wait_min": 10.2
+        },
+        {
+          "hour": 19,
+          "exits": 1812,
+          "transfers": 595,
+          "avg_wait_min": 10.2
+        },
+        {
+          "hour": 20,
+          "exits": 1122,
+          "transfers": 318,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 21,
+          "exits": 1122,
+          "transfers": 318,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 22,
+          "exits": 345,
+          "transfers": 97,
+          "avg_wait_min": 7.2
+        },
+        {
+          "hour": 23,
+          "exits": 345,
+          "transfers": 97,
+          "avg_wait_min": 7.2
+        }
+      ]
+    },
+    {
+      "id": "lic",
+      "exits_per_day": 12800,
+      "transfers_per_day": 3800,
+      "transfer_pct": 29.7,
+      "avg_wait_min": 5.8,
+      "level": "low",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 269,
+          "transfers": 75,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 6,
+          "exits": 269,
+          "transfers": 75,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 7,
+          "exits": 875,
+          "transfers": 246,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 8,
+          "exits": 1616,
+          "transfers": 527,
+          "avg_wait_min": 7.0
+        },
+        {
+          "hour": 9,
+          "exits": 1616,
+          "transfers": 527,
+          "avg_wait_min": 7.0
+        },
+        {
+          "hour": 10,
+          "exits": 673,
+          "transfers": 189,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 11,
+          "exits": 673,
+          "transfers": 189,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 12,
+          "exits": 673,
+          "transfers": 189,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 13,
+          "exits": 673,
+          "transfers": 189,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 14,
+          "exits": 673,
+          "transfers": 189,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 15,
+          "exits": 673,
+          "transfers": 189,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 16,
+          "exits": 673,
+          "transfers": 189,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 17,
+          "exits": 1414,
+          "transfers": 461,
+          "avg_wait_min": 7.0
+        },
+        {
+          "hour": 18,
+          "exits": 1414,
+          "transfers": 461,
+          "avg_wait_min": 7.0
+        },
+        {
+          "hour": 19,
+          "exits": 1414,
+          "transfers": 461,
+          "avg_wait_min": 7.0
+        },
+        {
+          "hour": 20,
+          "exits": 875,
+          "transfers": 246,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 21,
+          "exits": 875,
+          "transfers": 246,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 22,
+          "exits": 269,
+          "transfers": 75,
+          "avg_wait_min": 4.9
+        },
+        {
+          "hour": 23,
+          "exits": 269,
+          "transfers": 75,
+          "avg_wait_min": 4.9
+        }
+      ]
+    },
+    {
+      "id": "government-estate",
+      "exits_per_day": 9400,
+      "transfers_per_day": 2400,
+      "transfer_pct": 25.5,
+      "avg_wait_min": 4.8,
+      "level": "low",
+      "wait_level": "good",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 197,
+          "transfers": 47,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 6,
+          "exits": 197,
+          "transfers": 47,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 7,
+          "exits": 643,
+          "transfers": 155,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 8,
+          "exits": 1187,
+          "transfers": 332,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 9,
+          "exits": 1187,
+          "transfers": 332,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 10,
+          "exits": 494,
+          "transfers": 119,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 11,
+          "exits": 494,
+          "transfers": 119,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 12,
+          "exits": 494,
+          "transfers": 119,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 13,
+          "exits": 494,
+          "transfers": 119,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 14,
+          "exits": 494,
+          "transfers": 119,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 15,
+          "exits": 494,
+          "transfers": 119,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 16,
+          "exits": 494,
+          "transfers": 119,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 17,
+          "exits": 1038,
+          "transfers": 291,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 18,
+          "exits": 1038,
+          "transfers": 291,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 19,
+          "exits": 1038,
+          "transfers": 291,
+          "avg_wait_min": 5.8
+        },
+        {
+          "hour": 20,
+          "exits": 643,
+          "transfers": 155,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 21,
+          "exits": 643,
+          "transfers": 155,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 22,
+          "exits": 197,
+          "transfers": 47,
+          "avg_wait_min": 4.1
+        },
+        {
+          "hour": 23,
+          "exits": 197,
+          "transfers": 47,
+          "avg_wait_min": 4.1
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "exits_per_day": 34500,
+      "transfers_per_day": 12800,
+      "transfer_pct": 37.1,
+      "avg_wait_min": 12.8,
+      "level": "high",
+      "wait_level": "bad",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 726,
+          "transfers": 255,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 6,
+          "exits": 726,
+          "transfers": 255,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 7,
+          "exits": 2360,
+          "transfers": 831,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 8,
+          "exits": 4357,
+          "transfers": 1778,
+          "avg_wait_min": 15.4
+        },
+        {
+          "hour": 9,
+          "exits": 4357,
+          "transfers": 1778,
+          "avg_wait_min": 15.4
+        },
+        {
+          "hour": 10,
+          "exits": 1815,
+          "transfers": 639,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 11,
+          "exits": 1815,
+          "transfers": 639,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 12,
+          "exits": 1815,
+          "transfers": 639,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 13,
+          "exits": 1815,
+          "transfers": 639,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 14,
+          "exits": 1815,
+          "transfers": 639,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 15,
+          "exits": 1815,
+          "transfers": 639,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 16,
+          "exits": 1815,
+          "transfers": 639,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 17,
+          "exits": 3813,
+          "transfers": 1556,
+          "avg_wait_min": 15.4
+        },
+        {
+          "hour": 18,
+          "exits": 3813,
+          "transfers": 1556,
+          "avg_wait_min": 15.4
+        },
+        {
+          "hour": 19,
+          "exits": 3813,
+          "transfers": 1556,
+          "avg_wait_min": 15.4
+        },
+        {
+          "hour": 20,
+          "exits": 2360,
+          "transfers": 831,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 21,
+          "exits": 2360,
+          "transfers": 831,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 22,
+          "exits": 726,
+          "transfers": 255,
+          "avg_wait_min": 10.9
+        },
+        {
+          "hour": 23,
+          "exits": 726,
+          "transfers": 255,
+          "avg_wait_min": 10.9
+        }
+      ]
+    },
+    {
+      "id": "egmore",
+      "exits_per_day": 18200,
+      "transfers_per_day": 6100,
+      "transfer_pct": 33.5,
+      "avg_wait_min": 7.9,
+      "level": "medium",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 383,
+          "transfers": 121,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 6,
+          "exits": 383,
+          "transfers": 121,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 7,
+          "exits": 1245,
+          "transfers": 396,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 8,
+          "exits": 2298,
+          "transfers": 846,
+          "avg_wait_min": 9.5
+        },
+        {
+          "hour": 9,
+          "exits": 2298,
+          "transfers": 846,
+          "avg_wait_min": 9.5
+        },
+        {
+          "hour": 10,
+          "exits": 957,
+          "transfers": 304,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 11,
+          "exits": 957,
+          "transfers": 304,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 12,
+          "exits": 957,
+          "transfers": 304,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 13,
+          "exits": 957,
+          "transfers": 304,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 14,
+          "exits": 957,
+          "transfers": 304,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 15,
+          "exits": 957,
+          "transfers": 304,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 16,
+          "exits": 957,
+          "transfers": 304,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 17,
+          "exits": 2011,
+          "transfers": 741,
+          "avg_wait_min": 9.5
+        },
+        {
+          "hour": 18,
+          "exits": 2011,
+          "transfers": 741,
+          "avg_wait_min": 9.5
+        },
+        {
+          "hour": 19,
+          "exits": 2011,
+          "transfers": 741,
+          "avg_wait_min": 9.5
+        },
+        {
+          "hour": 20,
+          "exits": 1245,
+          "transfers": 396,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 21,
+          "exits": 1245,
+          "transfers": 396,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 22,
+          "exits": 383,
+          "transfers": 121,
+          "avg_wait_min": 6.7
+        },
+        {
+          "hour": 23,
+          "exits": 383,
+          "transfers": 121,
+          "avg_wait_min": 6.7
+        }
+      ]
+    },
+    {
+      "id": "kilpauk",
+      "exits_per_day": 10500,
+      "transfers_per_day": 2900,
+      "transfer_pct": 27.6,
+      "avg_wait_min": 6.5,
+      "level": "low",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 221,
+          "transfers": 57,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 6,
+          "exits": 221,
+          "transfers": 57,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 7,
+          "exits": 718,
+          "transfers": 188,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 8,
+          "exits": 1326,
+          "transfers": 402,
+          "avg_wait_min": 7.8
+        },
+        {
+          "hour": 9,
+          "exits": 1326,
+          "transfers": 402,
+          "avg_wait_min": 7.8
+        },
+        {
+          "hour": 10,
+          "exits": 552,
+          "transfers": 144,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 11,
+          "exits": 552,
+          "transfers": 144,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 12,
+          "exits": 552,
+          "transfers": 144,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 13,
+          "exits": 552,
+          "transfers": 144,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 14,
+          "exits": 552,
+          "transfers": 144,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 15,
+          "exits": 552,
+          "transfers": 144,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 16,
+          "exits": 552,
+          "transfers": 144,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 17,
+          "exits": 1160,
+          "transfers": 352,
+          "avg_wait_min": 7.8
+        },
+        {
+          "hour": 18,
+          "exits": 1160,
+          "transfers": 352,
+          "avg_wait_min": 7.8
+        },
+        {
+          "hour": 19,
+          "exits": 1160,
+          "transfers": 352,
+          "avg_wait_min": 7.8
+        },
+        {
+          "hour": 20,
+          "exits": 718,
+          "transfers": 188,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 21,
+          "exits": 718,
+          "transfers": 188,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 22,
+          "exits": 221,
+          "transfers": 57,
+          "avg_wait_min": 5.5
+        },
+        {
+          "hour": 23,
+          "exits": 221,
+          "transfers": 57,
+          "avg_wait_min": 5.5
+        }
+      ]
+    },
+    {
+      "id": "anna-nagar-tower",
+      "exits_per_day": 13400,
+      "transfers_per_day": 3900,
+      "transfer_pct": 29.1,
+      "avg_wait_min": 7.4,
+      "level": "low",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 282,
+          "transfers": 77,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 6,
+          "exits": 282,
+          "transfers": 77,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 7,
+          "exits": 916,
+          "transfers": 253,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 8,
+          "exits": 1692,
+          "transfers": 541,
+          "avg_wait_min": 8.9
+        },
+        {
+          "hour": 9,
+          "exits": 1692,
+          "transfers": 541,
+          "avg_wait_min": 8.9
+        },
+        {
+          "hour": 10,
+          "exits": 705,
+          "transfers": 194,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 11,
+          "exits": 705,
+          "transfers": 194,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 12,
+          "exits": 705,
+          "transfers": 194,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 13,
+          "exits": 705,
+          "transfers": 194,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 14,
+          "exits": 705,
+          "transfers": 194,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 15,
+          "exits": 705,
+          "transfers": 194,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 16,
+          "exits": 705,
+          "transfers": 194,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 17,
+          "exits": 1481,
+          "transfers": 474,
+          "avg_wait_min": 8.9
+        },
+        {
+          "hour": 18,
+          "exits": 1481,
+          "transfers": 474,
+          "avg_wait_min": 8.9
+        },
+        {
+          "hour": 19,
+          "exits": 1481,
+          "transfers": 474,
+          "avg_wait_min": 8.9
+        },
+        {
+          "hour": 20,
+          "exits": 916,
+          "transfers": 253,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 21,
+          "exits": 916,
+          "transfers": 253,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 22,
+          "exits": 282,
+          "transfers": 77,
+          "avg_wait_min": 6.3
+        },
+        {
+          "hour": 23,
+          "exits": 282,
+          "transfers": 77,
+          "avg_wait_min": 6.3
+        }
+      ]
+    },
+    {
+      "id": "thirumangalam",
+      "exits_per_day": 19800,
+      "transfers_per_day": 7200,
+      "transfer_pct": 36.4,
+      "avg_wait_min": 10.6,
+      "level": "medium",
+      "wait_level": "bad",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 416,
+          "transfers": 143,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 6,
+          "exits": 416,
+          "transfers": 143,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 7,
+          "exits": 1354,
+          "transfers": 468,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 8,
+          "exits": 2501,
+          "transfers": 1001,
+          "avg_wait_min": 12.7
+        },
+        {
+          "hour": 9,
+          "exits": 2501,
+          "transfers": 1001,
+          "avg_wait_min": 12.7
+        },
+        {
+          "hour": 10,
+          "exits": 1042,
+          "transfers": 360,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 11,
+          "exits": 1042,
+          "transfers": 360,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 12,
+          "exits": 1042,
+          "transfers": 360,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 13,
+          "exits": 1042,
+          "transfers": 360,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 14,
+          "exits": 1042,
+          "transfers": 360,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 15,
+          "exits": 1042,
+          "transfers": 360,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 16,
+          "exits": 1042,
+          "transfers": 360,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 17,
+          "exits": 2188,
+          "transfers": 876,
+          "avg_wait_min": 12.7
+        },
+        {
+          "hour": 18,
+          "exits": 2188,
+          "transfers": 876,
+          "avg_wait_min": 12.7
+        },
+        {
+          "hour": 19,
+          "exits": 2188,
+          "transfers": 876,
+          "avg_wait_min": 12.7
+        },
+        {
+          "hour": 20,
+          "exits": 1354,
+          "transfers": 468,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 21,
+          "exits": 1354,
+          "transfers": 468,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 22,
+          "exits": 416,
+          "transfers": 143,
+          "avg_wait_min": 9.0
+        },
+        {
+          "hour": 23,
+          "exits": 416,
+          "transfers": 143,
+          "avg_wait_min": 9.0
+        }
+      ]
+    },
+    {
+      "id": "koyambedu",
+      "exits_per_day": 28900,
+      "transfers_per_day": 11500,
+      "transfer_pct": 39.8,
+      "avg_wait_min": 13.5,
+      "level": "high",
+      "wait_level": "bad",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 608,
+          "transfers": 229,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 6,
+          "exits": 608,
+          "transfers": 229,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 7,
+          "exits": 1977,
+          "transfers": 747,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 8,
+          "exits": 3650,
+          "transfers": 1597,
+          "avg_wait_min": 16.2
+        },
+        {
+          "hour": 9,
+          "exits": 3650,
+          "transfers": 1597,
+          "avg_wait_min": 16.2
+        },
+        {
+          "hour": 10,
+          "exits": 1521,
+          "transfers": 575,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 11,
+          "exits": 1521,
+          "transfers": 575,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 12,
+          "exits": 1521,
+          "transfers": 575,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 13,
+          "exits": 1521,
+          "transfers": 575,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 14,
+          "exits": 1521,
+          "transfers": 575,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 15,
+          "exits": 1521,
+          "transfers": 575,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 16,
+          "exits": 1521,
+          "transfers": 575,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 17,
+          "exits": 3194,
+          "transfers": 1398,
+          "avg_wait_min": 16.2
+        },
+        {
+          "hour": 18,
+          "exits": 3194,
+          "transfers": 1398,
+          "avg_wait_min": 16.2
+        },
+        {
+          "hour": 19,
+          "exits": 3194,
+          "transfers": 1398,
+          "avg_wait_min": 16.2
+        },
+        {
+          "hour": 20,
+          "exits": 1977,
+          "transfers": 747,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 21,
+          "exits": 1977,
+          "transfers": 747,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 22,
+          "exits": 608,
+          "transfers": 229,
+          "avg_wait_min": 11.5
+        },
+        {
+          "hour": 23,
+          "exits": 608,
+          "transfers": 229,
+          "avg_wait_min": 11.5
+        }
+      ]
+    },
+    {
+      "id": "vadapalani",
+      "exits_per_day": 23100,
+      "transfers_per_day": 8600,
+      "transfer_pct": 37.2,
+      "avg_wait_min": 10.2,
+      "level": "high",
+      "wait_level": "bad",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 486,
+          "transfers": 171,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 6,
+          "exits": 486,
+          "transfers": 171,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 7,
+          "exits": 1580,
+          "transfers": 558,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 8,
+          "exits": 2917,
+          "transfers": 1193,
+          "avg_wait_min": 12.2
+        },
+        {
+          "hour": 9,
+          "exits": 2917,
+          "transfers": 1193,
+          "avg_wait_min": 12.2
+        },
+        {
+          "hour": 10,
+          "exits": 1215,
+          "transfers": 429,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 11,
+          "exits": 1215,
+          "transfers": 429,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 12,
+          "exits": 1215,
+          "transfers": 429,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 13,
+          "exits": 1215,
+          "transfers": 429,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 14,
+          "exits": 1215,
+          "transfers": 429,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 15,
+          "exits": 1215,
+          "transfers": 429,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 16,
+          "exits": 1215,
+          "transfers": 429,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 17,
+          "exits": 2553,
+          "transfers": 1044,
+          "avg_wait_min": 12.2
+        },
+        {
+          "hour": 18,
+          "exits": 2553,
+          "transfers": 1044,
+          "avg_wait_min": 12.2
+        },
+        {
+          "hour": 19,
+          "exits": 2553,
+          "transfers": 1044,
+          "avg_wait_min": 12.2
+        },
+        {
+          "hour": 20,
+          "exits": 1580,
+          "transfers": 558,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 21,
+          "exits": 1580,
+          "transfers": 558,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 22,
+          "exits": 486,
+          "transfers": 171,
+          "avg_wait_min": 8.7
+        },
+        {
+          "hour": 23,
+          "exits": 486,
+          "transfers": 171,
+          "avg_wait_min": 8.7
+        }
+      ]
+    },
+    {
+      "id": "ashok-nagar",
+      "exits_per_day": 12100,
+      "transfers_per_day": 3400,
+      "transfer_pct": 28.1,
+      "avg_wait_min": 6.1,
+      "level": "low",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 254,
+          "transfers": 67,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 6,
+          "exits": 254,
+          "transfers": 67,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 7,
+          "exits": 827,
+          "transfers": 220,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 8,
+          "exits": 1528,
+          "transfers": 472,
+          "avg_wait_min": 7.3
+        },
+        {
+          "hour": 9,
+          "exits": 1528,
+          "transfers": 472,
+          "avg_wait_min": 7.3
+        },
+        {
+          "hour": 10,
+          "exits": 636,
+          "transfers": 169,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 11,
+          "exits": 636,
+          "transfers": 169,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 12,
+          "exits": 636,
+          "transfers": 169,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 13,
+          "exits": 636,
+          "transfers": 169,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 14,
+          "exits": 636,
+          "transfers": 169,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 15,
+          "exits": 636,
+          "transfers": 169,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 16,
+          "exits": 636,
+          "transfers": 169,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 17,
+          "exits": 1337,
+          "transfers": 413,
+          "avg_wait_min": 7.3
+        },
+        {
+          "hour": 18,
+          "exits": 1337,
+          "transfers": 413,
+          "avg_wait_min": 7.3
+        },
+        {
+          "hour": 19,
+          "exits": 1337,
+          "transfers": 413,
+          "avg_wait_min": 7.3
+        },
+        {
+          "hour": 20,
+          "exits": 827,
+          "transfers": 220,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 21,
+          "exits": 827,
+          "transfers": 220,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 22,
+          "exits": 254,
+          "transfers": 67,
+          "avg_wait_min": 5.2
+        },
+        {
+          "hour": 23,
+          "exits": 254,
+          "transfers": 67,
+          "avg_wait_min": 5.2
+        }
+      ]
+    },
+    {
+      "id": "washermanpet",
+      "exits_per_day": 14900,
+      "transfers_per_day": 4800,
+      "transfer_pct": 32.2,
+      "avg_wait_min": 8.1,
+      "level": "medium",
+      "wait_level": "ok",
+      "hourly": [
+        {
+          "hour": 5,
+          "exits": 313,
+          "transfers": 95,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 6,
+          "exits": 313,
+          "transfers": 95,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 7,
+          "exits": 1019,
+          "transfers": 311,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 8,
+          "exits": 1882,
+          "transfers": 666,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 9,
+          "exits": 1882,
+          "transfers": 666,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 10,
+          "exits": 784,
+          "transfers": 239,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 11,
+          "exits": 784,
+          "transfers": 239,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 12,
+          "exits": 784,
+          "transfers": 239,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 13,
+          "exits": 784,
+          "transfers": 239,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 14,
+          "exits": 784,
+          "transfers": 239,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 15,
+          "exits": 784,
+          "transfers": 239,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 16,
+          "exits": 784,
+          "transfers": 239,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 17,
+          "exits": 1646,
+          "transfers": 583,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 18,
+          "exits": 1646,
+          "transfers": 583,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 19,
+          "exits": 1646,
+          "transfers": 583,
+          "avg_wait_min": 9.7
+        },
+        {
+          "hour": 20,
+          "exits": 1019,
+          "transfers": 311,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 21,
+          "exits": 1019,
+          "transfers": 311,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 22,
+          "exits": 313,
+          "transfers": 95,
+          "avg_wait_min": 6.9
+        },
+        {
+          "hour": 23,
+          "exits": 313,
+          "transfers": 95,
+          "avg_wait_min": 6.9
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "transfers_per_day": 104900,
+    "top_station": "central",
+    "worst_wait_station": "koyambedu"
+  }
+}

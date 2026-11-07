@@ -1,0 +1,16 @@
+﻿.venv/
+venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+# large regenerable cache (about 426 MB)
+data/interim/
+# debug screenshots
+out/debug/

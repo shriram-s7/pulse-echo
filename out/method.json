@@ -1,0 +1,34 @@
+{
+ "steps": [
+  "Group Metro exit taps into pulses (train arrivals) per station; tune the gap so pulses are 3-5 min apart at peak.",
+  "For each bus arrival near a station, echo = boardings minus the local baseline over the gap, counted only if a pulse could have walked there in time.",
+  "Placebo: run the same method on stops 600-1500 m away and subtract that false-echo rate from nearby stops; cap a stop at 35% and a station at 50% of exits.",
+  "Estimate wait from pulse arrival to the next bus, rank fixes by passenger-minutes saved, and find regulars from cards exiting within +-20 min of their own median on 3+ of 4 days."
+ ],
+ "validation": {
+  "alpha_control_avg": 0.239,
+  "transfers_before_correction": 179304,
+  "transfers_after_correction": 55216
+ },
+ "assumptions": [
+  "treatment_radius_m: 400",
+  "treatment_widen_m: 700",
+  "control_ring_m: [600, 1500]",
+  "walk_factor: 1.3",
+  "walk_speed_mps: 1.2",
+  "pulse_gap_s: 60",
+  "max_transfer_window_min: 25",
+  "capacity: {'Ordinary': 60, 'Deluxe': 60, 'AC': 50, 'Small Bus': 30}",
+  "target_wait_min: 5",
+  "regulars_min_days: 3",
+  "regulars_min_cards: 15",
+  "radius_override_m: {'pachiappas-college': 700, 'thousand-lights': 700}"
+ ],
+ "limits": [
+  "Transfers are a quick estimate; the placebo and caps are blunt and should be read as indicative.",
+  "Stops are matched by name; terminals and large stops merge several physical stops.",
+  "Stations with limited bus-stop data (data_quality = limited) have weak estimates.",
+  "Only Metro-to-bus flows are estimated; trip-level boardings count total boardings, not load.",
+  "Bus data covers 1-7 March; Metro window is 3-6 March."
+ ]
+}

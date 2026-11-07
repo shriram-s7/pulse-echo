@@ -1,0 +1,212 @@
+{
+  "curves": [
+    {
+      "station_id": "guindy",
+      "route": "21G",
+      "hours": "07:45-09:15",
+      "points": [
+        {
+          "shift_min": -5,
+          "avg_wait_min": 12.1
+        },
+        {
+          "shift_min": -4,
+          "avg_wait_min": 10.8
+        },
+        {
+          "shift_min": -3,
+          "avg_wait_min": 9.2
+        },
+        {
+          "shift_min": -2,
+          "avg_wait_min": 7.5
+        },
+        {
+          "shift_min": -1,
+          "avg_wait_min": 5.4
+        },
+        {
+          "shift_min": 0,
+          "avg_wait_min": 11.4
+        },
+        {
+          "shift_min": 1,
+          "avg_wait_min": 12.6
+        },
+        {
+          "shift_min": 2,
+          "avg_wait_min": 8.0
+        },
+        {
+          "shift_min": 3,
+          "avg_wait_min": 6.8
+        },
+        {
+          "shift_min": 4,
+          "avg_wait_min": 8.9
+        },
+        {
+          "shift_min": 5,
+          "avg_wait_min": 11.2
+        }
+      ],
+      "best_shift_min": -1
+    },
+    {
+      "station_id": "central",
+      "route": "11G",
+      "hours": "07:30-09:00",
+      "points": [
+        {
+          "shift_min": -5,
+          "avg_wait_min": 14.2
+        },
+        {
+          "shift_min": -4,
+          "avg_wait_min": 12.5
+        },
+        {
+          "shift_min": -3,
+          "avg_wait_min": 9.8
+        },
+        {
+          "shift_min": -2,
+          "avg_wait_min": 6.1
+        },
+        {
+          "shift_min": -1,
+          "avg_wait_min": 8.3
+        },
+        {
+          "shift_min": 0,
+          "avg_wait_min": 13.5
+        },
+        {
+          "shift_min": 1,
+          "avg_wait_min": 14.1
+        },
+        {
+          "shift_min": 2,
+          "avg_wait_min": 10.4
+        },
+        {
+          "shift_min": 3,
+          "avg_wait_min": 8.7
+        },
+        {
+          "shift_min": 4,
+          "avg_wait_min": 11.0
+        },
+        {
+          "shift_min": 5,
+          "avg_wait_min": 13.0
+        }
+      ],
+      "best_shift_min": -2
+    },
+    {
+      "station_id": "alandur",
+      "route": "52",
+      "hours": "17:30-19:00",
+      "points": [
+        {
+          "shift_min": -5,
+          "avg_wait_min": 9.4
+        },
+        {
+          "shift_min": -4,
+          "avg_wait_min": 8.8
+        },
+        {
+          "shift_min": -3,
+          "avg_wait_min": 8.1
+        },
+        {
+          "shift_min": -2,
+          "avg_wait_min": 7.6
+        },
+        {
+          "shift_min": -1,
+          "avg_wait_min": 7.9
+        },
+        {
+          "shift_min": 0,
+          "avg_wait_min": 7.8
+        },
+        {
+          "shift_min": 1,
+          "avg_wait_min": 6.5
+        },
+        {
+          "shift_min": 2,
+          "avg_wait_min": 5.1
+        },
+        {
+          "shift_min": 3,
+          "avg_wait_min": 3.9
+        },
+        {
+          "shift_min": 4,
+          "avg_wait_min": 6.2
+        },
+        {
+          "shift_min": 5,
+          "avg_wait_min": 8.0
+        }
+      ],
+      "best_shift_min": 3
+    },
+    {
+      "station_id": "egmore",
+      "route": "27B",
+      "hours": "07:45-09:00",
+      "points": [
+        {
+          "shift_min": -5,
+          "avg_wait_min": 9.2
+        },
+        {
+          "shift_min": -4,
+          "avg_wait_min": 8.1
+        },
+        {
+          "shift_min": -3,
+          "avg_wait_min": 6.5
+        },
+        {
+          "shift_min": -2,
+          "avg_wait_min": 4.1
+        },
+        {
+          "shift_min": -1,
+          "avg_wait_min": 5.8
+        },
+        {
+          "shift_min": 0,
+          "avg_wait_min": 7.9
+        },
+        {
+          "shift_min": 1,
+          "avg_wait_min": 8.4
+        },
+        {
+          "shift_min": 2,
+          "avg_wait_min": 7.1
+        },
+        {
+          "shift_min": 3,
+          "avg_wait_min": 6.2
+        },
+        {
+          "shift_min": 4,
+          "avg_wait_min": 7.5
+        },
+        {
+          "shift_min": 5,
+          "avg_wait_min": 8.8
+        }
+      ],
+      "best_shift_min": -2
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "flows": [
+    {
+      "station_id": "guindy",
+      "window": "08:15-08:30",
+      "regular_cards": 142,
+      "top_route": "21G",
+      "dest_name": "Tidel Park / OMR",
+      "dest_lat": 12.9892,
+      "dest_lon": 80.2486,
+      "likely_purpose": "work/education"
+    },
+    {
+      "station_id": "central",
+      "window": "08:00-08:15",
+      "regular_cards": 210,
+      "top_route": "11G",
+      "dest_name": "Parrys / High Court",
+      "dest_lat": 13.0886,
+      "dest_lon": 80.2882,
+      "likely_purpose": "work/education"
+    },
+    {
+      "station_id": "koyambedu",
+      "window": "07:45-08:00",
+      "regular_cards": 185,
+      "top_route": "70A",
+      "dest_name": "Ambattur Industrial Estate",
+      "dest_lat": 13.1042,
+      "dest_lon": 80.1558,
+      "likely_purpose": "work/education"
+    },
+    {
+      "station_id": "vadapalani",
+      "window": "08:30-08:45",
+      "regular_cards": 128,
+      "top_route": "17M",
+      "dest_name": "DLF Cybercity Porur",
+      "dest_lat": 13.0315,
+      "dest_lon": 80.1652,
+      "likely_purpose": "work/education"
+    },
+    {
+      "station_id": "alandur",
+      "window": "08:15-08:30",
+      "regular_cards": 115,
+      "top_route": "52",
+      "dest_name": "Olympia Tech Park / Ekkattuthangal",
+      "dest_lat": 13.0189,
+      "dest_lon": 80.2052,
+      "likely_purpose": "work/education"
+    },
+    {
+      "station_id": "airport",
+      "window": "08:45-09:00",
+      "regular_cards": 94,
+      "top_route": "18D",
+      "dest_name": "MEPZ Tambaram",
+      "dest_lat": 12.9342,
+      "dest_lon": 80.1294,
+      "likely_purpose": "work/education"
+    },
+    {
+      "station_id": "thirumangalam",
+      "window": "08:00-08:15",
+      "regular_cards": 88,
+      "top_route": "M70",
+      "dest_name": "Padi Lucas TVS / Industrial Corridor",
+      "dest_lat": 13.1012,
+      "dest_lon": 80.1834,
+      "likely_purpose": "work/education"
+    }
+  ]
+}

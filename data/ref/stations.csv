@@ -1,0 +1,42 @@
+id,name,line,lat,lon,source,confidence
+wimco-nagar-depot,WIMCO NAGAR DEPOT,Blue,13.184249,80.308928,shp_point:C1-1 (ordered along Blue line; no METRO bus stop <250m),medium
+wimco-nagar,WIMCO NAGAR METRO,Blue,13.179303,80.307329,shp_point:C1-2 (ordered along Blue line; no METRO bus stop <250m),medium
+thiruvotriyur,THIRUVOTRIYUR METRO,Blue,13.172033,80.305327,shp_point:C1-3 (ordered along Blue line; no METRO bus stop <250m),medium
+thiruvotriyur-theradi,THIRUVOTRIYUR THERADI METRO,Blue,13.159889,80.302373,shp_point:C1-4 (ordered along Blue line; no METRO bus stop <250m),medium
+kaladipet,KALADIPET METRO,Blue,13.150806,80.29945,shp_point:C1-5 (ordered along Blue line; no METRO bus stop <250m),medium
+tollgate,TOLLGATE METRO,Blue,13.143242,80.296354,shp_point:C1-6 (ordered along Blue line; no METRO bus stop <250m),medium
+new-washermenpet,NEW WASHERMENPET METRO,Blue,13.134304,80.29292,shp_point:C1-7 (ordered along Blue line; no METRO bus stop <250m),medium
+tondiarpet,TONDIARPET METRO,Blue,13.124073,80.288535,shp_point:C1-8 + excel_check:'TONDIARPET METRO' 89m,high
+thiyagaraya-college,THIYAGARAYA COLLEGE METRO,Blue,13.116327,80.284961,shp_point:C1-9 (ordered along Blue line; no METRO bus stop <250m),medium
+washermenpet,WASHERMENPET,Blue,13.107606,80.280911,shp_point:C1-10 (ordered along Blue line; no METRO bus stop <250m),medium
+mannadi,MANNADI,Blue,13.095547,80.286137,shp_point:C1-11 + excel_check:'mannady metro' 39m,high
+high-court,HIGH COURT,Blue,13.087261,80.285018,shp_point:C1-12 (ordered along Blue line; no METRO bus stop <250m),medium
+central,PURATCHI THALAIVAR DR.M.G.RAMACHANDRAN CENTRAL METRO,Both,13.081524,80.273996,shp_point:C2-18 (ordered along Green line; no METRO bus stop <250m),medium
+government-estate,GOVERNMENT ESTATE,Blue,13.070177,80.273405,shp_point:C1-14 (ordered along Blue line; no METRO bus stop <250m),medium
+lic,LIC,Blue,13.064801,80.266285,shp_point:C1-15 (ordered along Blue line; no METRO bus stop <250m),medium
+thousand-lights,THOUSAND LIGHT,Blue,13.058496,80.258585,shp_point:C1-16 (ordered along Blue line; no METRO bus stop <250m),medium
+ag-dms,AG-DMS,Blue,13.044885,80.248054,shp_point:C1-17 (ordered along Blue line; no METRO bus stop <250m),medium
+teynampet,TEYNAMPET,Blue,13.03727,80.246479,shp_point:C1-18 + excel_check:'TEYNAMPET METRO RAILWAY STATION' 16m,high
+nandanam,NANDANAM,Blue,13.032157,80.241941,shp_point:C1-19 + excel_check:'NANDANAM METRO' 35m,high
+saidapet,SAIDAPET,Blue,13.023569,80.228191,shp_point:C1-20 (ordered along Blue line; no METRO bus stop <250m),medium
+little-mount,LITTLE MOUNT,Blue,13.014556,80.223936,shp_point:C1-21 (ordered along Blue line; no METRO bus stop <250m),medium
+guindy,GUINDY,Blue,13.009396,80.213332,shp_point:C1-22 + excel_check:'GUINDY METRO STATION' 36m,high
+alandur,ARIGNAR ANNA ALANDUR METRO,Both,13.004255,80.201523,shp_point:C2-17 + excel_check:'Alanthur metro' 34m,high
+ota-nanganallur-road,OTA - NANGANALLUR ROAD,Blue,12.99987,80.194005,shp_point:C1-24 + excel_check:'Nanganallur metro' 89m,high
+meenambakkam,MEENAMBAKKAM,Blue,12.987016,80.175365,shp_point:C1-25 + excel_check:'MEEANAMBAKKAM METRO' 67m,high
+airport,AIRPORT,Blue,12.981398,80.16553,shp_point:C1-26 (ordered along Blue line; no METRO bus stop <250m),medium
+vadapalani,VADAPALANI,Green,13.050681,80.212063,shp_point:C2-1 (ordered along Green line; no METRO bus stop <250m),medium
+pachiappas-college,PACHIAPPAS COLLEGE,Green,13.075246,80.232655,shp_point:C2-2 + excel_check:'Pachaiyaplas college metro station' 157m,high
+shenoy-nagar,SHENOY NAGAR,Green,13.078696,80.225091,shp_point:C2-3 + excel_check:'shenoy nagar metro station' 186m,high
+anna-nagar-east,ANNA NAGAR EAST,Green,13.084518,80.218809,shp_point:C2-4 (ordered along Green line; no METRO bus stop <250m),medium
+anna-nagar-tower,ANNA NAGAR TOWER,Green,13.084859,80.209086,shp_point:C2-5 (ordered along Green line; no METRO bus stop <250m),medium
+thirumangalam,THIRUMANGALAM,Green,13.085113,80.203505,shp_point:C2-6 + excel_check:'THIRUMANGALAM METRO' 167m,high
+egmore,EGMORE,Green,13.078973,80.260869,shp_point:C2-8 + excel_check:'Egmore metro north' 85m,high
+nehru-park,NEHRU PARK,Green,13.078517,80.250272,shp_point:C2-9 + excel_check:'Neru Park Metro Station' 77m,high
+kilpauk,KILPAUK,Green,13.077536,80.24261,shp_point:C2-10 (ordered along Green line; no METRO bus stop <250m),medium
+ekkattuthangal,EKKATTUTHANGAL,Green,13.016482,80.205246,shp_point:C2-11 (ordered along Green line; no METRO bus stop <250m),medium
+ashok-nagar,ASHOK NAGAR,Green,13.035433,80.211143,shp_point:C2-12 (ordered along Green line; no METRO bus stop <250m),medium
+arumbakkam,ARUMBAKKAM,Green,13.061973,80.211686,shp_point:C2-13 (ordered along Green line; no METRO bus stop <250m),medium
+cmbt,PURATCHI THALAIVI DR.J.JAYALALITHAA CMBT METRO,Green,13.068586,80.203835,shp_point:C2-14 (ordered along Green line; no METRO bus stop <250m),medium
+koyambedu,KOYAMBEDU,Green,13.073459,80.194881,shp_point:C2-15 (ordered along Green line; no METRO bus stop <250m),medium
+st-thomas-mount,ST. THOMAS MOUNT,Green,12.994648,80.197395,shp_point:C2-16 (ordered along Green line; no METRO bus stop <250m),medium

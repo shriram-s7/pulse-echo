@@ -1,0 +1,157 @@
+{
+    "cmrl_entry": {
+        "rows_total": 1260738,
+        "f_blank_row": 0,
+        "f_bad_station": 0,
+        "f_bad_origin": 0,
+        "f_pre_service": 0,
+        "f_outside_window": 411320,
+        "f_wrong_ttype": 0,
+        "f_dup_txn": 0,
+        "rows_valid_in_window": 849418,
+        "rows_per_date": {
+            "2026-03-01": 56904,
+            "2026-03-02": 213259,
+            "2026-03-03": 214766,
+            "2026-03-04": 210824,
+            "2026-03-05": 213175,
+            "2026-03-06": 210653,
+            "2026-03-07": 141157
+        }
+    },
+    "cmrl_exit": {
+        "rows_total": 1046928,
+        "f_blank_row": 36,
+        "f_bad_station": 0,
+        "f_bad_origin": 4,
+        "f_pre_service": 104,
+        "f_outside_window": 198179,
+        "f_wrong_ttype": 141157,
+        "f_dup_txn": 36,
+        "rows_valid_in_window": 848637,
+        "rows_per_date": {
+            "None": 36,
+            "2026-03-01": 57022,
+            "2026-03-03": 213740,
+            "2026-03-04": 211055,
+            "2026-03-05": 213955,
+            "2026-03-06": 209963,
+            "2026-03-07": 141157
+        },
+        "missing_dates_in_1_7_mar": [
+            "2026-03-02"
+        ],
+        "mar7_rows": 141157,
+        "mar7_rows_equal_entry_mar7": 141157,
+        "mar7_txn_type_entry": 141157,
+        "mar7_identical_txn_ids_with_entry": 0,
+        "note": "2 Mar absent; 7 Mar is a copy of Entry (Transaction Type=Entry) -> main window 3-6 Mar"
+    },
+    "etm": {
+        "2026-03-01": {
+            "rows_total": 1743045,
+            "f_epoch_1970": 3,
+            "f_after_midnight": 27372,
+            "f_free_no_destination": 891379,
+            "f_no_pax": 4542,
+            "f_bad_time": 0,
+            "f_no_route": 0,
+            "f_batch_print": 0,
+            "rows_valid": 1738500,
+            "columns_present": {
+                "trip_no": true,
+                "passenger_count": true
+            }
+        },
+        "2026-03-02": {
+            "rows_total": 2385860,
+            "f_epoch_1970": 0,
+            "f_after_midnight": 25417,
+            "f_free_no_destination": 1293558,
+            "f_no_pax": 4753,
+            "f_bad_time": 0,
+            "f_no_route": 1,
+            "f_batch_print": 0,
+            "rows_valid": 2381106,
+            "columns_present": {
+                "trip_no": true,
+                "passenger_count": true
+            }
+        },
+        "2026-03-03": {
+            "rows_total": 2269865,
+            "f_epoch_1970": 0,
+            "f_after_midnight": 20961,
+            "f_free_no_destination": 1232310,
+            "f_no_pax": 4161,
+            "f_bad_time": 0,
+            "f_no_route": 1,
+            "f_batch_print": 0,
+            "rows_valid": 2265703,
+            "columns_present": {
+                "trip_no": true,
+                "passenger_count": true
+            }
+        },
+        "2026-03-04": {
+            "rows_total": 2282344,
+            "f_epoch_1970": 0,
+            "f_after_midnight": 21889,
+            "f_free_no_destination": 1236958,
+            "f_no_pax": 4202,
+            "f_bad_time": 0,
+            "f_no_route": 0,
+            "f_batch_print": 0,
+            "rows_valid": 2278142,
+            "columns_present": {
+                "trip_no": true,
+                "passenger_count": true
+            }
+        },
+        "2026-03-05": {
+            "rows_total": 2279088,
+            "f_epoch_1970": 0,
+            "f_after_midnight": 21847,
+            "f_free_no_destination": 1222708,
+            "f_no_pax": 4498,
+            "f_bad_time": 0,
+            "f_no_route": 0,
+            "f_batch_print": 0,
+            "rows_valid": 2274590,
+            "columns_present": {
+                "trip_no": true,
+                "passenger_count": true
+            }
+        },
+        "2026-03-06": {
+            "rows_total": 2281668,
+            "f_epoch_1970": 0,
+            "f_after_midnight": 21777,
+            "f_free_no_destination": 1229525,
+            "f_no_pax": 4160,
+            "f_bad_time": 0,
+            "f_no_route": 0,
+            "f_batch_print": 0,
+            "rows_valid": 2277508,
+            "columns_present": {
+                "trip_no": true,
+                "passenger_count": true
+            }
+        },
+        "2026-03-07": {
+            "rows_total": 2192916,
+            "f_epoch_1970": 0,
+            "f_after_midnight": 20930,
+            "f_free_no_destination": 1181419,
+            "f_no_pax": 4464,
+            "f_bad_time": 0,
+            "f_no_route": 0,
+            "f_batch_print": 0,
+            "rows_valid": 2188452,
+            "columns_present": {
+                "trip_no": true,
+                "passenger_count": true
+            }
+        }
+    }
+}

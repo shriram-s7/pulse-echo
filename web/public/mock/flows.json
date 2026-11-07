@@ -1,0 +1,8412 @@
+{
+  "flows": [
+    {
+      "station_id": "airport",
+      "stop_id": "airport-meenam",
+      "stop_name": "AIRPORT PASSENGER GATE",
+      "stop_lat": 12.982,
+      "stop_lon": 80.165,
+      "walk_m": 160,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2627,
+      "share_pct": 18.5,
+      "routes": [
+        {
+          "route": "18D",
+          "transfers_per_day": 1349,
+          "share_pct": 9.5,
+          "avg_wait_min": 7.0,
+          "headway_min": 12
+        },
+        {
+          "route": "B18",
+          "transfers_per_day": 823,
+          "share_pct": 5.8,
+          "avg_wait_min": 6.8,
+          "headway_min": 15
+        },
+        {
+          "route": "70K",
+          "transfers_per_day": 454,
+          "share_pct": 3.2,
+          "avg_wait_min": 6.2,
+          "headway_min": 16
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 6,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 7,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 8,
+          "transfers": 159,
+          "share_pct": 21.3
+        },
+        {
+          "hour": 9,
+          "transfers": 159,
+          "share_pct": 21.3
+        },
+        {
+          "hour": 10,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 11,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 12,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 13,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 14,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 15,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 16,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 17,
+          "transfers": 159,
+          "share_pct": 21.3
+        },
+        {
+          "hour": 18,
+          "transfers": 159,
+          "share_pct": 21.3
+        },
+        {
+          "hour": 19,
+          "transfers": 159,
+          "share_pct": 21.3
+        },
+        {
+          "hour": 20,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 21,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 22,
+          "transfers": 127,
+          "share_pct": 17.0
+        },
+        {
+          "hour": 23,
+          "transfers": 127,
+          "share_pct": 17.0
+        }
+      ]
+    },
+    {
+      "station_id": "airport",
+      "stop_id": "tirusulam-rs",
+      "stop_name": "TIRUSULAM SUBWAY",
+      "stop_lat": 12.9788,
+      "stop_lon": 80.1653,
+      "walk_m": 240,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1973,
+      "share_pct": 13.9,
+      "routes": [
+        {
+          "route": "G18",
+          "transfers_per_day": 1150,
+          "share_pct": 8.1,
+          "avg_wait_min": 7.2,
+          "headway_min": 14
+        },
+        {
+          "route": "66",
+          "transfers_per_day": 823,
+          "share_pct": 5.8,
+          "avg_wait_min": 6.4,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 6,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 7,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 8,
+          "transfers": 119,
+          "share_pct": 16.0
+        },
+        {
+          "hour": 9,
+          "transfers": 119,
+          "share_pct": 16.0
+        },
+        {
+          "hour": 10,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 11,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 12,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 13,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 14,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 15,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 16,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 17,
+          "transfers": 119,
+          "share_pct": 16.0
+        },
+        {
+          "hour": 18,
+          "transfers": 119,
+          "share_pct": 16.0
+        },
+        {
+          "hour": 19,
+          "transfers": 119,
+          "share_pct": 16.0
+        },
+        {
+          "hour": 20,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 21,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 22,
+          "transfers": 95,
+          "share_pct": 12.8
+        },
+        {
+          "hour": 23,
+          "transfers": 95,
+          "share_pct": 12.8
+        }
+      ]
+    },
+    {
+      "station_id": "airport",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 12.9806,
+      "stop_lon": 80.1638,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 67.6,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 67.6
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 67.6
+        }
+      ]
+    },
+    {
+      "station_id": "meenambakkam",
+      "stop_id": "meenambakkam-main",
+      "stop_name": "MEENAMBAKKAM MAIN ROAD",
+      "stop_lat": 12.9896,
+      "stop_lon": 80.176,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 816,
+      "share_pct": 12.0,
+      "routes": [
+        {
+          "route": "M91",
+          "transfers_per_day": 503,
+          "share_pct": 7.4,
+          "avg_wait_min": 8.4,
+          "headway_min": 12
+        },
+        {
+          "route": "25B",
+          "transfers_per_day": 312,
+          "share_pct": 4.6,
+          "avg_wait_min": 7.6,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 6,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 7,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 8,
+          "transfers": 49,
+          "share_pct": 13.8
+        },
+        {
+          "hour": 9,
+          "transfers": 49,
+          "share_pct": 13.8
+        },
+        {
+          "hour": 10,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 11,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 12,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 13,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 14,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 15,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 16,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 17,
+          "transfers": 49,
+          "share_pct": 13.8
+        },
+        {
+          "hour": 18,
+          "transfers": 49,
+          "share_pct": 13.8
+        },
+        {
+          "hour": 19,
+          "transfers": 49,
+          "share_pct": 13.8
+        },
+        {
+          "hour": 20,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 21,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 22,
+          "transfers": 39,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 23,
+          "transfers": 39,
+          "share_pct": 11.0
+        }
+      ]
+    },
+    {
+      "station_id": "meenambakkam",
+      "stop_id": "meenambakkam-jn",
+      "stop_name": "MEENAMBAKKAM JUNCTION",
+      "stop_lat": 12.9863,
+      "stop_lon": 80.1788,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 578,
+      "share_pct": 8.5,
+      "routes": [
+        {
+          "route": "24",
+          "transfers_per_day": 578,
+          "share_pct": 8.5,
+          "avg_wait_min": 8.8,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 6,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 7,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 8,
+          "transfers": 35,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 9,
+          "transfers": 35,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 10,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 11,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 12,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 13,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 14,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 15,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 16,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 17,
+          "transfers": 35,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 18,
+          "transfers": 35,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 19,
+          "transfers": 35,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 20,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 21,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 22,
+          "transfers": 27,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 23,
+          "transfers": 27,
+          "share_pct": 7.8
+        }
+      ]
+    },
+    {
+      "station_id": "meenambakkam",
+      "stop_id": "meenambakkam-cross",
+      "stop_name": "MEENAMBAKKAM CROSS ROAD",
+      "stop_lat": 12.9903,
+      "stop_lon": 80.1791,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 306,
+      "share_pct": 4.5,
+      "routes": [
+        {
+          "route": "87E",
+          "transfers_per_day": 306,
+          "share_pct": 4.5,
+          "avg_wait_min": 8.0,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 6,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 7,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 8,
+          "transfers": 18,
+          "share_pct": 5.2
+        },
+        {
+          "hour": 9,
+          "transfers": 18,
+          "share_pct": 5.2
+        },
+        {
+          "hour": 10,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 11,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 12,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 13,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 14,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 15,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 16,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 17,
+          "transfers": 18,
+          "share_pct": 5.2
+        },
+        {
+          "hour": 18,
+          "transfers": 18,
+          "share_pct": 5.2
+        },
+        {
+          "hour": 19,
+          "transfers": 18,
+          "share_pct": 5.2
+        },
+        {
+          "hour": 20,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 21,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 22,
+          "transfers": 14,
+          "share_pct": 4.1
+        },
+        {
+          "hour": 23,
+          "transfers": 14,
+          "share_pct": 4.1
+        }
+      ]
+    },
+    {
+      "station_id": "meenambakkam",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 12.9881,
+      "stop_lon": 80.1772,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 75.0,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 75.0
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 75.0
+        }
+      ]
+    },
+    {
+      "station_id": "alandur",
+      "stop_id": "alandur-jn",
+      "stop_name": "ASARKHANA / ALANDUR JN",
+      "stop_lat": 13.0058,
+      "stop_lon": 80.2,
+      "walk_m": 210,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 3913,
+      "share_pct": 18.2,
+      "routes": [
+        {
+          "route": "52",
+          "transfers_per_day": 2107,
+          "share_pct": 9.8,
+          "avg_wait_min": 7.8,
+          "headway_min": 10
+        },
+        {
+          "route": "70W",
+          "transfers_per_day": 1161,
+          "share_pct": 5.4,
+          "avg_wait_min": 7.0,
+          "headway_min": 12
+        },
+        {
+          "route": "154A",
+          "transfers_per_day": 645,
+          "share_pct": 3.0,
+          "avg_wait_min": 6.5,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 6,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 7,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 8,
+          "transfers": 236,
+          "share_pct": 20.9
+        },
+        {
+          "hour": 9,
+          "transfers": 236,
+          "share_pct": 20.9
+        },
+        {
+          "hour": 10,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 11,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 12,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 13,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 14,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 15,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 16,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 17,
+          "transfers": 236,
+          "share_pct": 20.9
+        },
+        {
+          "hour": 18,
+          "transfers": 236,
+          "share_pct": 20.9
+        },
+        {
+          "hour": 19,
+          "transfers": 236,
+          "share_pct": 20.9
+        },
+        {
+          "hour": 20,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 21,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 22,
+          "transfers": 188,
+          "share_pct": 16.7
+        },
+        {
+          "hour": 23,
+          "transfers": 188,
+          "share_pct": 16.7
+        }
+      ]
+    },
+    {
+      "station_id": "alandur",
+      "stop_id": "st-thomas-mount",
+      "stop_name": "ST. THOMAS MOUNT JN",
+      "stop_lat": 13.0015,
+      "stop_lon": 80.2033,
+      "walk_m": 320,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2472,
+      "share_pct": 11.5,
+      "routes": [
+        {
+          "route": "18A",
+          "transfers_per_day": 1462,
+          "share_pct": 6.8,
+          "avg_wait_min": 7.5,
+          "headway_min": 12
+        },
+        {
+          "route": "54V",
+          "transfers_per_day": 1010,
+          "share_pct": 4.7,
+          "avg_wait_min": 6.8,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 6,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 7,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 8,
+          "transfers": 149,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 9,
+          "transfers": 149,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 10,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 11,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 12,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 13,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 14,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 15,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 16,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 17,
+          "transfers": 149,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 18,
+          "transfers": 149,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 19,
+          "transfers": 149,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 20,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 21,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 22,
+          "transfers": 119,
+          "share_pct": 10.6
+        },
+        {
+          "hour": 23,
+          "transfers": 119,
+          "share_pct": 10.6
+        }
+      ]
+    },
+    {
+      "station_id": "alandur",
+      "stop_id": "kathipara-loop",
+      "stop_name": "KATHIPARA BUS STOP",
+      "stop_lat": 13.0027,
+      "stop_lon": 80.1992,
+      "walk_m": 280,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1419,
+      "share_pct": 6.6,
+      "routes": [
+        {
+          "route": "119",
+          "transfers_per_day": 903,
+          "share_pct": 4.2,
+          "avg_wait_min": 7.2,
+          "headway_min": 14
+        },
+        {
+          "route": "21H",
+          "transfers_per_day": 516,
+          "share_pct": 2.4,
+          "avg_wait_min": 6.0,
+          "headway_min": 20
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 6,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 7,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 8,
+          "transfers": 86,
+          "share_pct": 7.6
+        },
+        {
+          "hour": 9,
+          "transfers": 86,
+          "share_pct": 7.6
+        },
+        {
+          "hour": 10,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 11,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 12,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 13,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 14,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 15,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 16,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 17,
+          "transfers": 86,
+          "share_pct": 7.6
+        },
+        {
+          "hour": 18,
+          "transfers": 86,
+          "share_pct": 7.6
+        },
+        {
+          "hour": 19,
+          "transfers": 86,
+          "share_pct": 7.6
+        },
+        {
+          "hour": 20,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 21,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 22,
+          "transfers": 69,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 23,
+          "transfers": 69,
+          "share_pct": 6.1
+        }
+      ]
+    },
+    {
+      "station_id": "alandur",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0039,
+      "stop_lon": 80.2014,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 63.7,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 63.7
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 63.7
+        }
+      ]
+    },
+    {
+      "station_id": "guindy",
+      "stop_id": "guindy-estate",
+      "stop_name": "GUINDY ESTATE",
+      "stop_lat": 13.0116,
+      "stop_lon": 80.2115,
+      "walk_m": 260,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 4356,
+      "share_pct": 16.5,
+      "routes": [
+        {
+          "route": "21G",
+          "transfers_per_day": 2244,
+          "share_pct": 8.5,
+          "avg_wait_min": 11.4,
+          "headway_min": 15
+        },
+        {
+          "route": "19B",
+          "transfers_per_day": 1267,
+          "share_pct": 4.8,
+          "avg_wait_min": 8.2,
+          "headway_min": 12
+        },
+        {
+          "route": "54",
+          "transfers_per_day": 844,
+          "share_pct": 3.2,
+          "avg_wait_min": 7.5,
+          "headway_min": 10
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 6,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 7,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 8,
+          "transfers": 264,
+          "share_pct": 19.0
+        },
+        {
+          "hour": 9,
+          "transfers": 264,
+          "share_pct": 19.0
+        },
+        {
+          "hour": 10,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 11,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 12,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 13,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 14,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 15,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 16,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 17,
+          "transfers": 264,
+          "share_pct": 19.0
+        },
+        {
+          "hour": 18,
+          "transfers": 264,
+          "share_pct": 19.0
+        },
+        {
+          "hour": 19,
+          "transfers": 264,
+          "share_pct": 19.0
+        },
+        {
+          "hour": 20,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 21,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 22,
+          "transfers": 211,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 23,
+          "transfers": 211,
+          "share_pct": 15.2
+        }
+      ]
+    },
+    {
+      "station_id": "guindy",
+      "stop_id": "guindy-rs",
+      "stop_name": "GUINDY R.S.",
+      "stop_lat": 13.0075,
+      "stop_lon": 80.2145,
+      "walk_m": 210,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 3748,
+      "share_pct": 14.2,
+      "routes": [
+        {
+          "route": "70",
+          "transfers_per_day": 1953,
+          "share_pct": 7.4,
+          "avg_wait_min": 12.0,
+          "headway_min": 14
+        },
+        {
+          "route": "88K",
+          "transfers_per_day": 1795,
+          "share_pct": 6.8,
+          "avg_wait_min": 10.5,
+          "headway_min": 12
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 6,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 7,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 8,
+          "transfers": 226,
+          "share_pct": 16.3
+        },
+        {
+          "hour": 9,
+          "transfers": 226,
+          "share_pct": 16.3
+        },
+        {
+          "hour": 10,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 11,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 12,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 13,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 14,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 15,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 16,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 17,
+          "transfers": 226,
+          "share_pct": 16.3
+        },
+        {
+          "hour": 18,
+          "transfers": 226,
+          "share_pct": 16.3
+        },
+        {
+          "hour": 19,
+          "transfers": 226,
+          "share_pct": 16.3
+        },
+        {
+          "hour": 20,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 21,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 22,
+          "transfers": 182,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 23,
+          "transfers": 182,
+          "share_pct": 13.1
+        }
+      ]
+    },
+    {
+      "station_id": "guindy",
+      "stop_id": "race-course",
+      "stop_name": "GUINDY RACE COURSE",
+      "stop_lat": 13.0125,
+      "stop_lon": 80.2157,
+      "walk_m": 380,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2085,
+      "share_pct": 7.9,
+      "routes": [
+        {
+          "route": "154",
+          "transfers_per_day": 1188,
+          "share_pct": 4.5,
+          "avg_wait_min": 9.0,
+          "headway_min": 15
+        },
+        {
+          "route": "51R",
+          "transfers_per_day": 897,
+          "share_pct": 3.4,
+          "avg_wait_min": 8.5,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 6,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 7,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 8,
+          "transfers": 126,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 9,
+          "transfers": 126,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 10,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 11,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 12,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 13,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 14,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 15,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 16,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 17,
+          "transfers": 126,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 18,
+          "transfers": 126,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 19,
+          "transfers": 126,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 20,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 21,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 22,
+          "transfers": 101,
+          "share_pct": 7.3
+        },
+        {
+          "hour": 23,
+          "transfers": 101,
+          "share_pct": 7.3
+        }
+      ]
+    },
+    {
+      "station_id": "guindy",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0094,
+      "stop_lon": 80.2133,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 61.4,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 61.4
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 61.4
+        }
+      ]
+    },
+    {
+      "station_id": "saidapet",
+      "stop_id": "saidapet-main",
+      "stop_name": "SAIDAPET MAIN ROAD",
+      "stop_lat": 13.0257,
+      "stop_lon": 80.2215,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2496,
+      "share_pct": 15.8,
+      "routes": [
+        {
+          "route": "M45",
+          "transfers_per_day": 1548,
+          "share_pct": 9.8,
+          "avg_wait_min": 9.1,
+          "headway_min": 12
+        },
+        {
+          "route": "42B",
+          "transfers_per_day": 948,
+          "share_pct": 6.0,
+          "avg_wait_min": 8.2,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 6,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 7,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 8,
+          "transfers": 151,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 9,
+          "transfers": 151,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 10,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 11,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 12,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 13,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 14,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 15,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 16,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 17,
+          "transfers": 151,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 18,
+          "transfers": 151,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 19,
+          "transfers": 151,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 20,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 21,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 22,
+          "transfers": 120,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 23,
+          "transfers": 120,
+          "share_pct": 14.5
+        }
+      ]
+    },
+    {
+      "station_id": "saidapet",
+      "stop_id": "saidapet-jn",
+      "stop_name": "SAIDAPET JUNCTION",
+      "stop_lat": 13.0224,
+      "stop_lon": 80.2243,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1769,
+      "share_pct": 11.2,
+      "routes": [
+        {
+          "route": "49",
+          "transfers_per_day": 1769,
+          "share_pct": 11.2,
+          "avg_wait_min": 9.6,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 6,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 7,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 8,
+          "transfers": 107,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 9,
+          "transfers": 107,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 10,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 11,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 12,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 13,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 14,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 15,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 16,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 17,
+          "transfers": 107,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 18,
+          "transfers": 107,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 19,
+          "transfers": 107,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 20,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 21,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 22,
+          "transfers": 85,
+          "share_pct": 10.3
+        },
+        {
+          "hour": 23,
+          "transfers": 85,
+          "share_pct": 10.3
+        }
+      ]
+    },
+    {
+      "station_id": "saidapet",
+      "stop_id": "saidapet-cross",
+      "stop_name": "SAIDAPET CROSS ROAD",
+      "stop_lat": 13.0264,
+      "stop_lon": 80.2246,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 932,
+      "share_pct": 5.9,
+      "routes": [
+        {
+          "route": "48E",
+          "transfers_per_day": 932,
+          "share_pct": 5.9,
+          "avg_wait_min": 8.6,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 6,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 7,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 8,
+          "transfers": 56,
+          "share_pct": 6.8
+        },
+        {
+          "hour": 9,
+          "transfers": 56,
+          "share_pct": 6.8
+        },
+        {
+          "hour": 10,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 11,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 12,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 13,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 14,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 15,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 16,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 17,
+          "transfers": 56,
+          "share_pct": 6.8
+        },
+        {
+          "hour": 18,
+          "transfers": 56,
+          "share_pct": 6.8
+        },
+        {
+          "hour": 19,
+          "transfers": 56,
+          "share_pct": 6.8
+        },
+        {
+          "hour": 20,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 21,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 22,
+          "transfers": 44,
+          "share_pct": 5.4
+        },
+        {
+          "hour": 23,
+          "transfers": 44,
+          "share_pct": 5.4
+        }
+      ]
+    },
+    {
+      "station_id": "saidapet",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0242,
+      "stop_lon": 80.2227,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 67.1,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 67.1
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 67.1
+        }
+      ]
+    },
+    {
+      "station_id": "teynampet",
+      "stop_id": "teynampet-main",
+      "stop_name": "TEYNAMPET MAIN ROAD",
+      "stop_lat": 13.0422,
+      "stop_lon": 80.2446,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1489,
+      "share_pct": 13.3,
+      "routes": [
+        {
+          "route": "M23",
+          "transfers_per_day": 918,
+          "share_pct": 8.2,
+          "avg_wait_min": 6.2,
+          "headway_min": 12
+        },
+        {
+          "route": "22B",
+          "transfers_per_day": 571,
+          "share_pct": 5.1,
+          "avg_wait_min": 5.6,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 6,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 7,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 8,
+          "transfers": 90,
+          "share_pct": 15.3
+        },
+        {
+          "hour": 9,
+          "transfers": 90,
+          "share_pct": 15.3
+        },
+        {
+          "hour": 10,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 11,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 12,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 13,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 14,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 15,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 16,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 17,
+          "transfers": 90,
+          "share_pct": 15.3
+        },
+        {
+          "hour": 18,
+          "transfers": 90,
+          "share_pct": 15.3
+        },
+        {
+          "hour": 19,
+          "transfers": 90,
+          "share_pct": 15.3
+        },
+        {
+          "hour": 20,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 21,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 22,
+          "transfers": 71,
+          "share_pct": 12.2
+        },
+        {
+          "hour": 23,
+          "transfers": 71,
+          "share_pct": 12.2
+        }
+      ]
+    },
+    {
+      "station_id": "teynampet",
+      "stop_id": "teynampet-jn",
+      "stop_name": "TEYNAMPET JUNCTION",
+      "stop_lat": 13.0389,
+      "stop_lon": 80.2474,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1052,
+      "share_pct": 9.4,
+      "routes": [
+        {
+          "route": "75",
+          "transfers_per_day": 1052,
+          "share_pct": 9.4,
+          "avg_wait_min": 6.5,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 6,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 7,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 8,
+          "transfers": 63,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 9,
+          "transfers": 63,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 10,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 11,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 12,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 13,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 14,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 15,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 16,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 17,
+          "transfers": 63,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 18,
+          "transfers": 63,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 19,
+          "transfers": 63,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 20,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 21,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 22,
+          "transfers": 50,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 23,
+          "transfers": 50,
+          "share_pct": 8.6
+        }
+      ]
+    },
+    {
+      "station_id": "teynampet",
+      "stop_id": "teynampet-cross",
+      "stop_name": "TEYNAMPET CROSS ROAD",
+      "stop_lat": 13.0429,
+      "stop_lon": 80.2477,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 560,
+      "share_pct": 5.0,
+      "routes": [
+        {
+          "route": "42E",
+          "transfers_per_day": 560,
+          "share_pct": 5.0,
+          "avg_wait_min": 5.9,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 6,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 7,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 8,
+          "transfers": 34,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 9,
+          "transfers": 34,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 10,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 11,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 12,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 13,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 14,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 15,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 16,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 17,
+          "transfers": 34,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 18,
+          "transfers": 34,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 19,
+          "transfers": 34,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 20,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 21,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 22,
+          "transfers": 27,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 23,
+          "transfers": 27,
+          "share_pct": 4.6
+        }
+      ]
+    },
+    {
+      "station_id": "teynampet",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0407,
+      "stop_lon": 80.2458,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 72.3,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 72.3
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 72.3
+        }
+      ]
+    },
+    {
+      "station_id": "thousand-lights",
+      "stop_id": "thousand-lights-main",
+      "stop_name": "THOUSAND LIGHTS MAIN ROAD",
+      "stop_lat": 13.0598,
+      "stop_lon": 80.2535,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2361,
+      "share_pct": 14.4,
+      "routes": [
+        {
+          "route": "M13",
+          "transfers_per_day": 1459,
+          "share_pct": 8.9,
+          "avg_wait_min": 8.5,
+          "headway_min": 12
+        },
+        {
+          "route": "22B",
+          "transfers_per_day": 902,
+          "share_pct": 5.5,
+          "avg_wait_min": 7.7,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 6,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 7,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 8,
+          "transfers": 143,
+          "share_pct": 16.6
+        },
+        {
+          "hour": 9,
+          "transfers": 143,
+          "share_pct": 16.6
+        },
+        {
+          "hour": 10,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 11,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 12,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 13,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 14,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 15,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 16,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 17,
+          "transfers": 143,
+          "share_pct": 16.6
+        },
+        {
+          "hour": 18,
+          "transfers": 143,
+          "share_pct": 16.6
+        },
+        {
+          "hour": 19,
+          "transfers": 143,
+          "share_pct": 16.6
+        },
+        {
+          "hour": 20,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 21,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 22,
+          "transfers": 113,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 23,
+          "transfers": 113,
+          "share_pct": 13.2
+        }
+      ]
+    },
+    {
+      "station_id": "thousand-lights",
+      "stop_id": "thousand-lights-jn",
+      "stop_name": "THOUSAND LIGHTS JUNCTION",
+      "stop_lat": 13.0565,
+      "stop_lon": 80.2563,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1672,
+      "share_pct": 10.2,
+      "routes": [
+        {
+          "route": "48",
+          "transfers_per_day": 1672,
+          "share_pct": 10.2,
+          "avg_wait_min": 8.9,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 6,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 7,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 8,
+          "transfers": 100,
+          "share_pct": 11.7
+        },
+        {
+          "hour": 9,
+          "transfers": 100,
+          "share_pct": 11.7
+        },
+        {
+          "hour": 10,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 11,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 12,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 13,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 14,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 15,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 16,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 17,
+          "transfers": 100,
+          "share_pct": 11.7
+        },
+        {
+          "hour": 18,
+          "transfers": 100,
+          "share_pct": 11.7
+        },
+        {
+          "hour": 19,
+          "transfers": 100,
+          "share_pct": 11.7
+        },
+        {
+          "hour": 20,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 21,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 22,
+          "transfers": 81,
+          "share_pct": 9.4
+        },
+        {
+          "hour": 23,
+          "transfers": 81,
+          "share_pct": 9.4
+        }
+      ]
+    },
+    {
+      "station_id": "thousand-lights",
+      "stop_id": "thousand-lights-cross",
+      "stop_name": "THOUSAND LIGHTS CROSS ROAD",
+      "stop_lat": 13.0605,
+      "stop_lon": 80.2566,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 869,
+      "share_pct": 5.3,
+      "routes": [
+        {
+          "route": "54E",
+          "transfers_per_day": 869,
+          "share_pct": 5.3,
+          "avg_wait_min": 8.1,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 6,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 7,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 8,
+          "transfers": 52,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 9,
+          "transfers": 52,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 10,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 11,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 12,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 13,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 14,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 15,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 16,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 17,
+          "transfers": 52,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 18,
+          "transfers": 52,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 19,
+          "transfers": 52,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 20,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 21,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 22,
+          "transfers": 42,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 23,
+          "transfers": 42,
+          "share_pct": 4.9
+        }
+      ]
+    },
+    {
+      "station_id": "thousand-lights",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0583,
+      "stop_lon": 80.2547,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 70.1,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 70.1
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 70.1
+        }
+      ]
+    },
+    {
+      "station_id": "lic",
+      "stop_id": "lic-main",
+      "stop_name": "LIC MAIN ROAD",
+      "stop_lat": 13.0682,
+      "stop_lon": 80.263,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1830,
+      "share_pct": 14.3,
+      "routes": [
+        {
+          "route": "M74",
+          "transfers_per_day": 1139,
+          "share_pct": 8.9,
+          "avg_wait_min": 5.8,
+          "headway_min": 12
+        },
+        {
+          "route": "14B",
+          "transfers_per_day": 691,
+          "share_pct": 5.4,
+          "avg_wait_min": 5.2,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 6,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 7,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 8,
+          "transfers": 110,
+          "share_pct": 16.4
+        },
+        {
+          "hour": 9,
+          "transfers": 110,
+          "share_pct": 16.4
+        },
+        {
+          "hour": 10,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 11,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 12,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 13,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 14,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 15,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 16,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 17,
+          "transfers": 110,
+          "share_pct": 16.4
+        },
+        {
+          "hour": 18,
+          "transfers": 110,
+          "share_pct": 16.4
+        },
+        {
+          "hour": 19,
+          "transfers": 110,
+          "share_pct": 16.4
+        },
+        {
+          "hour": 20,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 21,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 22,
+          "transfers": 88,
+          "share_pct": 13.2
+        },
+        {
+          "hour": 23,
+          "transfers": 88,
+          "share_pct": 13.2
+        }
+      ]
+    },
+    {
+      "station_id": "lic",
+      "stop_id": "lic-jn",
+      "stop_name": "LIC JUNCTION",
+      "stop_lat": 13.0649,
+      "stop_lon": 80.2658,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1292,
+      "share_pct": 10.1,
+      "routes": [
+        {
+          "route": "46",
+          "transfers_per_day": 1292,
+          "share_pct": 10.1,
+          "avg_wait_min": 6.1,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 6,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 7,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 8,
+          "transfers": 78,
+          "share_pct": 11.6
+        },
+        {
+          "hour": 9,
+          "transfers": 78,
+          "share_pct": 11.6
+        },
+        {
+          "hour": 10,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 11,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 12,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 13,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 14,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 15,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 16,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 17,
+          "transfers": 78,
+          "share_pct": 11.6
+        },
+        {
+          "hour": 18,
+          "transfers": 78,
+          "share_pct": 11.6
+        },
+        {
+          "hour": 19,
+          "transfers": 78,
+          "share_pct": 11.6
+        },
+        {
+          "hour": 20,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 21,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 22,
+          "transfers": 62,
+          "share_pct": 9.3
+        },
+        {
+          "hour": 23,
+          "transfers": 62,
+          "share_pct": 9.3
+        }
+      ]
+    },
+    {
+      "station_id": "lic",
+      "stop_id": "lic-cross",
+      "stop_name": "LIC CROSS ROAD",
+      "stop_lat": 13.0689,
+      "stop_lon": 80.2661,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 678,
+      "share_pct": 5.3,
+      "routes": [
+        {
+          "route": "85E",
+          "transfers_per_day": 678,
+          "share_pct": 5.3,
+          "avg_wait_min": 5.5,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 6,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 7,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 8,
+          "transfers": 41,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 9,
+          "transfers": 41,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 10,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 11,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 12,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 13,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 14,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 15,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 16,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 17,
+          "transfers": 41,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 18,
+          "transfers": 41,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 19,
+          "transfers": 41,
+          "share_pct": 6.1
+        },
+        {
+          "hour": 20,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 21,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 22,
+          "transfers": 33,
+          "share_pct": 4.9
+        },
+        {
+          "hour": 23,
+          "transfers": 33,
+          "share_pct": 4.9
+        }
+      ]
+    },
+    {
+      "station_id": "lic",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0667,
+      "stop_lon": 80.2642,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 70.3,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 70.3
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 70.3
+        }
+      ]
+    },
+    {
+      "station_id": "government-estate",
+      "stop_id": "government-estate-main",
+      "stop_name": "GOVERNMENT ESTATE MAIN ROAD",
+      "stop_lat": 13.0721,
+      "stop_lon": 80.2724,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1146,
+      "share_pct": 12.2,
+      "routes": [
+        {
+          "route": "M93",
+          "transfers_per_day": 714,
+          "share_pct": 7.6,
+          "avg_wait_min": 4.8,
+          "headway_min": 12
+        },
+        {
+          "route": "64B",
+          "transfers_per_day": 432,
+          "share_pct": 4.6,
+          "avg_wait_min": 4.3,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 6,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 7,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 8,
+          "transfers": 69,
+          "share_pct": 14.0
+        },
+        {
+          "hour": 9,
+          "transfers": 69,
+          "share_pct": 14.0
+        },
+        {
+          "hour": 10,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 11,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 12,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 13,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 14,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 15,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 16,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 17,
+          "transfers": 69,
+          "share_pct": 14.0
+        },
+        {
+          "hour": 18,
+          "transfers": 69,
+          "share_pct": 14.0
+        },
+        {
+          "hour": 19,
+          "transfers": 69,
+          "share_pct": 14.0
+        },
+        {
+          "hour": 20,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 21,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 22,
+          "transfers": 55,
+          "share_pct": 11.2
+        },
+        {
+          "hour": 23,
+          "transfers": 55,
+          "share_pct": 11.2
+        }
+      ]
+    },
+    {
+      "station_id": "government-estate",
+      "stop_id": "government-estate-jn",
+      "stop_name": "GOVERNMENT ESTATE JUNCTION",
+      "stop_lat": 13.0688,
+      "stop_lon": 80.2752,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 817,
+      "share_pct": 8.7,
+      "routes": [
+        {
+          "route": "49",
+          "transfers_per_day": 817,
+          "share_pct": 8.7,
+          "avg_wait_min": 5.0,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 6,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 7,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 8,
+          "transfers": 49,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 9,
+          "transfers": 49,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 10,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 11,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 12,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 13,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 14,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 15,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 16,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 17,
+          "transfers": 49,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 18,
+          "transfers": 49,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 19,
+          "transfers": 49,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 20,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 21,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 22,
+          "transfers": 39,
+          "share_pct": 8.0
+        },
+        {
+          "hour": 23,
+          "transfers": 39,
+          "share_pct": 8.0
+        }
+      ]
+    },
+    {
+      "station_id": "government-estate",
+      "stop_id": "government-estate-cross",
+      "stop_name": "GOVERNMENT ESTATE CROSS ROAD",
+      "stop_lat": 13.0728,
+      "stop_lon": 80.2755,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 432,
+      "share_pct": 4.6,
+      "routes": [
+        {
+          "route": "68E",
+          "transfers_per_day": 432,
+          "share_pct": 4.6,
+          "avg_wait_min": 4.6,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 6,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 7,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 8,
+          "transfers": 26,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 9,
+          "transfers": 26,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 10,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 11,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 12,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 13,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 14,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 15,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 16,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 17,
+          "transfers": 26,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 18,
+          "transfers": 26,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 19,
+          "transfers": 26,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 20,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 21,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 22,
+          "transfers": 20,
+          "share_pct": 4.2
+        },
+        {
+          "hour": 23,
+          "transfers": 20,
+          "share_pct": 4.2
+        }
+      ]
+    },
+    {
+      "station_id": "government-estate",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0706,
+      "stop_lon": 80.2736,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 74.5,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 74.5
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 74.5
+        }
+      ]
+    },
+    {
+      "station_id": "central",
+      "stop_id": "central-bs",
+      "stop_name": "CENTRAL BUS STAND",
+      "stop_lat": 13.0842,
+      "stop_lon": 80.2752,
+      "walk_m": 180,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 5451,
+      "share_pct": 15.8,
+      "routes": [
+        {
+          "route": "11G",
+          "transfers_per_day": 2484,
+          "share_pct": 7.2,
+          "avg_wait_min": 13.5,
+          "headway_min": 12
+        },
+        {
+          "route": "17D",
+          "transfers_per_day": 1759,
+          "share_pct": 5.1,
+          "avg_wait_min": 12.0,
+          "headway_min": 15
+        },
+        {
+          "route": "28",
+          "transfers_per_day": 1207,
+          "share_pct": 3.5,
+          "avg_wait_min": 11.0,
+          "headway_min": 10
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 6,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 7,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 8,
+          "transfers": 330,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 9,
+          "transfers": 330,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 10,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 11,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 12,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 13,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 14,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 15,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 16,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 17,
+          "transfers": 330,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 18,
+          "transfers": 330,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 19,
+          "transfers": 330,
+          "share_pct": 18.2
+        },
+        {
+          "hour": 20,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 21,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 22,
+          "transfers": 263,
+          "share_pct": 14.5
+        },
+        {
+          "hour": 23,
+          "transfers": 263,
+          "share_pct": 14.5
+        }
+      ]
+    },
+    {
+      "station_id": "central",
+      "stop_id": "gh-corner",
+      "stop_name": "GOVT HOSPITAL / PARK",
+      "stop_lat": 13.0805,
+      "stop_lon": 80.2774,
+      "walk_m": 250,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 4278,
+      "share_pct": 12.4,
+      "routes": [
+        {
+          "route": "1A",
+          "transfers_per_day": 2346,
+          "share_pct": 6.8,
+          "avg_wait_min": 14.0,
+          "headway_min": 16
+        },
+        {
+          "route": "2A",
+          "transfers_per_day": 1931,
+          "share_pct": 5.6,
+          "avg_wait_min": 11.2,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 6,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 7,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 8,
+          "transfers": 259,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 9,
+          "transfers": 259,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 10,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 11,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 12,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 13,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 14,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 15,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 16,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 17,
+          "transfers": 259,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 18,
+          "transfers": 259,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 19,
+          "transfers": 259,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 20,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 21,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 22,
+          "transfers": 207,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 23,
+          "transfers": 207,
+          "share_pct": 11.4
+        }
+      ]
+    },
+    {
+      "station_id": "central",
+      "stop_id": "ripon-bldg",
+      "stop_name": "RIPON BUILDING",
+      "stop_lat": 13.0819,
+      "stop_lon": 80.2739,
+      "walk_m": 290,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 3070,
+      "share_pct": 8.9,
+      "routes": [
+        {
+          "route": "159A",
+          "transfers_per_day": 1725,
+          "share_pct": 5.0,
+          "avg_wait_min": 10.5,
+          "headway_min": 15
+        },
+        {
+          "route": "60",
+          "transfers_per_day": 1345,
+          "share_pct": 3.9,
+          "avg_wait_min": 9.8,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 6,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 7,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 8,
+          "transfers": 185,
+          "share_pct": 10.2
+        },
+        {
+          "hour": 9,
+          "transfers": 185,
+          "share_pct": 10.2
+        },
+        {
+          "hour": 10,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 11,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 12,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 13,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 14,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 15,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 16,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 17,
+          "transfers": 185,
+          "share_pct": 10.2
+        },
+        {
+          "hour": 18,
+          "transfers": 185,
+          "share_pct": 10.2
+        },
+        {
+          "hour": 19,
+          "transfers": 185,
+          "share_pct": 10.2
+        },
+        {
+          "hour": 20,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 21,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 22,
+          "transfers": 148,
+          "share_pct": 8.2
+        },
+        {
+          "hour": 23,
+          "transfers": 148,
+          "share_pct": 8.2
+        }
+      ]
+    },
+    {
+      "station_id": "central",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0827,
+      "stop_lon": 80.2764,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 62.9,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 62.9
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 62.9
+        }
+      ]
+    },
+    {
+      "station_id": "egmore",
+      "stop_id": "egmore-main",
+      "stop_name": "EGMORE MAIN ROAD",
+      "stop_lat": 13.0807,
+      "stop_lon": 80.2599,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2930,
+      "share_pct": 16.1,
+      "routes": [
+        {
+          "route": "M85",
+          "transfers_per_day": 1820,
+          "share_pct": 10.0,
+          "avg_wait_min": 7.9,
+          "headway_min": 12
+        },
+        {
+          "route": "46B",
+          "transfers_per_day": 1110,
+          "share_pct": 6.1,
+          "avg_wait_min": 7.1,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 6,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 7,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 8,
+          "transfers": 177,
+          "share_pct": 18.5
+        },
+        {
+          "hour": 9,
+          "transfers": 177,
+          "share_pct": 18.5
+        },
+        {
+          "hour": 10,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 11,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 12,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 13,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 14,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 15,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 16,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 17,
+          "transfers": 177,
+          "share_pct": 18.5
+        },
+        {
+          "hour": 18,
+          "transfers": 177,
+          "share_pct": 18.5
+        },
+        {
+          "hour": 19,
+          "transfers": 177,
+          "share_pct": 18.5
+        },
+        {
+          "hour": 20,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 21,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 22,
+          "transfers": 141,
+          "share_pct": 14.8
+        },
+        {
+          "hour": 23,
+          "transfers": 141,
+          "share_pct": 14.8
+        }
+      ]
+    },
+    {
+      "station_id": "egmore",
+      "stop_id": "egmore-jn",
+      "stop_name": "EGMORE JUNCTION",
+      "stop_lat": 13.0774,
+      "stop_lon": 80.2627,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2074,
+      "share_pct": 11.4,
+      "routes": [
+        {
+          "route": "21",
+          "transfers_per_day": 2074,
+          "share_pct": 11.4,
+          "avg_wait_min": 8.3,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 6,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 7,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 8,
+          "transfers": 125,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 9,
+          "transfers": 125,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 10,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 11,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 12,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 13,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 14,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 15,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 16,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 17,
+          "transfers": 125,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 18,
+          "transfers": 125,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 19,
+          "transfers": 125,
+          "share_pct": 13.1
+        },
+        {
+          "hour": 20,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 21,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 22,
+          "transfers": 100,
+          "share_pct": 10.5
+        },
+        {
+          "hour": 23,
+          "transfers": 100,
+          "share_pct": 10.5
+        }
+      ]
+    },
+    {
+      "station_id": "egmore",
+      "stop_id": "egmore-cross",
+      "stop_name": "EGMORE CROSS ROAD",
+      "stop_lat": 13.0814,
+      "stop_lon": 80.263,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1092,
+      "share_pct": 6.0,
+      "routes": [
+        {
+          "route": "88E",
+          "transfers_per_day": 1092,
+          "share_pct": 6.0,
+          "avg_wait_min": 7.5,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 6,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 7,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 8,
+          "transfers": 66,
+          "share_pct": 6.9
+        },
+        {
+          "hour": 9,
+          "transfers": 66,
+          "share_pct": 6.9
+        },
+        {
+          "hour": 10,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 11,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 12,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 13,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 14,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 15,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 16,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 17,
+          "transfers": 66,
+          "share_pct": 6.9
+        },
+        {
+          "hour": 18,
+          "transfers": 66,
+          "share_pct": 6.9
+        },
+        {
+          "hour": 19,
+          "transfers": 66,
+          "share_pct": 6.9
+        },
+        {
+          "hour": 20,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 21,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 22,
+          "transfers": 52,
+          "share_pct": 5.5
+        },
+        {
+          "hour": 23,
+          "transfers": 52,
+          "share_pct": 5.5
+        }
+      ]
+    },
+    {
+      "station_id": "egmore",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0792,
+      "stop_lon": 80.2611,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 66.5,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 66.5
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 66.5
+        }
+      ]
+    },
+    {
+      "station_id": "kilpauk",
+      "stop_id": "kilpauk-main",
+      "stop_name": "KILPAUK MAIN ROAD",
+      "stop_lat": 13.0798,
+      "stop_lon": 80.2427,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1386,
+      "share_pct": 13.2,
+      "routes": [
+        {
+          "route": "M30",
+          "transfers_per_day": 860,
+          "share_pct": 8.2,
+          "avg_wait_min": 6.5,
+          "headway_min": 12
+        },
+        {
+          "route": "65B",
+          "transfers_per_day": 525,
+          "share_pct": 5.0,
+          "avg_wait_min": 5.9,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 6,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 7,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 8,
+          "transfers": 84,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 9,
+          "transfers": 84,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 10,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 11,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 12,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 13,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 14,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 15,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 16,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 17,
+          "transfers": 84,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 18,
+          "transfers": 84,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 19,
+          "transfers": 84,
+          "share_pct": 15.2
+        },
+        {
+          "hour": 20,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 21,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 22,
+          "transfers": 66,
+          "share_pct": 12.1
+        },
+        {
+          "hour": 23,
+          "transfers": 66,
+          "share_pct": 12.1
+        }
+      ]
+    },
+    {
+      "station_id": "kilpauk",
+      "stop_id": "kilpauk-jn",
+      "stop_name": "KILPAUK JUNCTION",
+      "stop_lat": 13.0765,
+      "stop_lon": 80.2455,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 987,
+      "share_pct": 9.4,
+      "routes": [
+        {
+          "route": "64",
+          "transfers_per_day": 987,
+          "share_pct": 9.4,
+          "avg_wait_min": 6.8,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 6,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 7,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 8,
+          "transfers": 59,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 9,
+          "transfers": 59,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 10,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 11,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 12,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 13,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 14,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 15,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 16,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 17,
+          "transfers": 59,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 18,
+          "transfers": 59,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 19,
+          "transfers": 59,
+          "share_pct": 10.8
+        },
+        {
+          "hour": 20,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 21,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 22,
+          "transfers": 47,
+          "share_pct": 8.6
+        },
+        {
+          "hour": 23,
+          "transfers": 47,
+          "share_pct": 8.6
+        }
+      ]
+    },
+    {
+      "station_id": "kilpauk",
+      "stop_id": "kilpauk-cross",
+      "stop_name": "KILPAUK CROSS ROAD",
+      "stop_lat": 13.0805,
+      "stop_lon": 80.2458,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 525,
+      "share_pct": 5.0,
+      "routes": [
+        {
+          "route": "57E",
+          "transfers_per_day": 525,
+          "share_pct": 5.0,
+          "avg_wait_min": 6.2,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 6,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 7,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 8,
+          "transfers": 32,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 9,
+          "transfers": 32,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 10,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 11,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 12,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 13,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 14,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 15,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 16,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 17,
+          "transfers": 32,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 18,
+          "transfers": 32,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 19,
+          "transfers": 32,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 20,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 21,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 22,
+          "transfers": 25,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 23,
+          "transfers": 25,
+          "share_pct": 4.6
+        }
+      ]
+    },
+    {
+      "station_id": "kilpauk",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0783,
+      "stop_lon": 80.2439,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 72.4,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 72.4
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 72.4
+        }
+      ]
+    },
+    {
+      "station_id": "anna-nagar-tower",
+      "stop_id": "anna-nagar-tower-main",
+      "stop_name": "ANNA NAGAR TOWER MAIN ROAD",
+      "stop_lat": 13.0868,
+      "stop_lon": 80.2121,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1876,
+      "share_pct": 14.0,
+      "routes": [
+        {
+          "route": "M29",
+          "transfers_per_day": 1165,
+          "share_pct": 8.7,
+          "avg_wait_min": 7.4,
+          "headway_min": 12
+        },
+        {
+          "route": "38B",
+          "transfers_per_day": 710,
+          "share_pct": 5.3,
+          "avg_wait_min": 6.7,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 6,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 7,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 8,
+          "transfers": 113,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 9,
+          "transfers": 113,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 10,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 11,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 12,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 13,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 14,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 15,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 16,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 17,
+          "transfers": 113,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 18,
+          "transfers": 113,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 19,
+          "transfers": 113,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 20,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 21,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 22,
+          "transfers": 90,
+          "share_pct": 12.9
+        },
+        {
+          "hour": 23,
+          "transfers": 90,
+          "share_pct": 12.9
+        }
+      ]
+    },
+    {
+      "station_id": "anna-nagar-tower",
+      "stop_id": "anna-nagar-tower-jn",
+      "stop_name": "ANNA NAGAR TOWER JUNCTION",
+      "stop_lat": 13.0835,
+      "stop_lon": 80.2149,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1326,
+      "share_pct": 9.9,
+      "routes": [
+        {
+          "route": "64",
+          "transfers_per_day": 1326,
+          "share_pct": 9.9,
+          "avg_wait_min": 7.8,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 6,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 7,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 8,
+          "transfers": 80,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 9,
+          "transfers": 80,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 10,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 11,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 12,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 13,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 14,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 15,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 16,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 17,
+          "transfers": 80,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 18,
+          "transfers": 80,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 19,
+          "transfers": 80,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 20,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 21,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 22,
+          "transfers": 64,
+          "share_pct": 9.1
+        },
+        {
+          "hour": 23,
+          "transfers": 64,
+          "share_pct": 9.1
+        }
+      ]
+    },
+    {
+      "station_id": "anna-nagar-tower",
+      "stop_id": "anna-nagar-tower-cross",
+      "stop_name": "ANNA NAGAR TOWER CROSS ROAD",
+      "stop_lat": 13.0875,
+      "stop_lon": 80.2152,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 696,
+      "share_pct": 5.2,
+      "routes": [
+        {
+          "route": "46E",
+          "transfers_per_day": 696,
+          "share_pct": 5.2,
+          "avg_wait_min": 7.0,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 6,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 7,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 8,
+          "transfers": 42,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 9,
+          "transfers": 42,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 10,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 11,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 12,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 13,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 14,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 15,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 16,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 17,
+          "transfers": 42,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 18,
+          "transfers": 42,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 19,
+          "transfers": 42,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 20,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 21,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 22,
+          "transfers": 33,
+          "share_pct": 4.8
+        },
+        {
+          "hour": 23,
+          "transfers": 33,
+          "share_pct": 4.8
+        }
+      ]
+    },
+    {
+      "station_id": "anna-nagar-tower",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0853,
+      "stop_lon": 80.2133,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 70.9,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 70.9
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 70.9
+        }
+      ]
+    },
+    {
+      "station_id": "thirumangalam",
+      "stop_id": "thirumangalam-main",
+      "stop_name": "THIRUMANGALAM MAIN ROAD",
+      "stop_lat": 13.0865,
+      "stop_lon": 80.1927,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 3465,
+      "share_pct": 17.5,
+      "routes": [
+        {
+          "route": "M21",
+          "transfers_per_day": 2138,
+          "share_pct": 10.8,
+          "avg_wait_min": 10.6,
+          "headway_min": 12
+        },
+        {
+          "route": "59B",
+          "transfers_per_day": 1326,
+          "share_pct": 6.7,
+          "avg_wait_min": 9.5,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 6,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 7,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 8,
+          "transfers": 209,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 9,
+          "transfers": 209,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 10,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 11,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 12,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 13,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 14,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 15,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 16,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 17,
+          "transfers": 209,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 18,
+          "transfers": 209,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 19,
+          "transfers": 209,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 20,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 21,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 22,
+          "transfers": 167,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 23,
+          "transfers": 167,
+          "share_pct": 16.1
+        }
+      ]
+    },
+    {
+      "station_id": "thirumangalam",
+      "stop_id": "thirumangalam-jn",
+      "stop_name": "THIRUMANGALAM JUNCTION",
+      "stop_lat": 13.0832,
+      "stop_lon": 80.1955,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2455,
+      "share_pct": 12.4,
+      "routes": [
+        {
+          "route": "33",
+          "transfers_per_day": 2455,
+          "share_pct": 12.4,
+          "avg_wait_min": 11.1,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 6,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 7,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 8,
+          "transfers": 149,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 9,
+          "transfers": 149,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 10,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 11,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 12,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 13,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 14,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 15,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 16,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 17,
+          "transfers": 149,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 18,
+          "transfers": 149,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 19,
+          "transfers": 149,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 20,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 21,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 22,
+          "transfers": 118,
+          "share_pct": 11.4
+        },
+        {
+          "hour": 23,
+          "transfers": 118,
+          "share_pct": 11.4
+        }
+      ]
+    },
+    {
+      "station_id": "thirumangalam",
+      "stop_id": "thirumangalam-cross",
+      "stop_name": "THIRUMANGALAM CROSS ROAD",
+      "stop_lat": 13.0872,
+      "stop_lon": 80.1958,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1287,
+      "share_pct": 6.5,
+      "routes": [
+        {
+          "route": "62E",
+          "transfers_per_day": 1287,
+          "share_pct": 6.5,
+          "avg_wait_min": 10.1,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 6,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 7,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 8,
+          "transfers": 78,
+          "share_pct": 7.5
+        },
+        {
+          "hour": 9,
+          "transfers": 78,
+          "share_pct": 7.5
+        },
+        {
+          "hour": 10,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 11,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 12,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 13,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 14,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 15,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 16,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 17,
+          "transfers": 78,
+          "share_pct": 7.5
+        },
+        {
+          "hour": 18,
+          "transfers": 78,
+          "share_pct": 7.5
+        },
+        {
+          "hour": 19,
+          "transfers": 78,
+          "share_pct": 7.5
+        },
+        {
+          "hour": 20,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 21,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 22,
+          "transfers": 62,
+          "share_pct": 6.0
+        },
+        {
+          "hour": 23,
+          "transfers": 62,
+          "share_pct": 6.0
+        }
+      ]
+    },
+    {
+      "station_id": "thirumangalam",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.085,
+      "stop_lon": 80.1939,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 63.6,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 63.6
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 63.6
+        }
+      ]
+    },
+    {
+      "station_id": "koyambedu",
+      "stop_id": "cmbt-mfs",
+      "stop_name": "CMBT MAFATLAL / MTC TERM",
+      "stop_lat": 13.0751,
+      "stop_lon": 80.1941,
+      "walk_m": 220,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 5057,
+      "share_pct": 17.5,
+      "routes": [
+        {
+          "route": "70A",
+          "transfers_per_day": 2456,
+          "share_pct": 8.5,
+          "avg_wait_min": 14.5,
+          "headway_min": 14
+        },
+        {
+          "route": "27B",
+          "transfers_per_day": 1502,
+          "share_pct": 5.2,
+          "avg_wait_min": 12.8,
+          "headway_min": 12
+        },
+        {
+          "route": "101",
+          "transfers_per_day": 1098,
+          "share_pct": 3.8,
+          "avg_wait_min": 11.2,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 6,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 7,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 8,
+          "transfers": 305,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 9,
+          "transfers": 305,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 10,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 11,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 12,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 13,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 14,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 15,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 16,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 17,
+          "transfers": 305,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 18,
+          "transfers": 305,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 19,
+          "transfers": 305,
+          "share_pct": 20.1
+        },
+        {
+          "hour": 20,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 21,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 22,
+          "transfers": 244,
+          "share_pct": 16.1
+        },
+        {
+          "hour": 23,
+          "transfers": 244,
+          "share_pct": 16.1
+        }
+      ]
+    },
+    {
+      "station_id": "koyambedu",
+      "stop_id": "koyambedu-market",
+      "stop_name": "KOYAMBEDU WHOLESALE MKT",
+      "stop_lat": 13.0761,
+      "stop_lon": 80.1977,
+      "walk_m": 360,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 3988,
+      "share_pct": 13.8,
+      "routes": [
+        {
+          "route": "15F",
+          "transfers_per_day": 2138,
+          "share_pct": 7.4,
+          "avg_wait_min": 13.0,
+          "headway_min": 15
+        },
+        {
+          "route": "16J",
+          "transfers_per_day": 1849,
+          "share_pct": 6.4,
+          "avg_wait_min": 12.2,
+          "headway_min": 16
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 6,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 7,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 8,
+          "transfers": 241,
+          "share_pct": 15.9
+        },
+        {
+          "hour": 9,
+          "transfers": 241,
+          "share_pct": 15.9
+        },
+        {
+          "hour": 10,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 11,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 12,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 13,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 14,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 15,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 16,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 17,
+          "transfers": 241,
+          "share_pct": 15.9
+        },
+        {
+          "hour": 18,
+          "transfers": 241,
+          "share_pct": 15.9
+        },
+        {
+          "hour": 19,
+          "transfers": 241,
+          "share_pct": 15.9
+        },
+        {
+          "hour": 20,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 21,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 22,
+          "transfers": 193,
+          "share_pct": 12.7
+        },
+        {
+          "hour": 23,
+          "transfers": 193,
+          "share_pct": 12.7
+        }
+      ]
+    },
+    {
+      "station_id": "koyambedu",
+      "stop_id": "rohinic-theatre",
+      "stop_name": "ROHINI COMPLEX",
+      "stop_lat": 13.0711,
+      "stop_lon": 80.1974,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2456,
+      "share_pct": 8.5,
+      "routes": [
+        {
+          "route": "46",
+          "transfers_per_day": 1387,
+          "share_pct": 4.8,
+          "avg_wait_min": 11.5,
+          "headway_min": 20
+        },
+        {
+          "route": "591",
+          "transfers_per_day": 1069,
+          "share_pct": 3.7,
+          "avg_wait_min": 10.0,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 6,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 7,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 8,
+          "transfers": 149,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 9,
+          "transfers": 149,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 10,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 11,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 12,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 13,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 14,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 15,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 16,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 17,
+          "transfers": 149,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 18,
+          "transfers": 149,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 19,
+          "transfers": 149,
+          "share_pct": 9.8
+        },
+        {
+          "hour": 20,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 21,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 22,
+          "transfers": 118,
+          "share_pct": 7.8
+        },
+        {
+          "hour": 23,
+          "transfers": 118,
+          "share_pct": 7.8
+        }
+      ]
+    },
+    {
+      "station_id": "koyambedu",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0733,
+      "stop_lon": 80.1956,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 60.2,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 60.2
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 60.2
+        }
+      ]
+    },
+    {
+      "station_id": "vadapalani",
+      "stop_id": "vadapalani-bs",
+      "stop_name": "VADAPALANI BUS STAND",
+      "stop_lat": 13.0498,
+      "stop_lon": 80.2109,
+      "walk_m": 220,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 3788,
+      "share_pct": 16.4,
+      "routes": [
+        {
+          "route": "17M",
+          "transfers_per_day": 1894,
+          "share_pct": 8.2,
+          "avg_wait_min": 11.5,
+          "headway_min": 12
+        },
+        {
+          "route": "25G",
+          "transfers_per_day": 1178,
+          "share_pct": 5.1,
+          "avg_wait_min": 9.8,
+          "headway_min": 14
+        },
+        {
+          "route": "5E",
+          "transfers_per_day": 716,
+          "share_pct": 3.1,
+          "avg_wait_min": 8.4,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 6,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 7,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 8,
+          "transfers": 229,
+          "share_pct": 18.9
+        },
+        {
+          "hour": 9,
+          "transfers": 229,
+          "share_pct": 18.9
+        },
+        {
+          "hour": 10,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 11,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 12,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 13,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 14,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 15,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 16,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 17,
+          "transfers": 229,
+          "share_pct": 18.9
+        },
+        {
+          "hour": 18,
+          "transfers": 229,
+          "share_pct": 18.9
+        },
+        {
+          "hour": 19,
+          "transfers": 229,
+          "share_pct": 18.9
+        },
+        {
+          "hour": 20,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 21,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 22,
+          "transfers": 183,
+          "share_pct": 15.1
+        },
+        {
+          "hour": 23,
+          "transfers": 183,
+          "share_pct": 15.1
+        }
+      ]
+    },
+    {
+      "station_id": "vadapalani",
+      "stop_id": "sims-hospital",
+      "stop_name": "SIMS HOSPITAL / 100FT RD",
+      "stop_lat": 13.0535,
+      "stop_lon": 80.214,
+      "walk_m": 240,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2956,
+      "share_pct": 12.8,
+      "routes": [
+        {
+          "route": "70V",
+          "transfers_per_day": 1663,
+          "share_pct": 7.2,
+          "avg_wait_min": 10.8,
+          "headway_min": 15
+        },
+        {
+          "route": "570",
+          "transfers_per_day": 1293,
+          "share_pct": 5.6,
+          "avg_wait_min": 9.2,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 6,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 7,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 8,
+          "transfers": 178,
+          "share_pct": 14.7
+        },
+        {
+          "hour": 9,
+          "transfers": 178,
+          "share_pct": 14.7
+        },
+        {
+          "hour": 10,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 11,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 12,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 13,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 14,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 15,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 16,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 17,
+          "transfers": 178,
+          "share_pct": 14.7
+        },
+        {
+          "hour": 18,
+          "transfers": 178,
+          "share_pct": 14.7
+        },
+        {
+          "hour": 19,
+          "transfers": 178,
+          "share_pct": 14.7
+        },
+        {
+          "hour": 20,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 21,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 22,
+          "transfers": 143,
+          "share_pct": 11.8
+        },
+        {
+          "hour": 23,
+          "transfers": 143,
+          "share_pct": 11.8
+        }
+      ]
+    },
+    {
+      "station_id": "vadapalani",
+      "stop_id": "forum-mall",
+      "stop_name": "FORUM VIJAYA MALL",
+      "stop_lat": 13.0505,
+      "stop_lon": 80.2152,
+      "walk_m": 310,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1848,
+      "share_pct": 8.0,
+      "routes": [
+        {
+          "route": "12BET",
+          "transfers_per_day": 1039,
+          "share_pct": 4.5,
+          "avg_wait_min": 8.8,
+          "headway_min": 16
+        },
+        {
+          "route": "88",
+          "transfers_per_day": 808,
+          "share_pct": 3.5,
+          "avg_wait_min": 8.0,
+          "headway_min": 20
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 6,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 7,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 8,
+          "transfers": 111,
+          "share_pct": 9.2
+        },
+        {
+          "hour": 9,
+          "transfers": 111,
+          "share_pct": 9.2
+        },
+        {
+          "hour": 10,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 11,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 12,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 13,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 14,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 15,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 16,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 17,
+          "transfers": 111,
+          "share_pct": 9.2
+        },
+        {
+          "hour": 18,
+          "transfers": 111,
+          "share_pct": 9.2
+        },
+        {
+          "hour": 19,
+          "transfers": 111,
+          "share_pct": 9.2
+        },
+        {
+          "hour": 20,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 21,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 22,
+          "transfers": 89,
+          "share_pct": 7.4
+        },
+        {
+          "hour": 23,
+          "transfers": 89,
+          "share_pct": 7.4
+        }
+      ]
+    },
+    {
+      "station_id": "vadapalani",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0514,
+      "stop_lon": 80.2128,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 62.8,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 62.8
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 62.8
+        }
+      ]
+    },
+    {
+      "station_id": "ashok-nagar",
+      "stop_id": "ashok-nagar-main",
+      "stop_name": "ASHOK NAGAR MAIN ROAD",
+      "stop_lat": 13.0376,
+      "stop_lon": 80.2102,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1633,
+      "share_pct": 13.5,
+      "routes": [
+        {
+          "route": "M54",
+          "transfers_per_day": 1016,
+          "share_pct": 8.4,
+          "avg_wait_min": 6.1,
+          "headway_min": 12
+        },
+        {
+          "route": "44B",
+          "transfers_per_day": 617,
+          "share_pct": 5.1,
+          "avg_wait_min": 5.5,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 6,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 7,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 8,
+          "transfers": 98,
+          "share_pct": 15.5
+        },
+        {
+          "hour": 9,
+          "transfers": 98,
+          "share_pct": 15.5
+        },
+        {
+          "hour": 10,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 11,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 12,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 13,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 14,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 15,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 16,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 17,
+          "transfers": 98,
+          "share_pct": 15.5
+        },
+        {
+          "hour": 18,
+          "transfers": 98,
+          "share_pct": 15.5
+        },
+        {
+          "hour": 19,
+          "transfers": 98,
+          "share_pct": 15.5
+        },
+        {
+          "hour": 20,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 21,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 22,
+          "transfers": 78,
+          "share_pct": 12.4
+        },
+        {
+          "hour": 23,
+          "transfers": 78,
+          "share_pct": 12.4
+        }
+      ]
+    },
+    {
+      "station_id": "ashok-nagar",
+      "stop_id": "ashok-nagar-jn",
+      "stop_name": "ASHOK NAGAR JUNCTION",
+      "stop_lat": 13.0343,
+      "stop_lon": 80.213,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1161,
+      "share_pct": 9.6,
+      "routes": [
+        {
+          "route": "26",
+          "transfers_per_day": 1161,
+          "share_pct": 9.6,
+          "avg_wait_min": 6.4,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 6,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 7,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 8,
+          "transfers": 70,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 9,
+          "transfers": 70,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 10,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 11,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 12,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 13,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 14,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 15,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 16,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 17,
+          "transfers": 70,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 18,
+          "transfers": 70,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 19,
+          "transfers": 70,
+          "share_pct": 11.0
+        },
+        {
+          "hour": 20,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 21,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 22,
+          "transfers": 56,
+          "share_pct": 8.8
+        },
+        {
+          "hour": 23,
+          "transfers": 56,
+          "share_pct": 8.8
+        }
+      ]
+    },
+    {
+      "station_id": "ashok-nagar",
+      "stop_id": "ashok-nagar-cross",
+      "stop_name": "ASHOK NAGAR CROSS ROAD",
+      "stop_lat": 13.0383,
+      "stop_lon": 80.2133,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 605,
+      "share_pct": 5.0,
+      "routes": [
+        {
+          "route": "86E",
+          "transfers_per_day": 605,
+          "share_pct": 5.0,
+          "avg_wait_min": 5.8,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 6,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 7,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 8,
+          "transfers": 36,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 9,
+          "transfers": 36,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 10,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 11,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 12,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 13,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 14,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 15,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 16,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 17,
+          "transfers": 36,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 18,
+          "transfers": 36,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 19,
+          "transfers": 36,
+          "share_pct": 5.8
+        },
+        {
+          "hour": 20,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 21,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 22,
+          "transfers": 29,
+          "share_pct": 4.6
+        },
+        {
+          "hour": 23,
+          "transfers": 29,
+          "share_pct": 4.6
+        }
+      ]
+    },
+    {
+      "station_id": "ashok-nagar",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.0361,
+      "stop_lon": 80.2114,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 71.9,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 71.9
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 71.9
+        }
+      ]
+    },
+    {
+      "station_id": "washermanpet",
+      "stop_id": "washermanpet-main",
+      "stop_name": "WASHERMANPET MAIN ROAD",
+      "stop_lat": 13.1112,
+      "stop_lon": 80.2832,
+      "walk_m": 190,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 2309,
+      "share_pct": 15.5,
+      "routes": [
+        {
+          "route": "M68",
+          "transfers_per_day": 1430,
+          "share_pct": 9.6,
+          "avg_wait_min": 8.1,
+          "headway_min": 12
+        },
+        {
+          "route": "79B",
+          "transfers_per_day": 879,
+          "share_pct": 5.9,
+          "avg_wait_min": 7.3,
+          "headway_min": 15
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 6,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 7,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 8,
+          "transfers": 139,
+          "share_pct": 17.8
+        },
+        {
+          "hour": 9,
+          "transfers": 139,
+          "share_pct": 17.8
+        },
+        {
+          "hour": 10,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 11,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 12,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 13,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 14,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 15,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 16,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 17,
+          "transfers": 139,
+          "share_pct": 17.8
+        },
+        {
+          "hour": 18,
+          "transfers": 139,
+          "share_pct": 17.8
+        },
+        {
+          "hour": 19,
+          "transfers": 139,
+          "share_pct": 17.8
+        },
+        {
+          "hour": 20,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 21,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 22,
+          "transfers": 112,
+          "share_pct": 14.3
+        },
+        {
+          "hour": 23,
+          "transfers": 112,
+          "share_pct": 14.3
+        }
+      ]
+    },
+    {
+      "station_id": "washermanpet",
+      "stop_id": "washermanpet-jn",
+      "stop_name": "WASHERMANPET JUNCTION",
+      "stop_lat": 13.1079,
+      "stop_lon": 80.286,
+      "walk_m": 270,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 1624,
+      "share_pct": 10.9,
+      "routes": [
+        {
+          "route": "36",
+          "transfers_per_day": 1624,
+          "share_pct": 10.9,
+          "avg_wait_min": 8.5,
+          "headway_min": 14
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 6,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 7,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 8,
+          "transfers": 98,
+          "share_pct": 12.5
+        },
+        {
+          "hour": 9,
+          "transfers": 98,
+          "share_pct": 12.5
+        },
+        {
+          "hour": 10,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 11,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 12,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 13,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 14,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 15,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 16,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 17,
+          "transfers": 98,
+          "share_pct": 12.5
+        },
+        {
+          "hour": 18,
+          "transfers": 98,
+          "share_pct": 12.5
+        },
+        {
+          "hour": 19,
+          "transfers": 98,
+          "share_pct": 12.5
+        },
+        {
+          "hour": 20,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 21,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 22,
+          "transfers": 78,
+          "share_pct": 10.0
+        },
+        {
+          "hour": 23,
+          "transfers": 78,
+          "share_pct": 10.0
+        }
+      ]
+    },
+    {
+      "station_id": "washermanpet",
+      "stop_id": "washermanpet-cross",
+      "stop_name": "WASHERMANPET CROSS ROAD",
+      "stop_lat": 13.1119,
+      "stop_lon": 80.2863,
+      "walk_m": 340,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 864,
+      "share_pct": 5.8,
+      "routes": [
+        {
+          "route": "99E",
+          "transfers_per_day": 864,
+          "share_pct": 5.8,
+          "avg_wait_min": 7.7,
+          "headway_min": 18
+        }
+      ],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 6,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 7,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 8,
+          "transfers": 52,
+          "share_pct": 6.7
+        },
+        {
+          "hour": 9,
+          "transfers": 52,
+          "share_pct": 6.7
+        },
+        {
+          "hour": 10,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 11,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 12,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 13,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 14,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 15,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 16,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 17,
+          "transfers": 52,
+          "share_pct": 6.7
+        },
+        {
+          "hour": 18,
+          "transfers": 52,
+          "share_pct": 6.7
+        },
+        {
+          "hour": 19,
+          "transfers": 52,
+          "share_pct": 6.7
+        },
+        {
+          "hour": 20,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 21,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 22,
+          "transfers": 41,
+          "share_pct": 5.3
+        },
+        {
+          "hour": 23,
+          "transfers": 41,
+          "share_pct": 5.3
+        }
+      ]
+    },
+    {
+      "station_id": "washermanpet",
+      "stop_id": "other",
+      "stop_name": "Walk / auto / not a nearby bus",
+      "stop_lat": 13.1097,
+      "stop_lon": 80.2844,
+      "walk_m": 0,
+      "direction": "metro_to_bus",
+      "transfers_per_day": 0,
+      "share_pct": 67.8,
+      "routes": [],
+      "hourly": [
+        {
+          "hour": 5,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 6,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 7,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 8,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 9,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 10,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 11,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 12,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 13,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 14,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 15,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 16,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 17,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 18,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 19,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 20,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 21,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 22,
+          "transfers": 0,
+          "share_pct": 67.8
+        },
+        {
+          "hour": 23,
+          "transfers": 0,
+          "share_pct": 67.8
+        }
+      ]
+    }
+  ]
+}

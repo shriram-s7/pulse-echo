@@ -1,0 +1,16 @@
+polars
+pyarrow
+pandas
+geopandas
+shapely
+pyproj
+rapidfuzz
+scikit-learn
+statsmodels
+scipy
+openpyxl
+pyyaml
+fastapi
+uvicorn
+paho-mqtt
+matplotlib

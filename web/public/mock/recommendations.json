@@ -1,0 +1,193 @@
+{
+  "summary": {
+    "extra_buses_total": 8,
+    "routes_affected": 8,
+    "passenger_minutes_saved_per_day": 45134
+  },
+  "items": [
+    {
+      "id": "r1",
+      "station_id": "guindy",
+      "route": "21G",
+      "hours": "07:45-09:15",
+      "type": "add_buses",
+      "action": "Add 2 buses on 21G from Guindy, 07:45\u201309:15",
+      "evidence": {
+        "transfers": 1280,
+        "avg_wait_min": 11.4,
+        "headway_min": 15,
+        "boardings_per_trip": 58,
+        "capacity": 60
+      },
+      "extra_buses": 2,
+      "shift_min": 0,
+      "before_after": {
+        "wait_before": 11.4,
+        "wait_after": 5.2
+      },
+      "passenger_minutes_saved_per_day": 7936,
+      "rank": 1
+    },
+    {
+      "id": "r2",
+      "station_id": "koyambedu",
+      "route": "70A",
+      "hours": "08:00-09:30",
+      "type": "bigger_bus",
+      "action": "Deploy vestibuled/articulated buses on 70A at Koyambedu",
+      "evidence": {
+        "transfers": 1420,
+        "avg_wait_min": 14.5,
+        "headway_min": 14,
+        "boardings_per_trip": 65,
+        "capacity": 60
+      },
+      "extra_buses": 0,
+      "shift_min": 0,
+      "before_after": {
+        "wait_before": 14.5,
+        "wait_after": 7.8
+      },
+      "passenger_minutes_saved_per_day": 9514,
+      "rank": 2
+    },
+    {
+      "id": "r3",
+      "station_id": "central",
+      "route": "11G",
+      "hours": "07:30-09:00",
+      "type": "retime",
+      "action": "Shift route 11G departure by -2 min to match train pulse arrival",
+      "evidence": {
+        "transfers": 1150,
+        "avg_wait_min": 13.5,
+        "headway_min": 12,
+        "boardings_per_trip": 59,
+        "capacity": 60
+      },
+      "extra_buses": 0,
+      "shift_min": -2,
+      "before_after": {
+        "wait_before": 13.5,
+        "wait_after": 6.1
+      },
+      "passenger_minutes_saved_per_day": 8510,
+      "rank": 3
+    },
+    {
+      "id": "r4",
+      "station_id": "vadapalani",
+      "route": "17M",
+      "hours": "08:15-09:45",
+      "type": "add_buses",
+      "action": "Add 2 short-loop shuttles on 17M towards Porur DLF",
+      "evidence": {
+        "transfers": 980,
+        "avg_wait_min": 11.5,
+        "headway_min": 12,
+        "boardings_per_trip": 56,
+        "capacity": 60
+      },
+      "extra_buses": 2,
+      "shift_min": 0,
+      "before_after": {
+        "wait_before": 11.5,
+        "wait_after": 5.8
+      },
+      "passenger_minutes_saved_per_day": 5586,
+      "rank": 4
+    },
+    {
+      "id": "r5",
+      "station_id": "thirumangalam",
+      "route": "M70",
+      "hours": "08:00-09:30",
+      "type": "new_feeder",
+      "action": "Introduce Mini-Bus Feeder F-70 connecting Thirumangalam Metro to Ambattur OT",
+      "evidence": {
+        "transfers": 870,
+        "avg_wait_min": 10.6,
+        "headway_min": 18,
+        "boardings_per_trip": 48,
+        "capacity": 60
+      },
+      "extra_buses": 3,
+      "shift_min": 0,
+      "before_after": {
+        "wait_before": 10.6,
+        "wait_after": 4.5
+      },
+      "passenger_minutes_saved_per_day": 5307,
+      "rank": 5
+    },
+    {
+      "id": "r6",
+      "station_id": "alandur",
+      "route": "52",
+      "hours": "17:30-19:00",
+      "type": "retime",
+      "action": "Nudge evening 52 departures by +3 min to catch Guindy/Alandur Green line pulse",
+      "evidence": {
+        "transfers": 810,
+        "avg_wait_min": 7.8,
+        "headway_min": 10,
+        "boardings_per_trip": 52,
+        "capacity": 60
+      },
+      "extra_buses": 0,
+      "shift_min": 3,
+      "before_after": {
+        "wait_before": 7.8,
+        "wait_after": 3.9
+      },
+      "passenger_minutes_saved_per_day": 3159,
+      "rank": 6
+    },
+    {
+      "id": "r7",
+      "station_id": "saidapet",
+      "route": "29C",
+      "hours": "08:15-09:30",
+      "type": "add_buses",
+      "action": "Add 1 bus on 29C towards Besant Nagar / Adyar during morning peak",
+      "evidence": {
+        "transfers": 640,
+        "avg_wait_min": 9.1,
+        "headway_min": 15,
+        "boardings_per_trip": 53,
+        "capacity": 60
+      },
+      "extra_buses": 1,
+      "shift_min": 0,
+      "before_after": {
+        "wait_before": 9.1,
+        "wait_after": 4.6
+      },
+      "passenger_minutes_saved_per_day": 2880,
+      "rank": 7
+    },
+    {
+      "id": "r8",
+      "station_id": "egmore",
+      "route": "27B",
+      "hours": "07:45-09:00",
+      "type": "retime",
+      "action": "Retime 27B departures -2 min at Egmore North exit for Anna Salai transfers",
+      "evidence": {
+        "transfers": 590,
+        "avg_wait_min": 7.9,
+        "headway_min": 14,
+        "boardings_per_trip": 49,
+        "capacity": 60
+      },
+      "extra_buses": 0,
+      "shift_min": -2,
+      "before_after": {
+        "wait_before": 7.9,
+        "wait_after": 4.1
+      },
+      "passenger_minutes_saved_per_day": 2242,
+      "rank": 8
+    }
+  ]
+}
