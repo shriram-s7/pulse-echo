@@ -14,3 +14,7 @@ __pycache__/
 data/interim/
 # debug screenshots
 out/debug/
+
+# local documents and raw hackathon data (moved here, not published)
+docs/_local/
+media/
