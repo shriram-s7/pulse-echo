@@ -57,6 +57,13 @@ async function fetchWithTimeout(url: string, timeoutMs: number = 1000): Promise<
 // Check if real API is alive; deduplicate concurrent probes and use fastest host
 async function probeApi(): Promise<boolean> {
   if (apiAvailable) return true;
+  // Hosted demo (e.g. Vercel): no backend, the exported JSON ships as static files in /data
+  if (typeof window !== 'undefined' && !['localhost', '127.0.0.1'].includes(window.location.hostname)) {
+    apiAvailable = true;
+    resolvedApiBase = '/data';
+    setMockStatus(false);
+    return true;
+  }
   if (probePromise) return probePromise;
 
   probePromise = (async () => {
