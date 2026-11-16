@@ -18,3 +18,6 @@ out/debug/
 # local documents and raw hackathon data (moved here, not published)
 docs/_local/
 media/
+
+# Local demo media
+PulseEcho_Demo_Video.mp4
