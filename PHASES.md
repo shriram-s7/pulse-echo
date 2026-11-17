@@ -1,6 +1,6 @@
-# Pulse–Echo — Fast Build Plan (Claude Code or Antigravity, interchangeable)
+# Pulse–Echo — Fast Build Plan (a coding agent or Antigravity, interchangeable)
 
-How to use: put this file in `E:\CUMTA HACKATHON\pulse-echo\`. Open that folder in Claude Code or Antigravity (either works for any prompt). Paste the prompts below in order. Every prompt is self-contained and starts by telling the tool to read this file.
+How to use: put this file in `E:\CUMTA HACKATHON\pulse-echo\`. Open that folder in a coding agent or Antigravity (either works for any prompt). Paste the prompts below in order. Every prompt is self-contained and starts by telling the tool to read this file.
 
 Order:
 - P1 (data + real locations) and P2 (frontend on mock data) run at the same time, in two different tools or windows.
